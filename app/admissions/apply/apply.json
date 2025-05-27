@@ -1,0 +1,108 @@
+{
+    "enrollmentSteps": [
+        {
+            "title": "Step 1: Fill Out Forms & Attach Requirements",
+            "description": "Fill out the enrollment form and attach the requirements."
+        },
+        {
+            "title": "Step 2: Pay Enrollment and SSC Membership Fees",
+            "description": "Proceed to the cashier to settle the enrollment fee and SSC membership fee."
+        },
+        {
+            "title": "Step 3: Submit Forms and Requirements",
+            "description": "Return to the Information Desk to submit your completed enrollment forms and attached requirements."
+        },
+        {
+            "title": "Step 4: Entrance Exam",
+            "description": "Present your admission slip and take the entrance exam at the Guidance Office."
+        }
+    ],
+    "enrollmentRequirements": [
+        {
+            "title": "Elementary Level",
+            "categories": {
+                "New Students": [
+                    "Pay assessment fee",
+                    "Take assessment",
+                    "PSA Birth Certificate",
+                    "Form 138 (Report Card)",
+                    "Fill up enrollment form",
+                    "Pay PTA & SPG membership",
+                    "Pay entrance fee"
+                ],
+                "Old Students": [
+                    "Fill up enrollment form",
+                    "Pay PTA & SPG membership",
+                    "Pay entrance fee"
+                ]
+            }
+        },
+        {
+            "title": "Incoming Grade 7",
+            "list": [
+                "Form 138 (Report Card)",
+                "Certificate of Good Moral Character",
+                "PSA Birth Certificate (Photocopy)"
+            ]
+        },
+        {
+            "title": "Incoming Grade 11",
+            "list": [
+                "Form 138 (Report Card)",
+                "Certificate of Good Moral Character",
+                "PSA Birth Certificate (Photocopy)",
+                "ESC Scholarship Certificate (if ESC Scholarship Grantee)",
+                "2x2 ID Picture - 2pcs."
+            ]
+        },
+        {
+            "title": "Incoming College Students",
+            "list": [
+                "Form 138 (Report Card)",
+                "Certificate of Good Moral Character",
+                "Personality Test",
+                "PSA Birth Certificate (Photocopy)",
+                "1 Long Brown Envelope",
+                "2x2 ID Picture - 2pcs.",
+                "Drug Test"
+            ]
+        },
+        {
+            "title": "Transferred-In Students",
+            "list": [
+                "Form 138 (Report Card)",
+                "Certificate of Good Moral Character",
+                "Honorable Dismissal",
+                "PSA Birth Certificate (Photocopy)",
+                "ESC Scholarship Certificate (if ESC Scholarship Grantee)",
+                "Drug Test"
+            ]
+        },
+        {
+            "title": "Scholarship Requirements",
+            "list": [
+                "Certificate of Employment of Parents (if Employed)",
+                "Income Tax Return (ITR) (if Employed)",
+                "Certificate of Unemployment from the Municipal Office (if Unemployed)",
+                "Certificate of Tax Exemption from BIR (if Unemployed)",
+                "2x2 ID Picture - 2pcs."
+            ]
+        }
+    ],
+    "callToActionContent": {
+        "heading": "Ready to Enroll?",
+        "description": "We invite you to take the next step in providing your child with an exceptional education. Start your enrollment today or contact our Admissions Office with any questions.",
+        "buttons": [
+            {
+                "label": "Enroll Now",
+                "href": "/admissions/apply",
+                "style": "primary"
+            },
+            {
+                "label": "Contact Admission",
+                "href": "/contact",
+                "style": "secondary"
+            }
+        ]
+    }
+}

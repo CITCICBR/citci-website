@@ -1,0 +1,75 @@
+{
+    "libraryGuidelines": [
+        {
+            "title": "Introduction",
+            "paragraphs": [
+                "Welcome to CITCI Library. Our mission is to provide a welcoming space for learning, research, and community engagement. These policies and guidelines are designed to ensure that all patrons have a positive experience and that the library operates efficiently and effectively."
+            ]
+        },
+        {
+            "title": "Library Hours",
+            "paragraphs": [
+                "Standard Hours: Monday - Friday: 8:00 AM - 5:00 PM, Saturday - Sunday: Closed",
+                "Holiday Hours: The library will be closed."
+            ]
+        },
+        {
+            "title": "Borrowing Policies",
+            "paragraphs": [
+                "Library cards are available to CITCI Library patrons for a fee. School ID and proof of address are required for registration."
+            ],
+            "list": [
+                "Books: 2-week loan period",
+                "Reference Materials: In-library use only",
+                "Renewals: Items may be renewed up to two times if no holds have been placed. Renewals can be done in person.",
+                "Returns: Items must be returned by the due date to avoid late fees. A book drop is available for after-hours returns."
+            ]
+        },
+        {
+            "title": "Fees and Fines",
+            "paragraphs": [
+                "Late Fees: 5 per day for each overdue item.",
+                "Lost or Damaged Items: Patrons will be charged the replacement cost plus a processing fee of $[amount]."
+            ]
+        },
+        {
+            "title": "Conduct and Behavior",
+            "paragraphs": [
+                "All patrons must behave respectfully toward others. Disruptive behavior will not be tolerated.",
+                "No food is allowed in the library. Drinks must be in spill-proof containers."
+            ],
+            "list": [
+                "Quiet Zones: Designated areas are available for quiet study. Mobile phones should be silenced or turned off in these areas.",
+                "Meeting Rooms: Available for reservation by community groups and individuals. Please see the front desk for availability and booking procedures.",
+                "Internet Access: Computers and internet access are available on a first-come, first-served basis. Printing services are available for a fee of $[amount] per page.",
+                "Use Policy: Internet access is for educational and research purposes. Inappropriate or illegal activities are prohibited."
+            ]
+        },
+        {
+            "title": "Safety and Security",
+            "paragraphs": [
+                "Familiarize yourself with the library’s emergency exits and procedures. In case of an emergency, follow staff instructions.",
+                "The library is not responsible for lost or stolen items. Patrons are encouraged to keep personal belongings with them at all times."
+            ]
+        },
+        {
+            "title": "Accessibility",
+            "paragraphs": [
+                "The library is committed to providing accessible services and facilities. If you require special accommodations, please speak to a staff member for assistance."
+            ]
+        },
+        {
+            "title": "Feedback and Complaints",
+            "paragraphs": [
+                "We welcome feedback on any aspect of library services. Suggestions can be submitted via our website or in writing to the library director.",
+                "Complaints should be directed to the library director in writing. The library will address concerns promptly and fairly."
+            ]
+        },
+        {
+            "title": "Amendments",
+            "paragraphs": [
+                "The library reserves the right to amend these policies and guidelines as needed. Any changes will be communicated to patrons via our website and notice boards."
+            ]
+        }
+    ]
+}

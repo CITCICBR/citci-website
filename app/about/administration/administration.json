@@ -1,0 +1,315 @@
+{
+    "administration": [
+        {
+            "heading": "Admins and Spiritual Directors",
+            "intro": "Meet our dedicated leaders.",
+            "members": [
+                {
+                    "name": "Rev. Fr. Marlon Lacal",
+                    "position": "School President",
+                    "image": "/images/faculty/lacal-m.jpg"
+                },
+                {
+                    "name": "Msgr. Ruel Lasco",
+                    "position": "Spiritual Director",
+                    "image": "/images/faculty/lasco-r.jpg"
+                },
+                {
+                    "name": "Emmie V. Yanong",
+                    "position": "Exe. Asst. to the Director/HRMO",
+                    "image": "/images/faculty/yanong-e.png"
+                },
+                {
+                    "name": "Dr. Mary Grace M. Brongcano",
+                    "position": "College Dean",
+                    "image": "/images/faculty/brongcano-m.jpg"
+                },
+                {
+                    "name": "Maria Lavella J. Torregosa",
+                    "position": "Academic Head",
+                    "image": "/images/faculty/torregosa-ml.jpg"
+                }
+            ]
+        },
+        {
+            "heading": "Basic Education Department",
+            "intro": "Meet our dedicated educators shaping the future of our young learners.",
+            "members": [
+                {
+                    "name": "Mary Margarette S. Vista",
+                    "position": "Elementary Principal",
+                    "image": "/images/faculty/vista-m.jpg"
+                },
+                {
+                    "name": "Marwelyn D. Almirol",
+                    "position": "Elementary Teacher",
+                    "image": "/images/faculty/almirol-m.jpg"
+                },
+                {
+                    "name": "Leizel Jane B. Berizo",
+                    "position": "Elementary Teacher",
+                    "image": "/images/faculty/berizo-l.jpg"
+                },
+                {
+                    "name": "Ruffa Mae D. Dagani",
+                    "position": "Elementary Teacher",
+                    "image": "/images/faculty/dagani-r.jpg"
+                },
+                {
+                    "name": "Clareze Zane C. Duran",
+                    "position": "Elementary Teacher",
+                    "image": "/images/faculty/duran-c.jpg"
+                },
+                {
+                    "name": "Debbie Mae B. Durango",
+                    "position": "Elementary Teacher",
+                    "image": "/images/faculty/durango-d.jpg"
+                },
+                {
+                    "name": "Ma. Theresa C. Grisola",
+                    "position": "Elementary Teacher",
+                    "image": "/images/faculty/grisola-mt.jpg"
+                },
+                {
+                    "name": "Nova Mary Cris Labasano",
+                    "position": "Elementary Teacher",
+                    "image": "/images/faculty/labasano-n.jpg"
+                },
+                {
+                    "name": "Zenny B. Salas",
+                    "position": "Elementary Teacher",
+                    "image": "/images/faculty/salas-z.jpg"
+                },
+                {
+                    "name": "Wenston Segador",
+                    "position": "Elementary Teacher",
+                    "image": "/images/faculty/segador-w.jpg"
+                },
+                {
+                    "name": "Wendelou S. Villareal",
+                    "position": "Elementary Teacher",
+                    "image": "/images/faculty/villareal-w.jpg"
+                }
+            ]
+        },
+        {
+            "heading": "High School Department",
+            "intro": "Our senior high faculty are committed to academic excellence and student success.",
+            "members": [
+                {
+                    "name": "Herminiana C. Bueno",
+                    "position": "High School Principal",
+                    "image": "/images/faculty/bueno-h.jpg"
+                },
+                {
+                    "name": "Guia M. Dejeno",
+                    "position": "Junior High Teacher",
+                    "image": "/images/faculty/dejeno-g.jfif"
+                },
+                {
+                    "name": "Gemma S. Amper",
+                    "position": "Junior High Teacher",
+                    "image": "/images/faculty/amper-g.jpg"
+                },
+                
+                {
+                    "name": "Ghea Marielle M. Bulala",
+                    "position": "Junior High Teacher",
+                    "image": "/images/faculty/bulala-g.jpg"
+                },
+                {
+                    "name": "Charlyn A. Casinas",
+                    "position": "Junior High Teacher",
+                    "image": "/images/faculty/casinas-c.jpg"
+                },
+                {
+                    "name": "Godwin Dejolde",
+                    "position": "Junior High Teacher",
+                    "image": "/images/faculty/dejolde-g.jpg"
+                },
+                {
+                    "name": "Marvin D. Donoso",
+                    "position": "Junior High Teacher",
+                    "image": "/images/faculty/donoso-m.jpg"
+                },
+                {
+                    "name": "Christian Van R. Guiral",
+                    "position": "Junior High Teacher",
+                    "image": "/images/faculty/guiral-c.jpg"
+                },
+                {
+                    "name": "Noriedhel Guiren",
+                    "position": "Junior High Teacher",
+                    "image": "/images/faculty/guiren-n.jpg"
+                },
+                {
+                    "name": "Delilah Marie D. Intigro",
+                    "position": "Junior High Teacher",
+                    "image": "/images/faculty/intigro-d.jpg"
+                },
+                {
+                    "name": "Cesar A. Monzon",
+                    "position": "Junior High Teacher",
+                    "image": "/images/faculty/monzon-c.jpg"
+                },
+                {
+                    "name": "Jury T. Pineda",
+                    "position": "Junior High Teacher",
+                    "image": "/images/faculty/pineda-j.jpg"
+                },
+                {
+                    "name": "Jephosin Rey O. Supitran",
+                    "position": "Junior High Teacher",
+                    "image": "/images/faculty/supitran-j.jpg"
+                },
+                {
+                    "name": "Kaye T. Tapar",
+                    "position": "Junior High Teacher",
+                    "image": "/images/faculty/tapar-k.jpg"
+                },
+                {
+                    "name": "Teresa E. Acosta",
+                    "position": "Senior High Teacher",
+                    "image": "/images/faculty/acosta-t.jpg"
+                },
+                {
+                    "name": "Stephen T. Bitay",
+                    "position": "Senior High Teacher",
+                    "image": "/images/faculty/bitay-s.jpg"
+                },
+                {
+                    "name": "Alex N. Bihag",
+                    "position": "Senior High Teacher",
+                    "image": "/images/faculty/bihag-a.jpg"
+                },
+                {
+                    "name": "Charlot P. Dacera",
+                    "position": "Senior High Teacher",
+                    "image": "/images/faculty/dacera-c.jpg"
+                },
+                {
+                    "name": "Jeana B. Delalamon",
+                    "position": "Senior High Teacher",
+                    "image": "/images/faculty/delalamon-j.jpg"
+                },
+                {
+                    "name": "Liza C. Duran",
+                    "position": "Senior High Teacher",
+                    "image": "/images/faculty/duran-l.jpg"
+                },
+                {
+                    "name": "Dj Lesther N. Hora",
+                    "position": "Senior High Teacher",
+                    "image": "/images/faculty/hora-d.jpg"
+                },
+                {
+                    "name": "Niña Martina Q. Hornido",
+                    "position": "Senior High Teacher",
+                    "image": "/images/faculty/hornido-nm.jpg"
+                },
+                {
+                    "name": "Jonaveb T. Inanod",
+                    "position": "Senior High Teacher",
+                    "image": "/images/faculty/inanod-j.jpg"
+                },
+                {
+                    "name": "Dante T. Inciso",
+                    "position": "Senior High Teacher",
+                    "image": "/images/faculty/inciso-d.jpg"
+                },
+                {
+                    "name": "Kerwin F. Pasilang",
+                    "position": "Senior High Teacher",
+                    "image": "/images/faculty/pasilang-k.jpg"
+                },
+                {
+                    "name": "Eusebio R. Quigao Sr.",
+                    "position": "Senior High Teacher",
+                    "image": "/images/faculty/quigao-e.jpg"
+                },
+                {
+                    "name": "Amy Chimadonna L. Zoleta",
+                    "position": "Senior High Teacher",
+                    "image": "/images/faculty/zoleta-a.jpg"
+                },
+                {
+                    "name": "Charisma C. Ascarez",
+                    "position": "Senior High Teacher",
+                    "image": "/images/faculty/ascarez-c.jpg"
+                }
+            ]
+        },
+        {
+            "heading": "College Department",
+            "intro": "Our college faculty are committed to academic excellence and student success.",
+            "members": [
+                {
+                    "name": "Atlene A. Anino",
+                    "position": "College Teacher",
+                    "image": "/images/faculty/anino-a.jpg"
+                },
+                {
+                    "name": "Mart John C. Presillas",
+                    "position": "College Teacher",
+                    "image": "/images/faculty/presillas-m.jpg"
+                }
+            ]
+        },
+        {
+            "heading": "Non-Teaching Personnel",
+            "intro": "Supporting our community with dedication and professionalism.",
+            "members": [
+                {
+                    "name": "Conchita C. Belmonte",
+                    "position": "Finance Officer",
+                    "image": "/images/faculty/belmonte-c.jpg"
+                },
+                {
+                    "name": "Renz Gierald B. Caballa",
+                    "position": "HRMO Staff",
+                    "image": "/images/faculty/caballa-r.jpg"
+                },
+                {
+                    "name": "Jimmy E. Banate",
+                    "position": "IT Technician",
+                    "image": "/images/faculty/banate-j.jpg"
+                },
+                {
+                    "name": "Marie Jean P. Dagandara",
+                    "position": "Library Staff",
+                    "image": "/images/faculty/dagandara-m.jpg"
+                },
+                {
+                    "name": "Ilarde Butardo",
+                    "position": "Maintenance",
+                    "image": "/images/faculty/butardo-i.jpg"
+                },
+                {
+                    "name": "Girbert C. Cagadas",
+                    "position": "Maintenance",
+                    "image": "/images/faculty/cagadas-g.jpg"
+                },
+                {
+                    "name": "Susan G. Cagadas",
+                    "position": "Maintenance",
+                    "image": "/images/faculty/cagadas-s.jpg"
+                },
+                {
+                    "name": "Max C. Anino",
+                    "position": "Prefect of Discipline",
+                    "image": "/images/faculty/anino-m.jpg"
+                },
+                {
+                    "name": "Nestlie G. Columbrillo",
+                    "position": "Technical Staff",
+                    "image": "/images/faculty/columbrillo-n.jpg"
+                },
+                {
+                    "name": "Marie Cris D. Cong",
+                    "position": "Technical Staff",
+                    "image": "/images/faculty/cong-m.jpg"
+                }
+            ]
+        }
+    ]
+}

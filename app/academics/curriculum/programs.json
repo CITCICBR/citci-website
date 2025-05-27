@@ -1,0 +1,102 @@
+{
+    "curriculumOverviewContent": {
+        "heading": "Programs Offered",
+        "intro": "Candelaria Institute offers a comprehensive curriculum designed to develop both academic skills and technical expertise across its educational levels—Basic Education, College Department, and Technical-Vocational Education and Training (TVET).",
+        "items": [
+            {
+                "title": "Basic Education Program",
+                "image": "/images/elementary.png",
+                "description": "Our Basic Education program spans from Elementary to Secondary education, providing students with a strong academic foundation and emphasizing values education and joyful learning.",
+                "bullets": [
+                    {
+                        "title": "Elementary (Nursery to Grade 6):",
+                        "detail": "A warm, nurturing environment where young minds are shaped with strong academic foundations, values education, and joyful learning. We spark curiosity, build confidence, and develop good character early on."
+                    }
+                ]
+            },
+            {
+                "title": "Junior High School Program (Grades 7-10)",
+                "image": "/images/junior-high.png",
+                "description": "Where learners grow into critical thinkers and responsible citizens. Our well-rounded curriculum strengthens their academic core, leadership skills, and moral values — preparing them for real-world challenges and future learning paths.",
+                "bullets": []
+            },
+            {
+                "title": "Senior High School Program (Grades 11-12)",
+                "image": "/images/senior-high.png",
+                "description": "Get future-ready with our specialized tracks that match your goals, interests, and career dreams!",
+                "bullets": [
+                    {
+                        "title": "ABM (Accountancy, Business, and Management):",
+                        "detail": "Learn the skills to lead in the world of business — from entrepreneurship to finance and management strategies."
+                    },
+                    {
+                        "title": "HUMSS (Humanities and Social Sciences):",
+                        "detail": "Explore society, culture, and communication. Perfect for future educators, writers, social workers, and community leaders."
+                    },
+                    {
+                        "title": "STEM (Science, Technology, Engineering & Mathematics):",
+                        "detail": "Dive into innovation! Build a strong foundation in science and math, ideal for aspiring doctors, engineers, and tech experts."
+                    },
+                    {
+                        "title": "Tech-Voc Tracks:",
+                        "detail": "Hands-on learning with practical skills for the real world. Includes Bread and Pastry Production, Food and Beverage Services, Computer Systems Servicing, and Shielded Metal Arc Welding."
+                    }
+                ]
+            },
+            {
+                "title": "College Department",
+                "image": "/images/college.png",
+                "description": "Become a beacon of knowledge and inspiration! Our Bachelor of Secondary Education (BSEd) program shapes passionate future educators equipped to teach and lead in today’s evolving classrooms.",
+                "bullets": [
+                    {
+                        "title": "Bachelor of Secondary Education (BSEd):",
+                        "detail": "Majors in English and Social Studies, preparing students for secondary education teaching roles. Recognized by the government since 2014."
+                    }
+                ]
+            },
+            {
+                "title": "TVET Programs",
+                "image": "/images/tesda-program.png",
+                "description": "Skill up. Stand out. Start your career with our TESDA-approved programs, designed to equip students with the practical skills and certifications needed for various industries.",
+                "bullets": [
+                    {
+                        "title": "Driving NC II:",
+                        "detail": "Gain the confidence and certification to drive professionally with safety and responsibility."
+                    },
+                    {
+                        "title": "SMAW NC I & NC II:",
+                        "detail": "Train in essential welding techniques — your gateway to high-demand careers in the metal and construction industry."
+                    },
+                    {
+                        "title": "Computer Systems Servicing NC II:",
+                        "detail": "Launch your tech career with skills in hardware, software, and network troubleshooting."
+                    },
+                    {
+                        "title": "Bread and Pastry Production NC II:",
+                        "detail": "Turn your passion into a profession with hands-on bakery training and culinary techniques."
+                    },
+                    {
+                        "title": "Bookkeeping NC III:",
+                        "detail": "Master the language of business through financial reporting, accounting systems, and taxation knowledge."
+                    }
+                ]
+            }
+        ]
+    },
+    "callToActionContent": {
+        "heading": "Experience Our Curriculum in Action",
+        "description": "We invite you to visit our campus and see our curriculum in action. Schedule a tour or attend an open house to learn more about how Candelaria Institute of technology can provide your child with an exceptional education.",
+        "buttons": [
+            {
+                "label": "Enroll Now",
+                "href": "/admissions/apply",
+                "style": "primary"
+            },
+            {
+                "label": "Contact Us",
+                "href": "/contact",
+                "style": "secondary"
+            }
+        ]
+    }
+}

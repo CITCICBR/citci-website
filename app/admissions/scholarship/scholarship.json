@@ -1,0 +1,39 @@
+{
+    "scholarshipContent": [
+        {
+            "title": "Educational Service Contracting (ESC) Grantee",
+            "description": "Government subsidy for Junior High School students enrolled in participating private schools."
+        },
+        {
+            "title": "Senior High School Voucher Program Recipient",
+            "description": "Assists Grade 11 and 12 students in private schools through financial support from the Department of Education."
+        },
+        {
+            "title": "Tertiary Education Subsidy (TES)",
+            "description": "Aimed at supporting qualified college students under the Unified Student Financial Assistance System for Tertiary Education (UniFAST)."
+        },
+        {
+            "title": "Tulong Dunong Program (TDP)",
+            "description": "Provides financial assistance to poor but deserving students enrolled in degree programs."
+        },
+        {
+            "title": "TESDA Programs",
+            "description": "Skills training scholarships for technical and vocational courses through the Technical Education and Skills Development Authority."
+        },
+        {
+            "title": "DSWD Program",
+            "description": "Educational support for marginalized and underprivileged sectors provided by the Department of Social Welfare and Development."
+        }
+    ],
+    "callToActionContent": {
+        "heading": "Ready to Apply for a Scholarship?",
+        "description": "Review the qualifications and submit your application to access these educational opportunities.",
+        "buttons": [
+            {
+                "label": "Apply for a Scholarship Now",
+                "href": "/admissions/apply",
+                "style": "primary"
+            }
+        ]
+    }
+}

@@ -1,0 +1,644 @@
+{
+    "calendarEvents": [
+        {
+            "id": "plotting-schedules-2024",
+            "title": "Plotting of Schedules",
+            "date": "May 1-30, 2024",
+            "time": "",
+            "location": "Campus",
+            "description": "Scheduling of academic and administrative activities.",
+            "category": "Administrative"
+        },
+        {
+            "id": "enrollment-2024",
+            "title": "Enrollment and Preparation",
+            "date": "June 24 – July 19, 2024",
+            "time": "",
+            "location": "Campus",
+            "description": "Enrollment for all students and preparation of classrooms, labs, and offices.",
+            "category": "Academic"
+        },
+        {
+            "id": "orientation-week",
+            "title": "Pre-opening Orientation",
+            "date": "July 22-26, 2024",
+            "time": "",
+            "location": "Campus",
+            "description": "Orientation on use of facilities, mental health support, and SSC/NSTP introduction.",
+            "category": "Academic"
+        },
+        {
+            "id": "start-classes-1styear",
+            "title": "Start of Classes & Entrance Exam (1st Year)",
+            "date": "July 29, 2024",
+            "time": "",
+            "location": "Campus",
+            "description": "Commencement of regular classes and entrance exam for 1st-year students.",
+            "category": "Academic"
+        },
+        {
+            "id": "course-change",
+            "title": "Adding/Changing Enrolled Courses",
+            "date": "July 31 – August 5, 2024",
+            "time": "",
+            "location": "Registrar's Office",
+            "description": "Students may add or change their enrolled subjects.",
+            "category": "Academic"
+        },
+        {
+            "id": "faculty-meeting-aug7",
+            "title": "College Faculty Meeting & First Year Integration Sharing",
+            "date": "August 7, 2024",
+            "time": "",
+            "location": "Campus",
+            "description": "Meeting of college faculty and integration sharing for 1st-year students.",
+            "category": "Academic"
+        },
+        {
+            "id": "english-proficiency",
+            "title": "English Proficiency Intervention",
+            "date": "Every Wednesday, August to November, 2024",
+            "time": "",
+            "location": "Campus",
+            "description": "English language sessions open to all students.",
+            "category": "Academic"
+        },
+        {
+            "id": "ssc-elections-filing",
+            "title": "Filing of Candidacy for SSC Elections",
+            "date": "August 5-6, 2024",
+            "time": "",
+            "location": "Campus",
+            "description": "Submission of candidacy for student council elections.",
+            "category": "Student Affairs"
+        },
+        {
+            "id": "ssc-campaign",
+            "title": "SCC Campaign & Election",
+            "date": "August 7 & 14, 2024",
+            "time": "Holy Spirit Mass @ 8 AM, Election (Morning)",
+            "location": "Campus",
+            "description": "Student Council Campaign and Election along with Holy Mass and Bible Sharing.",
+            "category": "Student Affairs"
+        },
+        {
+            "id": "earthquake-drill",
+            "title": "Earthquake Drill",
+            "date": "August 14, 2024",
+            "time": "Afternoon",
+            "location": "Campus",
+            "description": "School-wide earthquake safety drill.",
+            "category": "Safety"
+        },
+        {
+            "id": "feast-assumption",
+            "title": "Feast of Our Lady of Assumption",
+            "date": "August 15, 2024",
+            "time": "",
+            "location": "Campus",
+            "description": "Religious observance with activities.",
+            "category": "Religious"
+        },
+        {
+            "id": "osas-symposium",
+            "title": "OSAS Health Awareness Symposium",
+            "date": "August 21, 2024",
+            "time": "",
+            "location": "Campus",
+            "description": "Symposium on health, emergency, and pregnancy awareness.",
+            "category": "Health"
+        },
+        {
+            "id": "prelim-exams",
+            "title": "Prelim Examination",
+            "date": "August 19-23, 2024",
+            "time": "",
+            "location": "Campus",
+            "description": "Preliminary examinations for all students.",
+            "category": "Academic"
+        },
+        {
+            "id": "ninoy-day",
+            "title": "Ninoy Aquino Day (Holiday)",
+            "date": "August 21, 2024",
+            "time": "",
+            "location": "Philippines",
+            "description": "National holiday in observance of Ninoy Aquino Day.",
+            "category": "Holiday"
+        },
+        {
+            "id": "heroes-day",
+            "title": "National Heroes Day (Holiday)",
+            "date": "August 26, 2024",
+            "time": "",
+            "location": "Philippines",
+            "description": "Special national non-working holiday.",
+            "category": "Holiday"
+        },
+        {
+            "id": "wikang-pambansa",
+            "title": "Buwan ng Wika Culmination",
+            "date": "August 30, 2024",
+            "time": "",
+            "location": "Campus",
+            "description": "Closing celebration of National History and Buwan ng Wika Month.",
+            "category": "Cultural"
+        },
+        {
+            "id": "2ndyear-recollection",
+            "title": "Second Year Recollection & Integration",
+            "date": "September 4, 2024",
+            "time": "",
+            "location": "Campus",
+            "description": "Spiritual recollection for second-year students.",
+            "category": "Religious"
+        },
+        {
+            "id": "marys-birthday-mass",
+            "title": "Blessed Virgin Mary’s Birthday Liturgy/Mass",
+            "date": "September 9, 2024",
+            "time": "",
+            "location": "Campus",
+            "description": "Religious liturgical mass celebration.",
+            "category": "Religious"
+        },
+        {
+            "id": "classroom-observation",
+            "title": "Deployment for Classroom Observation",
+            "date": "September 11, 2024",
+            "time": "",
+            "location": "Campus",
+            "description": "Deployment of 4th year and Unit Earners for observation.",
+            "category": "Academic"
+        },
+        {
+            "id": "midterms",
+            "title": "Midterm Examination",
+            "date": "September 16-20, 2024",
+            "time": "",
+            "location": "Campus",
+            "description": "Midterm exams for students.",
+            "category": "Academic"
+        },
+        {
+            "id": "leadership-training",
+            "title": "Leadership/Governance Training",
+            "date": "September 25, 2024",
+            "time": "",
+            "location": "Campus",
+            "description": "Seminar and orientation for SSC & GKK officers.",
+            "category": "Student Affairs"
+        },
+        {
+            "id": "nstp-awareness",
+            "title": "NSTP - Illegal Drugs, Tobacco, and Alcohol Awareness",
+            "date": "September 25, 2024",
+            "time": "",
+            "location": "Campus",
+            "description": "Seminar for 1st year students on illegal substances and risks.",
+            "category": "Health"
+        },
+        {
+            "id": "feast-therese",
+            "title": "Feast of St. Therese of the Child Jesus",
+            "date": "October 1, 2024",
+            "time": "",
+            "location": "Campus",
+            "description": "Institutional patroness celebration.",
+            "category": "Religious"
+        },
+        {
+            "id": "rosary-month-launch",
+            "title": "Rosary Month & Lesson Planning Workshop",
+            "date": "October 2, 2024",
+            "time": "",
+            "location": "Campus",
+            "description": "Rosary month kick-off and workshop for 3rd & 4th years.",
+            "category": "Religious"
+        },
+        {
+            "id": "world-teachers-day",
+            "title": "World Teachers’ Day",
+            "date": "October 5, 2024",
+            "time": "",
+            "location": "Campus",
+            "description": "Celebration to honor teachers.",
+            "category": "Celebration"
+        },
+        {
+            "id": "recollection-oct5",
+            "title": "Recollection (1st & 3rd Year)",
+            "date": "October 5, 2024",
+            "time": "",
+            "location": "Campus",
+            "description": "Spiritual recollection for 1st and 3rd year students.",
+            "category": "Religious"
+        },
+        {
+            "id": "ssc-oath-taking",
+            "title": "SSC Officers Oath-Taking & Acquaintance Party",
+            "date": "October 11, 2024",
+            "time": "",
+            "location": "Campus",
+            "description": "Oath-taking for new SSC officers and student gathering.",
+            "category": "Student Affairs"
+        },
+        {
+            "id": "founding-anniv",
+            "title": "Founding Anniversary / Intramurals",
+            "date": "October 23-28, 2024",
+            "time": "",
+            "location": "Campus",
+            "description": "120th founding anniversary with sports and social activities.",
+            "category": "Celebration"
+        },
+        {
+            "id": "finals",
+            "title": "Final Examination",
+            "date": "November 11-15, 2024",
+            "time": "",
+            "location": "Campus",
+            "description": "Final examinations for all students.",
+            "category": "Academic"
+        },
+        {
+            "id": "semestral-break",
+            "title": "Semestral Break",
+            "date": "November 18-22, 2024",
+            "time": "",
+            "location": "Campus",
+            "description": "No classes. Break after final exams.",
+            "category": "Academic"
+        },
+        {
+            "id": "final-grade-submission",
+            "title": "Final Grade Computation and Submission",
+            "date": "November 25 – December 6, 2024",
+            "time": "",
+            "location": "Registrar's Office",
+            "description": "Submission of first semester grades by faculty.",
+            "category": "Administrative"
+        },
+        {
+            "id": "faculty-preparation",
+            "title": "Faculty and Staff Offices - Preparation for Second Semester",
+            "date": "November 25–29, 2024",
+            "time": "",
+            "location": "",
+            "description": "Clearance week and start of enrollment for 2nd semester.",
+            "category": "Administrative"
+        },
+        {
+            "id": "semester-start",
+            "title": "Commencement of Classes for 2nd Semester",
+            "date": "December 2–6, 2024",
+            "time": "",
+            "location": "",
+            "description": "Includes orientation for students, instructors, and CWTS students.",
+            "category": "Academic"
+        },
+        {
+            "id": "students-subjects-change",
+            "title": "Students' Adding/Changing of Subjects",
+            "date": "December 10–13, 2024",
+            "time": "",
+            "location": "Registrar's Office",
+            "description": "Period for students to adjust enrolled courses or subjects.",
+            "category": "Academic"
+        },
+        {
+            "id": "christmas-party",
+            "title": "Students & Employees Christmas Party & Gift-giving",
+            "date": "December 17–18, 2024",
+            "time": "",
+            "location": "",
+            "description": "Holiday celebration for students and employees.",
+            "category": "Community"
+        },
+        {
+            "id": "christmas-break",
+            "title": "Start of Christmas Break",
+            "date": "December 19",
+            "time": "",
+            "location": "",
+            "description": "Beginning of holiday break.",
+            "category": "Holiday"
+        },
+        {
+            "id": "mock-interview",
+            "title": "Mock Interview – 4th Year & Unit Earners",
+            "date": "January (Second Week), 2025",
+            "time": "",
+            "location": "",
+            "description": "Mock job interviews for graduating students.",
+            "category": "Career"
+        },
+        {
+            "id": "leadership-seminar",
+            "title": "Seminar on Leadership and Good Governance",
+            "date": "January 8, 2025",
+            "time": "",
+            "location": "",
+            "description": "Leadership training for students.",
+            "category": "Seminar"
+        },
+        {
+            "id": "career-guidance-launch",
+            "title": "Launching of Career Guidance",
+            "date": "January 13, 2025",
+            "time": "",
+            "location": "",
+            "description": "Start of career planning activities.",
+            "category": "Career"
+        },
+        {
+            "id": "gkk-day-jan",
+            "title": "GKK Day",
+            "date": "January 15, 2025",
+            "time": "8:00 AM & 1:30 PM",
+            "location": "Chapel",
+            "description": "Holy Mass and Bible Sharing for personnel.",
+            "category": "Religious"
+        },
+        {
+            "id": "career-talk",
+            "title": "Career Talk & Gender Development",
+            "date": "January 22, 2025",
+            "time": "",
+            "location": "",
+            "description": "Seminar on career development and gender awareness.",
+            "category": "Seminar"
+        },
+        {
+            "id": "integration-sharing-1st-year",
+            "title": "Integration Sharing for First Year",
+            "date": "January 22, 2025",
+            "time": "",
+            "location": "",
+            "description": "Reflective sharing session for first-year students.",
+            "category": "Formation"
+        },
+        {
+            "id": "clean-up-drive",
+            "title": "City-wide Clean-up Drive",
+            "date": "January 29, 2025",
+            "time": "",
+            "location": "Cabadbaran City",
+            "description": "Clean-up activity in preparation for fiesta. (CWTS only)",
+            "category": "Community"
+        },
+        {
+            "id": "purification-feast",
+            "title": "Feast of Our Lady of Purification",
+            "date": "February 1–2, 2025",
+            "time": "",
+            "location": "",
+            "description": "Religious celebration of the Feast of Purification and Presentation.",
+            "category": "Religious"
+        },
+        {
+            "id": "class-resumption",
+            "title": "Resumption of Classes",
+            "date": "February 4, 2025",
+            "time": "",
+            "location": "",
+            "description": "Start of academic classes after break.",
+            "category": "Academic"
+        },
+        {
+            "id": "interns-orientation",
+            "title": "Orientation of Interns",
+            "date": "February 5–6, 2025",
+            "time": "",
+            "location": "",
+            "description": "Orientation for student teachers with cooperating teachers.",
+            "category": "Academic"
+        },
+        {
+            "id": "gkk-day-feb",
+            "title": "GKK Day",
+            "date": "February 12, 2025",
+            "time": "8:00 AM & 1:30 PM",
+            "location": "Chapel",
+            "description": "Holy Mass and Bible Sharing for personnel.",
+            "category": "Religious"
+        },
+        {
+            "id": "valentines-day",
+            "title": "Valentines' Day",
+            "date": "February 14, 2025",
+            "time": "",
+            "location": "",
+            "description": "Celebration of Valentine's Day.",
+            "category": "Community"
+        },
+        {
+            "id": "grand-demo",
+            "title": "Grand Demonstration",
+            "date": "February 17–28, 2025",
+            "time": "",
+            "location": "",
+            "description": "Demo teaching of 4th year and unit earners.",
+            "category": "Academic"
+        },
+        {
+            "id": "tos-workshop",
+            "title": "Workshop on TOS Development & Item Analysis",
+            "date": "February 19, 2025",
+            "time": "",
+            "location": "",
+            "description": "Seminar led by Ma’am Torregosa.",
+            "category": "Seminar"
+        },
+        {
+            "id": "research-defense",
+            "title": "Research Final Defense",
+            "date": "February 20–21, 2025",
+            "time": "",
+            "location": "",
+            "description": "Final defense of student research projects.",
+            "category": "Academic"
+        },
+        {
+            "id": "community-engagement",
+            "title": "Community Engagement Activity",
+            "date": "February 22, 2025",
+            "time": "",
+            "location": "",
+            "description": "Tree planting and community clean-up activity.",
+            "category": "Community"
+        },
+        {
+            "id": "midterm-exam",
+            "title": "Midterm Examination",
+            "date": "February 24, 26, 27, 28, 2025",
+            "time": "",
+            "location": "Classrooms",
+            "description": "Midterm exams for all students.",
+            "category": "Academic"
+        },
+        {
+            "id": "edsa-day",
+            "title": "EDSA Revolution Anniversary",
+            "date": "February 25, 2025",
+            "time": "",
+            "location": "",
+            "description": "National holiday commemorating the EDSA People Power Revolution.",
+            "category": "Holiday"
+        },
+        {
+            "id": "integration-sharing-2nd-3rd",
+            "title": "Integration Sharing & Curriculum Workshop",
+            "date": "February 26, 2025",
+            "time": "",
+            "location": "",
+            "description": "For 2nd and 3rd year students; includes workshop for 3rd and 4th years.",
+            "category": "Academic"
+        },
+        {
+            "id": "final-grade-submission",
+            "title": "Final Grade Computation and Submission",
+            "date": "March (3rd Week)",
+            "time": "",
+            "location": "Registrar's Office",
+            "description": "Submission of grades and ranking preparation.",
+            "category": "Administrative"
+        },
+        {
+            "id": "fire-prevention-seminar",
+            "title": "Seminar on Fire Prevention",
+            "date": "March 15, 2025",
+            "time": "",
+            "location": "",
+            "description": "Fire safety awareness seminar (CWTS only).",
+            "category": "Seminar"
+        },
+        {
+            "id": "gkk-day-mar",
+            "title": "GKK Day",
+            "date": "March 12, 2025",
+            "time": "8:00 AM & 1:30 PM",
+            "location": "Chapel",
+            "description": "Holy Mass and Bible Sharing for personnel.",
+            "category": "Religious"
+        },
+        {
+            "id": "college-retreat",
+            "title": "4th Year College Retreat",
+            "date": "March 21–22, 2025",
+            "time": "",
+            "location": "",
+            "description": "Retreat for graduating students.",
+            "category": "Religious"
+        },
+        {
+            "id": "vespers-mass",
+            "title": "Vespers or Mass for Feast Preparation",
+            "date": "April 1, 2025",
+            "time": "",
+            "location": "Chapel",
+            "description": "Religious observance in preparation for feast.",
+            "category": "Religious"
+        },
+        {
+            "id": "patron-saint-feast",
+            "title": "Feast of Saint Pedro Calungsod",
+            "date": "April 2, 2025",
+            "time": "",
+            "location": "Chapel",
+            "description": "College department patron saint celebration (Mass).",
+            "category": "Religious"
+        },
+        {
+            "id": "final-exam",
+            "title": "Final Examination",
+            "date": "April 7, 8, 10, and 11, 2025",
+            "time": "",
+            "location": "Classrooms",
+            "description": "Final exams for all students.",
+            "category": "Academic"
+        },
+        {
+            "id": "day-of-valor",
+            "title": "Day of Valor (Araw ng Kagitingan)",
+            "date": "April 9, 2025",
+            "time": "",
+            "location": "",
+            "description": "National holiday honoring Filipino veterans.",
+            "category": "Holiday"
+        },
+        {
+            "id": "gkk-day-apr",
+            "title": "GKK Day",
+            "date": "April 9, 2025",
+            "time": "8:00 AM & 1:30 PM",
+            "location": "Chapel",
+            "description": "Holy Mass and Bible Sharing for personnel.",
+            "category": "Religious"
+        },
+        {
+            "id": "eid-holiday",
+            "title": "Eid’l-Fitr - Feast of Ramadan",
+            "date": "April 9, 2025",
+            "time": "",
+            "location": "",
+            "description": "Regular national holiday.",
+            "category": "Holiday"
+        },
+        {
+            "id": "holy-wednesday",
+            "title": "Holy Wednesday",
+            "date": "April 16, 2025",
+            "time": "",
+            "location": "",
+            "description": "Holy day in the Catholic calendar.",
+            "category": "Religious"
+        },
+        {
+            "id": "holy-week",
+            "title": "Holy Thursday & Good Friday",
+            "date": "April 17–18, 2025",
+            "time": "",
+            "location": "",
+            "description": "Days of obligation during Holy Week.",
+            "category": "Religious"
+        },
+        {
+            "id": "nstp-culmination",
+            "title": "NSTP Culmination Program",
+            "date": "April 7–9, 2025",
+            "time": "",
+            "location": "",
+            "description": "End-of-program culmination for NSTP students.",
+            "category": "Community"
+        },
+        {
+            "id": "graduation-day",
+            "title": "Graduation Day",
+            "date": "April 26, 2025",
+            "time": "",
+            "location": "",
+            "description": "4th Year College Graduation Ceremony.",
+            "category": "Academic"
+        }
+    ],
+    
+    "callToActionContent": {
+        "heading": "Ready to Join Our Community?",
+        "description": "We invite you to take the next step in providing your child with an exceptional Catholic education. Contact our Admissions Office to schedule a tour or apply today.",
+        "buttons": [
+            {
+                "label": "Enroll Now",
+                "href": "/admissions/apply",
+                "style": "primary"
+            },
+            {
+                "label": "Contact Us",
+                "href": "/contact",
+                "style": "secondary"
+            }
+        ]
+    }
+    
+
+}

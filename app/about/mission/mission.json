@@ -1,0 +1,77 @@
+{
+    "vision": {
+        "title": "Our Vision",
+        "quote": "CITCI envisions morally, spiritually, intellectually formed and digitally savvy graduates who promote life, culture, and environment.",
+        "paragraphs": [
+            "At Candelaria Institute of Technology and Candelaria Institute (CITCI), our vision is to form individuals who are not only academically skilled but also morally and spiritually grounded. We aim to equip our students with the knowledge and competencies they need to thrive in an increasingly digital world.",
+            "Our graduates will be advocates for life, culture, and environmental sustainability, making a positive impact in their communities and beyond. By combining intellectual growth with ethical values, CITCI strives to shape future leaders who will drive positive change, promote cultural heritage, and care for the world around them."
+        ]
+    },
+    "_mission": {
+        "title": "Our Mission",
+        "quote": "With Mary our model, we commit ourselves to:\n1. Inculcate gospel values to all stakeholders;\n2. Design programs to achieve academic excellence;\n3. Conduct research for school and community development;\n4. Develop social responsibility among various stakeholders;\n5. Produce graduates who are Christ-centered and globally competitive.",
+        "paragraphs": [
+            "At Candelaria Institute of Technology and Candelaria Institute (CITCI), we are guided by Mary, our model, as we dedicate ourselves to fostering a holistic educational environment.",
+            "Our mission is to nurture gospel values in all members of our community, creating a foundation of moral and spiritual integrity. We are committed to designing programs that ensure academic excellence, encouraging our students to reach their highest potential.",
+            "Through research and community development initiatives, we aim to contribute to both the growth of the school and the well-being of the community.",
+            "We strive to develop social responsibility among our stakeholders, ensuring that our students not only excel academically but also engage with and improve their communities.",
+            "Ultimately, we aim to produce graduates who are Christ-centered, upholding strong ethical values, and globally competitive, equipped to thrive in an interconnected and evolving world."
+        ]
+    },
+    "core_values": {
+        "title": "Our Core Values",
+        "description": "These core values guide our mission, shape our programs, and strengthen our commitment to holistic education.",
+        "values": [
+            {
+                "title": "Faith and Spiritual Formation",
+                "description": "Rooted in our Catholic heritage, we emphasize religious instruction and values formation as integral parts of education, from elementary to college."
+            },
+            {
+                "title": "Commitment to Education and Excellence",
+                "description": "Our continuous growth from elementary to college and vocational levels reflects our pursuit of excellence, recognized by DepEd, CHED, and TESDA."
+            },
+            {
+                "title": "Service to Community",
+                "description": "Founded to provide accessible education, we continue to serve through programs like TVET that equip students with practical, employable skills."
+            },
+            {
+                "title": "Resilience and Adaptability",
+                "description": "Despite leadership transitions, we have thrived through the decades by evolving our academic and technical programs to meet learners' needs."
+            },
+            {
+                "title": "Integrity and Discipline",
+                "description": "Guided by Catholic values, we aim to shape individuals who are not only intellectually competent but also morally upright and disciplined."
+            }
+        ]
+    },
+    "philosophy_of_education": {
+        "title": "Our Philosophy of Education",
+        "paragraphs": [
+            "At Candelaria Institute, we believe that education is a transformative process rooted in faith, service, and excellence. Guided by Catholic values, we are committed to the holistic formation of learners — intellectually, morally, spiritually, and socially.",
+            "We strive to nurture responsible citizens and compassionate leaders through quality academic instruction, technical skills training, and values education that respond to the needs of the community and the nation. We view every student as a unique individual with the potential to grow and succeed.",
+            "Our approach integrates academic rigor, character development, and community service, empowering students to become lifelong learners, critical thinkers, and servant leaders in a changing world."
+        ]
+    },
+    "catholic_identity": {
+        "title": "Our Catholic Identity",
+        "paragraphs": [
+            "Candelaria Institute is a Catholic educational institution founded on the principles of faith, service, and commitment to holistic education. Inspired by Catholic teachings, we integrate Christian values into all aspects of school life—academics, student formation, and community engagement. Daily prayer, religious instruction, and participation in liturgical celebrations nurture the spiritual growth of our students.",
+            "We strive to form individuals who not only excel academically but also live out the Gospel values of compassion, humility, integrity, and social responsibility, becoming instruments of peace and justice in their families and communities."
+        ]
+    },
+    "cta": {
+        "title": "Join Our Mission",
+        "message": "Be part of a legacy that shapes minds, nurtures hearts, and strengthens faith. At Candelaria Institute, we are committed to forming students who are academically competent, morally upright, and spiritually grounded. Whether you're a student, parent, educator, or supporter, your journey with us is a step toward building a better, faith-filled future.",
+        "buttons": [
+            {
+                "label": "Enroll Now",
+                "style": "primary",
+                "href": "/admissions/apply"
+            },
+            {
+                "label": "Contact Us",
+                "href": "/contact"
+            }
+        ]
+    }
+}
