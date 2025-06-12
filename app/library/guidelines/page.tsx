@@ -1,12 +1,11 @@
-import LibraryFacilitiesCarousel from "@/components/library-carousel"
 import { Button } from "@/components/ui/button"
 import Image from "next/image"
-import Link from "next/link"
-import guidelines from "./guidelines.json"
+import guidelines from "../data.json"
 import FadeIn from "@/components/fadein-transition"
+import PageCTA from "@/components/page-cta"
 
 export default function LibraryPage() {
-    const { libraryGuidelines } = guidelines
+    const { libraryGuidelines, callToActionContent } = guidelines
     return (
         <main className="flex min-h-screen flex-col">
             {/* Hero Section */}
@@ -32,7 +31,7 @@ export default function LibraryPage() {
             </section>
 
             {/* Digital Resources Section */}
-            <section className="py-12 bg-gray-50">
+            <section id="guidelines" className="py-12 bg-gray-50">
                 <div className="container mx-auto px-4">
                     <div className="max-w-4xl mx-auto">
                         <h2 className="text-2xl md:text-3xl font-bold text-slate-600 text-center">Library Guidelines</h2>
@@ -67,113 +66,12 @@ export default function LibraryPage() {
                 </div>
             </section>
             {/* CTA */}
-            <section className="py-20 bg-amber-500 text-white">
-                <div className="container mx-auto px-4">
-                    <div className="max-w-3xl mx-auto text-center">
-                        <h2 className="font-serif text-3xl font-bold">Ready to Join Our Community?</h2>
-                        <p className="mt-6 text-lg">
-                            We invite you to take the next step in providing your child with an exceptional Catholic education.
-                            Contact our Admissions Office to schedule a tour or apply today.
-                        </p>
-                        <div className="mt-10 flex flex-wrap justify-center gap-4">
-                            <Button size="lg" className="bg-white text-amber-500 hover:bg-slate-100">
-                                Enroll Now
-                            </Button>
-                            <Button size="lg" variant="outline" className="text-white border-white hover:bg-amber-400">
-                                Schedule a Tour
-                            </Button>
-                        </div>
-                    </div>
-                </div>
-            </section>
+            <PageCTA
+                color="bg-amber-500"
+                heading={callToActionContent.heading}
+                description={callToActionContent.description}
+                buttons={callToActionContent.buttons}
+            />
         </main>
     )
 }
-
-const collections = [
-    {
-        id: 1,
-        name: "General Collection",
-        icon: "📚",
-        description: "Over 15,000 fiction and non-fiction titles spanning all grade levels and subject areas.",
-    },
-    {
-        id: 2,
-        name: "Reference Collection",
-        icon: "🔍",
-        description: "Encyclopedias, dictionaries, atlases, and other reference materials for in-library use.",
-    },
-    {
-        id: 3,
-        name: "Catholic Collection",
-        icon: "✝️",
-        description: "Books on Catholic theology, saints' lives, Church history, and spiritual formation.",
-    },
-    {
-        id: 4,
-        name: "Periodicals",
-        icon: "📰",
-        description: "Current and back issues of magazines and newspapers relevant to curriculum and student interests.",
-    },
-    {
-        id: 5,
-        name: "Audio-Visual Materials",
-        icon: "🎧",
-        description: "Educational DVDs, CDs, and audiobooks to support diverse learning styles.",
-    },
-    {
-        id: 6,
-        name: "Teacher Resources",
-        icon: "👩‍🏫",
-        description: "Professional development materials and curriculum resources for faculty use.",
-    },
-]
-
-const services = [
-    {
-        id: 1,
-        name: "Research Assistance",
-        icon: "🔍",
-        description:
-            "Our librarians provide one-on-one help with research projects, citation formatting, and locating resources.",
-    },
-    {
-        id: 2,
-        name: "Information Literacy Instruction",
-        icon: "📊",
-        description: "Classroom sessions on research skills, digital citizenship, and evaluating information sources.",
-    },
-    {
-        id: 3,
-        name: "Reading Promotion",
-        icon: "📖",
-        description: "Book clubs, reading challenges, and author visits to foster a love of reading.",
-    },
-    {
-        id: 4,
-        name: "Technology Support",
-        icon: "💻",
-        description: "Assistance with educational technology tools, digital resources, and computer use.",
-    },
-    {
-        id: 5,
-        name: "Interlibrary Loan",
-        icon: "🔄",
-        description: "Access to materials from other libraries when resources are not available in our collection.",
-    },
-    {
-        id: 6,
-        name: "Study Spaces",
-        icon: "🪑",
-        description: "Quiet areas for individual study and collaborative spaces for group projects.",
-    },
-]
-
-const digitalResources = [
-    { id: 1, name: "EBSCO Host" },
-    { id: 2, name: "JSTOR" },
-    { id: 3, name: "Britannica School" },
-    { id: 4, name: "World Book Online" },
-    { id: 5, name: "Gale Resources" },
-    { id: 6, name: "ProQuest" },
-]

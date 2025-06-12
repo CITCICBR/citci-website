@@ -1,46 +1,10 @@
 import Image from "next/image"
 import FadeIn from "@/components/fadein-transition"
 import ContentSection from "@/components/section"
-export default function MissionPage() {
+import structure from "../data.json"
+export default function StructurePage() {
 
-    const personnelData = [
-        {
-            heading: "President",
-            intro: "Meet the visionary leader guiding the mission and direction of our institution.",
-            members: [
-                { name: "Rev. Fr. Marlon Lacal", position: "School President", image: "/images/faculty/lacal-m.jpg" },
-            ],
-        },
-        {
-            heading: "Academic Head",
-            intro: "Get to know the academic leaders dedicated to nurturing and educating our young learners.",
-            members: [
-                { name: "Maria Lavella J. Torregosa", position: "Academic Head", image: "/images/faculty/torregosa-ml.jpg" },
-            ],
-        },
-        {
-            heading: "OSAS",
-            intro: "Meet the personnel ensuring holistic student development through support and services.",
-            members: [
-                { name: "Charlot Dacera", position: "OSAS", image: "/images/faculty/dacera-c.jpg" },
-            ],
-        },
-        {
-            heading: "Librarian",
-            intro: "Introducing our librarian who ensures access to knowledge and resources for the school community.",
-            members: [
-                { name: "Christian James P. Quimzon", position: "Librarian", image: "/images/faculty/quimzon-c.jpg" },
-            ],
-        },
-        {
-            heading: "Library Staff",
-            intro: "Meet our dedicated library staff who support learning through resource management and student assistance.",
-            members: [
-                { name: "Marie Jean P. Dagandara", position: "Library Staff", image: "/images/faculty/dagandara-m.jpg" },
-                { name: "Riza O. Sagaysay", position: "Library Staff", image: "/images/faculty/sagaysay-r.jpg" },
-            ],
-        },
-    ];
+    const {structureContent} = structure
 
     return (
         <main className="min-h-screen">
@@ -66,8 +30,9 @@ export default function MissionPage() {
                 </FadeIn>
             </section>
 
-            {personnelData.map((group, index) => (
+            {structureContent.map((group, index) => (
                 <ContentSection
+                    id={group.id}
                     key={index}
                     grid={group.members.length === 1 ? "1" : "2"}
                     background={index % 2 === 0 ? "bg-gray-50" : "bg-white"}

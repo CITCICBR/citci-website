@@ -2,14 +2,13 @@
 import FadeIn from "@/components/fadein-transition"
 import PageCTA from "@/components/page-cta"
 import Image from "next/image"
-import Link from "next/link"
-import _facilities from "./facilities.json"
+import _facilities from "../data.json"
 import { useState } from "react"
 import { AlbumModal } from "@/components/album-modal"
 export default function FacilitiesPage() {
-  const { callToActionContent, faciliitiesContent } = _facilities
+  const { callToActionContent, facilitiesContent } = _facilities
 
-  const [selectedAlbum, setSelectedAlbum] = useState<typeof faciliitiesContent[0] | null>(null)
+  const [selectedAlbum, setSelectedAlbum] = useState<typeof facilitiesContent[0] | null>(null)
 
   return (
     <main className="flex min-h-screen flex-col">
@@ -48,11 +47,12 @@ export default function FacilitiesPage() {
         </div>
       </section>
 
-      <section className="py-5 bg-white">
+      <section id="facilities" className="py-5 bg-white">
         <div className="container mx-auto px-4">
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-            {faciliitiesContent.map((album) => (
+            {facilitiesContent.map((album) => (
               <div
+                id={album.id}
                 key={album.id}
                 className="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow"
               >
@@ -108,7 +108,7 @@ export default function FacilitiesPage() {
       />
 
       {/* Campus Map Section */}
-      <section className="py-12 md:py-16 bg-white">
+      <section id="campus-map" className="py-12 md:py-16 bg-white">
         <div className="container mx-auto px-4">
           <div className="max-w-8xl mx-auto">
             <h2 className="text-2xl md:text-3xl font-bold text-slate-600 mb-6 text-center">
@@ -131,7 +131,6 @@ export default function FacilitiesPage() {
       </section>
 
       {/* CTA */}
-
       <PageCTA
         color="bg-amber-500"
         heading={callToActionContent.heading}

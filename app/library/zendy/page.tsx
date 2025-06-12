@@ -1,9 +1,6 @@
 import FadeIn from "@/components/fadein-transition"
-import LibraryFacilitiesCarousel from "@/components/library-carousel"
-import { Button } from "@/components/ui/button"
-import { LibraryBig } from "lucide-react"
 import Image from "next/image"
-import services from "../services/services.json"
+import services from "../data.json"
 import PageCTA from "@/components/page-cta"
 export default function LibraryPage() {
 
@@ -23,17 +20,17 @@ export default function LibraryPage() {
                 </div>
                 <FadeIn>
                     <div className="container relative z-10 mx-auto px-4 text-center">
-                        <h1 className="font-serif text-4xl font-bold tracking-tight text-white md:text-5xl">Explore Zendy</h1>
+                        <h1 className="font-serif text-4xl font-bold tracking-tight text-white md:text-5xl">Explore Zendy: Your Gateway to Knowledge</h1>
                         <p className="mt-6 max-w-2xl mx-auto text-xl text-white">
-                            Our library serves as the heart of academic inquiry and intellectual growth at Candelaria Institute,
-                            providing resources that inspire learning, creativity, and spiritual development.
+                            Unlock a world of academic resources anytime, anywhere with Zendy—Candelaria Institute's trusted online
+                            platform for research, learning, and discovery. Dive into thousands of journals, eBooks, and scholarly content to support your educational journey!
                         </p>
                     </div>
                 </FadeIn>
             </section>
 
             {/* Overview Section */}
-            <section className="py-20 bg-sky-50">
+            <section id="zendy" className="py-20 bg-sky-50">
                 <div className="container mx-auto px-4">
                     <div className=" aspect-video w-full max-w-20xxl mx-auto rounded-xl overflow-hidden shadow-xl">
                         <div className="relative h-full w-full">

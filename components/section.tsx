@@ -1,6 +1,7 @@
 "use client";
 
 type ContentSectionProps = {
+    id?: string;
     grid: string;
     heading: string;
     intro: string;
@@ -12,6 +13,7 @@ type ContentSectionProps = {
 };
 
 export default function ContentSection({
+    id,
     grid,
     heading,
     intro,
@@ -22,7 +24,7 @@ export default function ContentSection({
     footer
 }: ContentSectionProps) {
     return (
-        <section className={`py-20 ${background} ${headingColor}`}>
+        <section id={id} className={`py-20 ${background} ${headingColor}`}>
             <div className="container mx-auto px-4">
                 <h2 className="font-serif text-3xl font-bold text-center">{heading}</h2>
                 <div className="mt-4 flex justify-center">

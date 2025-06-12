@@ -33,7 +33,7 @@ export default function CurriculumPage() {
       </section>
 
       {/* Overview */}
-      <section className="py-20 bg-white">
+      <section id="curriculum-overview" className="py-20 bg-white">
         <div className="container mx-auto px-4">
           <div className="max-w-3xl mx-auto text-center">
             <h2 className="font-serif text-3xl font-bold text-slate-600">Curriculum Overview</h2>
@@ -105,7 +105,6 @@ export default function CurriculumPage() {
       </section>
 
 
-      {/* Curriculum Overview */}
       <section className="py-20 bg-white">
         <div className="container mx-auto px-4">
           <h2 className="font-serif text-3xl font-bold text-center text-slate-600 md:text-4xl">
@@ -122,7 +121,7 @@ export default function CurriculumPage() {
             {curriculumOverviewContent.items.map((item, index) => {
               const isEven = index % 2 === 0;
               return (
-                <div key={index} className="grid gap-8 md:grid-cols-2 my-20 items-center">
+                <div id={item.id} key={index} className="grid gap-8 md:grid-cols-2 my-20 items-center">
                   <div className={`${isEven ? 'md:order-2' : 'md:order-1'} relative h-[500px] rounded-xl overflow-hidden shadow-xl`}>
                     <Image src={item.image} alt={item.title} fill className="object-cover" />
                   </div>

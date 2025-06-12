@@ -2,7 +2,7 @@ import Image from "next/image"
 import Link from "next/link"
 import { ChevronRight } from "lucide-react"
 import FadeIn from "@/components/fadein-transition"
-import history from "./history.json"
+import history from "../data.json"
 import PageCTA from "@/components/page-cta"
 import OldDaysCarousel from "@/components/old-days-carousel"
 import ContentSection from "@/components/section"
@@ -38,7 +38,7 @@ export default function HistoryPage() {
         </FadeIn>
       </section>
 
-      <section className="py-20 bg-white">
+      <section id="history" className="py-20 bg-white">
         <section className="p-10 space-y-10 text-gray-900 bg-white max-w-5xl mx-auto leading-relaxed">
           {historyContent.map((entry, idx) => (
             <div className="space-y-4" key={idx}>
@@ -70,7 +70,7 @@ export default function HistoryPage() {
       </section>
 
       {/* Founding Fathers */}
-      <section className="py-20 bg-sky-50">
+      <section id="founders" className="py-20 bg-sky-50">
         <div className="container mx-auto px-4">
           <div className="grid gap-12 md:grid-cols-2 items-center">
             <div className="relative h-[400px] rounded-xl overflow-hidden shadow-xl">
@@ -113,6 +113,7 @@ export default function HistoryPage() {
 
       {/* School Leaders */}
       <ContentSection
+        id="directors"
         grid="3"
         background="bg-gray-50"
         headingColor="text-slate-600"
@@ -136,7 +137,7 @@ export default function HistoryPage() {
       </ContentSection>
 
       {/* Campus Evolution */}
-      <ContentSection
+      <ContentSection id="evolution"
         grid="2"
         background={campusEvolutionContent.background}
         headingColor={campusEvolutionContent.textColor}
@@ -163,6 +164,7 @@ export default function HistoryPage() {
       </ContentSection>
 
       <ContentSection
+        id="alumni-spotlight"
         grid="3"
         background={"bg-white"}
         textColor="text-black"

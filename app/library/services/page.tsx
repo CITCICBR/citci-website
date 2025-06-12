@@ -3,10 +3,10 @@ import PageCTA from "@/components/page-cta"
 import { LibraryBig } from "lucide-react"
 import Image from "next/image"
 import Link from "next/link"
-import service from "./services.json"
+import service from "../data.json"
 
 export default function LibraryPage() {
-    const { callToActionContent } = service
+    const { callToActionContent, libraryCollection } = service
     return (
         <main className="flex min-h-screen flex-col">
             {/* Hero Section */}
@@ -32,7 +32,7 @@ export default function LibraryPage() {
             </section>
 
             {/* Overview Section */}
-            <section className="py-12 md:py-16 bg-white">
+            <section id="overview" className="py-12 md:py-16 bg-white">
                 <div className="container mx-auto px-4">
                     <div className="flex flex-col md:flex-row items-center gap-8">
                         <div className="md:w-1/2">
@@ -92,7 +92,7 @@ export default function LibraryPage() {
             </section>
 
             {/* Collections Section */}
-            <section className="py-12 bg-gray-50">
+            <section id="collections" className="py-12 bg-gray-50">
                 <div className="container mx-auto px-4">
                     <h2 className="text-2xl md:text-3xl font-bold text-slate-600 text-center">Discover a World of Knowledge</h2>
                     <div className="mt-4 flex justify-center">
@@ -103,7 +103,7 @@ export default function LibraryPage() {
                         This collection offers insights into how our world works, how we live, and how we innovate.
                     </p>
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-                        {collections.map((collection) => (
+                        {libraryCollection.map((collection) => (
                             <div key={collection.id} className="flex items-start gap-2 my-8">
                                 <div className="flex h-16 w-12 items-center justify-center ">
                                     <LibraryBig className="h-10 w-10 text-slate-600" />
@@ -119,7 +119,7 @@ export default function LibraryPage() {
             </section>
 
             {/* Collections Section */}
-            <section className="py-12 bg-white">
+            <section id="how-to-access" className="py-12 bg-white">
                 <div className="container mx-auto px-4 text-center">
                     <h2 className="text-2xl md:text-3xl text-slate-600 font-bold mb-6">How to Access the Resources?</h2>
                     <div className="mt-4 flex justify-center">
@@ -152,7 +152,6 @@ export default function LibraryPage() {
             </section>
 
             {/* CTA */}
-
             <PageCTA
                 color="bg-amber-500"
                 heading={callToActionContent.heading}
@@ -162,46 +161,3 @@ export default function LibraryPage() {
         </main>
     )
 }
-
-const collections = [
-    {
-        id: 1,
-        name: "Business, Economics & Management",
-        description: "Explore the world of finance, entrepreneurship, marketing, and organizational strategy. This category delves into how businesses operate, make decisions, and create value in a global economy.",
-    },
-    {
-        id: 2,
-        name: "Chemical & Material Sciences",
-        description: "Uncover the secrets of matter and materials—from atomic interactions to innovative compounds. Focus areas include chemistry, nanotechnology, and the development of advanced materials for industry and medicine.",
-    },
-    {
-        id: 3,
-        name: "Engineering & Computer Science",
-        description: "Dive into the design, building, and optimization of systems—from physical machines to complex software. Topics span programming, AI, robotics, electrical and civil engineering, and more.",
-    },
-    {
-        id: 4,
-        name: "Health & Medical Sciences",
-        description: "Understand the science of human health and disease. This category covers medicine, public health, medical technology, and the biological mechanisms behind health and treatment.",
-    },
-    {
-        id: 5,
-        name: "Humanities, Literature & Arts",
-        description: "Engage with human culture through history, philosophy, languages, literature, and the arts. Analyze how people express meaning and interpret the world around them.",
-    },
-    {
-        id: 6,
-        name: "Life Sciences & Earth Sciences",
-        description: "Study life in all its forms and the planet it inhabits. From biology and ecology to geology and environmental science, this category reveals the complexity and beauty of nature and ecosystems.",
-    },
-    {
-        id: 7,
-        name: "Physics & Mathematics",
-        description: "Examine the foundational laws of the universe through theoretical and applied math and physics. Topics include quantum mechanics, relativity, calculus, and statistical models.",
-    },
-    {
-        id: 8,
-        name: "Social Sciences",
-        description: "Investigate human behavior, society, and relationships. This category includes psychology, sociology, anthropology, economics, and political science—exploring how people interact and govern.",
-    },
-]

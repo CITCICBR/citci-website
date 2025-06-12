@@ -136,25 +136,6 @@ export default function ContactPage() {
                       <Input id="email" type="email" placeholder="Email" />
                     </div>
                     <div className="space-y-2">
-                      <Label htmlFor="phone">Phone</Label>
-                      <Input id="phone" type="tel" placeholder="Phone" />
-                    </div>
-                    <div className="space-y-2">
-                      <Label htmlFor="inquiry-type">Inquiry Type</Label>
-                      <Select>
-                        <SelectTrigger>
-                          <SelectValue placeholder="Select an inquiry type" />
-                        </SelectTrigger>
-                        <SelectContent>
-                          <SelectItem value="general">General Information</SelectItem>
-                          <SelectItem value="admissions">Admissions</SelectItem>
-                          <SelectItem value="tuition">Tuition & Financial Aid</SelectItem>
-                          <SelectItem value="academics">Academics</SelectItem>
-                          <SelectItem value="other">Other</SelectItem>
-                        </SelectContent>
-                      </Select>
-                    </div>
-                    <div className="space-y-2">
                       <Label htmlFor="message">Message</Label>
                       <Textarea id="message" placeholder="Your message" rows={5} />
                     </div>
@@ -165,75 +146,6 @@ export default function ContactPage() {
                 </CardContent>
               </Card>
             </div>
-          </div>
-        </div>
-      </section>
-
-      {/* Map */}
-      <section className="py-20 bg-sky-50">
-        <div className="container mx-auto px-4">
-          <h2 className="font-serif text-3xl font-bold text-center text-slate-600">{mapSection.header}</h2>
-          <div className="mt-4 flex justify-center">
-            <div className="h-1 w-20 bg-amber-500"></div>
-          </div>
-          <p className="mt-8 max-w-3xl mx-auto text-center text-primary-600">
-            {mapSection.description}
-          </p>
-
-          <div className="mt-12 aspect-video w-full max-w-5xl mx-auto rounded-xl overflow-hidden shadow-xl">
-            <div className="relative h-full w-full">
-              <iframe
-                title="Campus Map"
-                src={mapSection.mapEmbedUrl}
-                width="100%"
-                height="100%"
-                allowFullScreen={true}
-                loading="lazy"
-                referrerPolicy="no-referrer-when-downgrade"
-                className="absolute inset-0 w-full h-full border-0"
-              />
-            </div>
-          </div>
-        </div>
-      </section>
-
-      {/* Department Directory */}
-      <section className="py-20 bg-white">
-        <div className="container mx-auto px-4">
-          <h2 className="font-serif text-3xl font-bold text-center text-slate-600">{departmentDirectory.header}</h2>
-          <div className="mt-4 flex justify-center">
-            <div className="h-1 w-20 bg-amber-500"></div>
-          </div>
-          <p className="mt-8 max-w-3xl mx-auto text-center text-primary-600">
-            {departmentDirectory.description}
-          </p>
-
-          <div className="mt-12 grid gap-8 md:grid-cols-2 lg:grid-cols-3">
-            {departmentDirectory.departments.map((item, index) => (
-              <Card key={index} className="border-none shadow-md">
-                <CardContent className="p-6">
-                  <h3 className="font-serif text-lg font-bold text-slate-600">{item.department}</h3>
-                  <div className="mt-2">
-                    <div className="h-0.5 w-12 bg-amber-500"></div>
-                  </div>
-                  <div className="mt-4 space-y-2 text-primary-600">
-                    <p>{item.contact}</p>
-                    <p className="flex items-center">
-                      <Mail className="mr-2 h-4 w-4 text-amber-500" />
-                      <a href={`mailto:${item.email}`} className="hover:text-amber-500">
-                        {item.email}
-                      </a>
-                    </p>
-                    <p className="flex items-center">
-                      <Phone className="mr-2 h-4 w-4 text-amber-500" />
-                      <a href={`tel:${item.phone.replace(/\D/g, "")}`} className="hover:text-amber-500">
-                        {item.phone}
-                      </a>
-                    </p>
-                  </div>
-                </CardContent>
-              </Card>
-            ))}
           </div>
         </div>
       </section>

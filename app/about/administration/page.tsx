@@ -1,7 +1,7 @@
 import Image from "next/image"
 import FadeIn from "@/components/fadein-transition"
 import ContentSection from "@/components/section"
-import administrationJson from "./administration.json"
+import administrationJson from "../data.json"
 export default function MissionPage() {
     const {administration} = administrationJson
     
@@ -29,8 +29,10 @@ export default function MissionPage() {
                 </FadeIn>
             </section>
 
-            {administration.map((group, index) => (
-                <ContentSection
+            <div id="admins-and-spiritual-directors">
+                {administration.map((group, index) => (
+                    <ContentSection
+                    id={group.id}
                     key={index}
                     grid="3"
                     background={index % 2 === 0 ? "bg-gray-50" : "bg-white"}
@@ -55,6 +57,7 @@ export default function MissionPage() {
                     ))}
                 </ContentSection>
             ))}
+            </div>
         </main>
     )
 }

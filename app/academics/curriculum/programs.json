@@ -4,6 +4,7 @@
         "intro": "Candelaria Institute offers a comprehensive curriculum designed to develop both academic skills and technical expertise across its educational levels—Basic Education, College Department, and Technical-Vocational Education and Training (TVET).",
         "items": [
             {
+                "id":"basic-education-program",
                 "title": "Basic Education Program",
                 "image": "/images/elementary.png",
                 "description": "Our Basic Education program spans from Elementary to Secondary education, providing students with a strong academic foundation and emphasizing values education and joyful learning.",
@@ -15,12 +16,14 @@
                 ]
             },
             {
+                "id":"junior-high-school-program",
                 "title": "Junior High School Program (Grades 7-10)",
                 "image": "/images/junior-high.png",
                 "description": "Where learners grow into critical thinkers and responsible citizens. Our well-rounded curriculum strengthens their academic core, leadership skills, and moral values — preparing them for real-world challenges and future learning paths.",
                 "bullets": []
             },
             {
+                "id":"senior-high-school-program",
                 "title": "Senior High School Program (Grades 11-12)",
                 "image": "/images/senior-high.png",
                 "description": "Get future-ready with our specialized tracks that match your goals, interests, and career dreams!",
@@ -44,7 +47,8 @@
                 ]
             },
             {
-                "title": "College Department",
+                "id":"college-program",
+                "title": "College Program",
                 "image": "/images/college.png",
                 "description": "Become a beacon of knowledge and inspiration! Our Bachelor of Secondary Education (BSEd) program shapes passionate future educators equipped to teach and lead in today’s evolving classrooms.",
                 "bullets": [
@@ -55,6 +59,7 @@
                 ]
             },
             {
+                "id":"tvet-program",
                 "title": "TVET Programs",
                 "image": "/images/tesda-program.png",
                 "description": "Skill up. Stand out. Start your career with our TESDA-approved programs, designed to equip students with the practical skills and certifications needed for various industries.",

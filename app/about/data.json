@@ -1,0 +1,741 @@
+{
+    "administration": [
+        {
+            "id": "admins-and-spiritual-directors",
+            "heading": "Admins and Spiritual Directors",
+            "intro": "Meet our dedicated leaders.",
+            "members": [
+                {
+                    "name": "Rev. Fr. Marlon Lacal",
+                    "position": "School President",
+                    "image": "/images/faculty/lacal-m.jpg"
+                },
+                {
+                    "name": "Msgr. Ruel Lasco",
+                    "position": "Spiritual Director",
+                    "image": "/images/faculty/lasco-r.jpg"
+                },
+                {
+                    "name": "Emmie V. Yanong",
+                    "position": "Exe. Asst. to the Director/HRMO",
+                    "image": "/images/faculty/yanong-e.png"
+                },
+                {
+                    "name": "Dr. Mary Grace M. Brongcano",
+                    "position": "College Dean",
+                    "image": "/images/faculty/brongcano-m.jpg"
+                },
+                {
+                    "name": "Maria Lavella J. Torregosa",
+                    "position": "Academic Head",
+                    "image": "/images/faculty/torregosa-ml.jpg"
+                }
+            ]
+        },
+        {
+            "id": "basic-education-department",
+            "heading": "Basic Education Department",
+            "intro": "Meet our dedicated educators shaping the future of our young learners.",
+            "members": [
+                {
+                    "name": "Mary Margarette S. Vista",
+                    "position": "Elementary Principal",
+                    "image": "/images/faculty/vista-m.jpg"
+                },
+                {
+                    "name": "Marwelyn D. Almirol",
+                    "position": "Elementary Teacher",
+                    "image": "/images/faculty/almirol-m.jpg"
+                },
+                {
+                    "name": "Leizel Jane B. Berizo",
+                    "position": "Elementary Teacher",
+                    "image": "/images/faculty/berizo-l.jpg"
+                },
+                {
+                    "name": "Ruffa Mae D. Dagani",
+                    "position": "Elementary Teacher",
+                    "image": "/images/faculty/dagani-r.jpg"
+                },
+                {
+                    "name": "Clareze Zane C. Duran",
+                    "position": "Elementary Teacher",
+                    "image": "/images/faculty/duran-c.jpg"
+                },
+                {
+                    "name": "Debbie Mae B. Durango",
+                    "position": "Elementary Teacher",
+                    "image": "/images/faculty/durango-d.jpg"
+                },
+                {
+                    "name": "Ma. Theresa C. Grisola",
+                    "position": "Elementary Teacher",
+                    "image": "/images/faculty/grisola-mt.jpg"
+                },
+                {
+                    "name": "Nova Mary Cris Labasano",
+                    "position": "Elementary Teacher",
+                    "image": "/images/faculty/labasano-n.jpg"
+                },
+                {
+                    "name": "Zenny B. Salas",
+                    "position": "Elementary Teacher",
+                    "image": "/images/faculty/salas-z.jpg"
+                },
+                {
+                    "name": "Wenston Segador",
+                    "position": "Elementary Teacher",
+                    "image": "/images/faculty/segador-w.jpg"
+                },
+                {
+                    "name": "Wendelou S. Villareal",
+                    "position": "Elementary Teacher",
+                    "image": "/images/faculty/villareal-w.jpg"
+                }
+            ]
+        },
+        {
+            "id": "high-school-department",
+            "heading": "High School Department",
+            "intro": "Our senior high faculty are committed to academic excellence and student success.",
+            "members": [
+                {
+                    "name": "Herminiana C. Bueno",
+                    "position": "High School Principal",
+                    "image": "/images/faculty/bueno-h.jpg"
+                },
+                {
+                    "name": "Guia M. Dejeno",
+                    "position": "Junior High Teacher",
+                    "image": "/images/faculty/dejeno-g.jfif"
+                },
+                {
+                    "name": "Gemma S. Amper",
+                    "position": "Junior High Teacher",
+                    "image": "/images/faculty/amper-g.jpg"
+                },
+                {
+                    "name": "Ghea Marielle M. Bulala",
+                    "position": "Junior High Teacher",
+                    "image": "/images/faculty/bulala-g.jpg"
+                },
+                {
+                    "name": "Charlyn A. Casinas",
+                    "position": "Junior High Teacher",
+                    "image": "/images/faculty/casinas-c.jpg"
+                },
+                {
+                    "name": "Godwin Dejolde",
+                    "position": "Junior High Teacher",
+                    "image": "/images/faculty/dejolde-g.jpg"
+                },
+                {
+                    "name": "Marvin D. Donoso",
+                    "position": "Junior High Teacher",
+                    "image": "/images/faculty/donoso-m.jpg"
+                },
+                {
+                    "name": "Christian Van R. Guiral",
+                    "position": "Junior High Teacher",
+                    "image": "/images/faculty/guiral-c.jpg"
+                },
+                {
+                    "name": "Noriedhel Guiren",
+                    "position": "Junior High Teacher",
+                    "image": "/images/faculty/guiren-n.jpg"
+                },
+                {
+                    "name": "Delilah Marie D. Intigro",
+                    "position": "Junior High Teacher",
+                    "image": "/images/faculty/intigro-d.jpg"
+                },
+                {
+                    "name": "Cesar A. Monzon",
+                    "position": "Junior High Teacher",
+                    "image": "/images/faculty/monzon-c.jpg"
+                },
+                {
+                    "name": "Jury T. Pineda",
+                    "position": "Junior High Teacher",
+                    "image": "/images/faculty/pineda-j.jpg"
+                },
+                {
+                    "name": "Jephosin Rey O. Supitran",
+                    "position": "Junior High Teacher",
+                    "image": "/images/faculty/supitran-j.jpg"
+                },
+                {
+                    "name": "Kaye T. Tapar",
+                    "position": "Junior High Teacher",
+                    "image": "/images/faculty/tapar-k.jpg"
+                },
+                {
+                    "name": "Teresa E. Acosta",
+                    "position": "Senior High Teacher",
+                    "image": "/images/faculty/acosta-t.jpg"
+                },
+                {
+                    "name": "Stephen T. Bitay",
+                    "position": "Senior High Teacher",
+                    "image": "/images/faculty/bitay-s.jpg"
+                },
+                {
+                    "name": "Alex N. Bihag",
+                    "position": "Senior High Teacher",
+                    "image": "/images/faculty/bihag-a.jpg"
+                },
+                {
+                    "name": "Charlot P. Dacera",
+                    "position": "Senior High Teacher",
+                    "image": "/images/faculty/dacera-c.jpg"
+                },
+                {
+                    "name": "Jeana B. Delalamon",
+                    "position": "Senior High Teacher",
+                    "image": "/images/faculty/delalamon-j.jpg"
+                },
+                {
+                    "name": "Liza C. Duran",
+                    "position": "Senior High Teacher",
+                    "image": "/images/faculty/duran-l.jpg"
+                },
+                {
+                    "name": "Dj Lesther N. Hora",
+                    "position": "Senior High Teacher",
+                    "image": "/images/faculty/hora-d.jpg"
+                },
+                {
+                    "name": "Niña Martina Q. Hornido",
+                    "position": "Senior High Teacher",
+                    "image": "/images/faculty/hornido-nm.jpg"
+                },
+                {
+                    "name": "Jonaveb T. Inanod",
+                    "position": "Senior High Teacher",
+                    "image": "/images/faculty/inanod-j.jpg"
+                },
+                {
+                    "name": "Dante T. Inciso",
+                    "position": "Senior High Teacher",
+                    "image": "/images/faculty/inciso-d.jpg"
+                },
+                {
+                    "name": "Kerwin F. Pasilang",
+                    "position": "Senior High Teacher",
+                    "image": "/images/faculty/pasilang-k.jpg"
+                },
+                {
+                    "name": "Eusebio R. Quigao Sr.",
+                    "position": "Senior High Teacher",
+                    "image": "/images/faculty/quigao-e.jpg"
+                },
+                {
+                    "name": "Amy Chimadonna L. Zoleta",
+                    "position": "Senior High Teacher",
+                    "image": "/images/faculty/zoleta-a.jpg"
+                },
+                {
+                    "name": "Charisma C. Ascarez",
+                    "position": "Senior High Teacher",
+                    "image": "/images/faculty/ascarez-c.jpg"
+                }
+            ]
+        },
+        {
+            "id": "college-department",
+            "heading": "College Department",
+            "intro": "Our college faculty are committed to academic excellence and student success.",
+            "members": [
+                {
+                    "name": "Atlene A. Anino",
+                    "position": "College Teacher",
+                    "image": "/images/faculty/anino-a.jpg"
+                },
+                {
+                    "name": "Mart John C. Presillas",
+                    "position": "College Teacher",
+                    "image": "/images/faculty/presillas-m.jpg"
+                }
+            ]
+        },
+        {
+            "id": "non-teaching-personnel",
+            "heading": "Non-Teaching Personnel",
+            "intro": "Supporting our community with dedication and professionalism.",
+            "members": [
+                {
+                    "name": "Conchita C. Belmonte",
+                    "position": "Finance Officer",
+                    "image": "/images/faculty/belmonte-c.jpg"
+                },
+                {
+                    "name": "Renz Gierald B. Caballa",
+                    "position": "HRMO Staff",
+                    "image": "/images/faculty/caballa-r.jpg"
+                },
+                {
+                    "name": "Jimmy E. Banate",
+                    "position": "IT Technician",
+                    "image": "/images/faculty/banate-j.jpg"
+                },
+                {
+                    "name": "Marie Jean P. Dagandara",
+                    "position": "Library Staff",
+                    "image": "/images/faculty/dagandara-m.jpg"
+                },
+                {
+                    "name": "Ilarde Butardo",
+                    "position": "Maintenance",
+                    "image": "/images/faculty/butardo-i.jpg"
+                },
+                {
+                    "name": "Girbert C. Cagadas",
+                    "position": "Maintenance",
+                    "image": "/images/faculty/cagadas-g.jpg"
+                },
+                {
+                    "name": "Susan G. Cagadas",
+                    "position": "Maintenance",
+                    "image": "/images/faculty/cagadas-s.jpg"
+                },
+                {
+                    "name": "Max C. Anino",
+                    "position": "Prefect of Discipline",
+                    "image": "/images/faculty/anino-m.jpg"
+                },
+                {
+                    "name": "Nestlie G. Columbrillo",
+                    "position": "Technical Staff",
+                    "image": "/images/faculty/columbrillo-n.jpg"
+                },
+                {
+                    "name": "Marie Cris D. Cong",
+                    "position": "Technical Staff",
+                    "image": "/images/faculty/cong-m.jpg"
+                }
+            ]
+        }
+    ],
+    "facilitiesContent": [
+        {
+            "id": "speech-lab",
+            "title": "Speech Laboratory",
+            "description": "A space for students to practice their public speaking skills.",
+            "coverImage": "/images/speech-lab/spl-1.jpg",
+            "images": [
+                "/images/speech-lab/spl-2.jpg",
+                "/images/speech-lab/spl-3.jpg"
+            ],
+            "features": []
+        },
+        {
+            "id": "computer-lab",
+            "title": "Computer Laboratory",
+            "description": "A space for students to practice their computer skills.",
+            "coverImage": "/images/computer-lab/cl-1.jpg",
+            "images": [
+                "/images/computer-lab/cl-2.jpg",
+                "/images/computer-lab/cl-3.jpg",
+                "/images/computer-lab/cl-4.jpg",
+                "/images/computer-lab/cl-5.jpg",
+                "/images/computer-lab/cl-6.jpg"
+            ],
+            "features": []
+        },
+        {
+            "id": "bread-and-pastry",
+            "title": "Bread and Pastry Production Laboratory",
+            "description": "A space for students to practice their baking skills.",
+            "coverImage": "/images/bread-pastries/bpp-1.jpg",
+            "images": [
+                "/images/bread-pastries/bpp-2.jpg",
+                "/images/bread-pastries/bpp-3.jpg",
+                "/images/bread-pastries/bpp-4.jpg",
+                "/images/bread-pastries/bpp-5.jpg"
+            ],
+            "features": []
+        },
+        {
+            "id": "css-lab",
+            "title": "Comupert System Servicing Laboratory",
+            "description": "A space for students to practice computer hardware, software, and network troubleshooting.",
+            "coverImage": "/images/css-lab/cssl-1.jpg",
+            "images": [
+                "/images/css-lab/cssl-2.jpg",
+                "/images/css-lab/cssl-3.jpg",
+                "/images/css-lab/cssl-4.jpg",
+                "/images/css-lab/cssl-5.jpg",
+                "/images/css-lab/cssl-6.jpg",
+                "/images/css-lab/cssl-7.jpg",
+                "/images/css-lab/cssl-8.jpg"
+            ],
+            "features": []
+        },
+        {
+            "id": "metal-fabrication",
+            "title": "SMAW Metal Fabrication Facility",
+            "description": "A space for students to practice in cutting, joining, and shaping metal with industry-grade tools",
+            "coverImage": "/images/metal-fabrication/wd-1.jpg",
+            "images": [
+                "/images/metal-fabrication/wd-2.jpg",
+                "/images/metal-fabrication/wd-3.jpg",
+                "/images/metal-fabrication/wd-4.jpg",
+                "/images/metal-fabrication/wd-5.jpg"
+            ],
+            "features": []
+        },
+        {
+            "id": "driving",
+            "title": "Driving and Maintenance Facility",
+            "description": "A space for students to practice safe driving and basic vehicle care using real-world setups",
+            "coverImage": "/images/driving/drv-1.jpg",
+            "images": [
+                "/images/driving/drv-2.jpg",
+                "/images/driving/drv-3.jpg",
+                "/images/driving/drv-4.jpg",
+                "/images/driving/drv-5.jpg"
+            ],
+            "features": []
+        },
+        {
+            "id": "comfort-room-female",
+            "title": "Female Comfort Room",
+            "description": "A space for students to relax and unwind.",
+            "coverImage": "/images/comfort-room/female/fcr-1.jpg",
+            "images": [
+                "/images/comfort-room/female/fcr-2.jpg",
+                "/images/comfort-room/female/fcr-3.jpg"
+            ],
+            "features": []
+        },
+        {
+            "id": "comfort-room-male",
+            "title": "Male Comfort Room",
+            "description": "A space for students to relax and unwind.",
+            "coverImage": "/images/comfort-room/male/mcr-1.jpg",
+            "images": [
+                "/images/comfort-room/male/mcr-2.jpg",
+                "/images/comfort-room/male/mcr-3.jpg"
+            ],
+            "features": []
+        }
+    ],
+    "heroContent": {
+        "heading": "Our History",
+        "subtitle": "A legacy of education since 1901",
+        "image": {
+            "link": "/placeholder.svg?height=600&width=1920",
+            "alt": "Our History"
+        }
+    },
+    "historyContent": [
+        {
+            "title": "Challenges in 1901",
+            "paragraphs": [
+                "In the second half of 1901 it became clear that the problems which the missionaries were going to face in the near future were the following:"
+            ],
+            "list": [
+                "The opposition to the (re)establishment of parochial schools and the emergencies of a religious public school system;",
+                "Municipal interference with marriage procedure;",
+                "Municipal claims a church-owned cemeteries and even church buildings and rectories."
+            ]
+        },
+        {
+            "title": "Parish Education Before 1901",
+            "paragraphs": [
+                "Up to 1899 the school for boys and that for girls had been a parish institute as was the case almost everywhere. For the education of the girls, the Jesuits had brought in a community of ‘Beaterio’ Sister (now RVM) to Butuan, but they returned to Manila after the imprisonment of the missionaries. With all the national and local tensions, the schools had been at the standstill for nearly two years. When Fr. Urios arrived in Surigao on his way to Butuan in February, 1901, he, Fr. Parache and Fr. Heras had a conference in Surigao to assess the situation in the district and inform the Manila superior of their opinion"
+            ]
+        },
+        {
+            "title": "Struggles and Reopening of Schools",
+            "paragraphs": [
+                "They were, of course, not the only ones to see the importance of re-opening the schools. It was also one of the main concerns of the American administration of the archipelago. Like in many places of the Philippines, also in Butuan and Cabadbaran, the interests of the Church and State authorities were to lead to very unpleasant opposition and clashes. It is true that by the law, parents were granted the freedom to enroll their children in schools of their own choice.",
+                "While we know that Fr. Matias Roure re-opened the catholic school in 1903, an undated manifest signed “Los Catolicos de Cabadbaran” can be found in the Sant Cugat Archives. The manifest witnessed the indignation of Catholic parents to the education of their children. It was addressed to Governor Garcia of Surigao, ‘We, the Catholics of Cabadbaran, inform you that since the establishment of the Catholic school here, we are being deprived of our total freedom which the law of the United States grants us in matters of religion, as the Colonel of the Filipino milicia stationed here had told us."
+            ]
+        },
+        {
+            "title": "Beginnings of Catholic Schools",
+            "paragraphs": [
+                "These are the predecessors of our Catholic schools today! We clearly see the beginnings of the public school system. And here in Cabadbaran, it is clear that while a resident priest was assigned here only in 1913, before that there was a school, a convent and a church. This earned Cabadbaran the title ‘este famoso pueblo!’. If they dared to open the school while still a ‘visita’ of Butuan parish, they would not stop supporting it in face of overwhelming odds. They would even more be unstoppable once a resident priest was assigned and they were given the privilege of being a full-pledge parish in 1913. It is needless to go into details how things transpired from thereon. It is enough that we would have a look at what the new priests (Dutch Missionaries of the Sacred Heart) would do one they took over in 1935 from the Spanish Jesuits."
+            ]
+        },
+        {
+            "title": "Establishment of Candelaria Institute",
+            "paragraphs": [
+                "The Candelaria Institute (original name: Cabadbaran Parochial School) was establish by the Bishop of Surigao in the Parish of Cabadbaran in June 1935. It existed for many years as an Elementary School with emphasis on Religious Instructions and other academic subjects."
+            ]
+        },
+        {
+            "title": "Catholic School History and Parish Ties",
+            "paragraphs": [
+                "History of Cabadbaran Parish even tells us that Fr. Matias had reopened the Catholic school in 1903. During the years 1901 and 1902 there were three (3) priests working in Agusan with residence at Butuan: Fr. Saturnino Urios, Fr. Bernardino Llobera and Fr. Matias Roure. From 1901 till 1916, the priest at Butuan was Fr. Urios. Cabadbaran Parish celebrated its 75th Anniversary last November 7, 1913 when the first baptism of two children: Quiteria Miseona and Irene Mabaso, was entered in our oldest baptismal book. These two children were baptized by. Fr. Jose España, S.J., and the first parish priest of Cabadbaran.",
+                "These tidbits of information imply that the school already existed long before the creation of the parish. The parish priest usually runs the school. The school is the educational arm of the parish and us evangelization efforts."
+            ]
+        },
+        {
+            "title": "Legal Establishment and Leadership",
+            "paragraphs": [
+                "The incorporation paper of the Cabadbaran Parochial School was signed on February 2, 1938, forming a non-stock corporation to establish, open and conduct classes in the Elementary course as prescribed by the Bureau of Privates Education including a Kindergarten course. The school was under the direct control, supervision and management of Rev. Cornelius van de Loo, MSC. The copy of the Articles of Incorporation was registered on February 14, 1938 and on March 22, 1948; there was reconstruction of records of the corporation paper. The duration of this non-stock corporation was 25 years with the following trustees for the first ten (10) years:"
+            ],
+            "list": [
+                "Rev. Martin Fransen, MSC",
+                "Rev. Rudolf van Es, MSC",
+                "Rev. John Ruijter, MSC",
+                "Rev. Vicente Celeste, MSC",
+                "Rev. Cornelius van de Loo, MSC"
+            ]
+        },
+        {
+            "title": "Secondary and Technical Education Expansion",
+            "paragraphs": [
+                "Candelaria Institute Secondary School was established under Republic Act No. 74. Classes officially opened in June 1946 under permit. She was given with Recognition on May 1, 1950 with Government Recognition No. 54 Series of 1950 for complete Academic Secondary Course (Day).",
+                "The school site of one hectare is the sole property of the parish of Cabadbaran Catholic Rectory. Other parts of the site are used for the church building and the convent.",
+                "In 1946, it was a lone-story building, an extension of the priest convent. Presently, it is a three-story building housing the classrooms, science laboratories and library halls, rooms, offices, canteen and stock rooms."
+            ]
+        },
+        {
+            "title": "TVET Programs",
+            "paragraphs": [
+                "In 2008, the technical department was created in order to provide skills training to individuals and the community whose desire is to acquire skills needed for employment and cope with the demands of the present time. The board of trustees was determined to pursue and approve the opening of the following courses upon the approval of TESDA:"
+            ],
+            "list": [
+                "Shielded Metal Arc Welding NC II",
+                "Computer Hardware Servicing NC II",
+                "Visual Graphic Design NC III",
+                "Gas Metal Arc Welding NC I and II",
+                "Driving NC II"
+            ],
+            "extraLists": [
+                {
+                    "paragraph": "In 2017, the board of trustees approved additional courses to be opened, namely:",
+                    "items": [
+                        "Computer System Servicing NC II",
+                        "Bookkeeping NC III",
+                        "Bread and Pastry Production NC II",
+                        "SMAW NC I and III"
+                    ]
+                }
+            ],
+            "conclusion": "In 2019, the school applied to TESDA for the Bread and Pastry Production NC II, Bookkeeping NC III, and SMAW I course as assessment centers."
+        },
+        {
+            "title": "College Department",
+            "paragraphs": [
+                "The College Department was established in 2011 and received government recognition in 2014. It offers only one program, the Bachelor of Secondary Education (BSEd) major in Social Studies and English. It has the lowest tuition fee among the schools, allowing students to enroll at very low costs. Enrollment has always been slow due to the presence of established universities and colleges in the city and neighboring cities and towns. Most of our students come from the city's barangays and neighboring towns and are graduates of public schools. Some of them are working students who rely solely on government financial assistance."
+            ]
+        }
+    ],
+    "foundersContent": {
+        "image": {
+            "src": "/placeholder.svg?height=800&width=600",
+            "alt": "Candelaria Institute Founders"
+        },
+        "heading": "Our Founding Fathers",
+        "highlightColor": "bg-amber-500",
+        "paragraphs": [
+            "The founding of Cabadbaran Parochial School, later known as Candelaria Institute, is rooted in the missionary zeal and educational vision of Spanish Jesuit missionaries and Dutch Missionaries of the Sacred Heart (MSC). These pioneers overcame political, religious, and logistical challenges to bring faith-based education to Cabadbaran.",
+            "Fr. Matias Roure, S.J., a Spanish Jesuit, reopened the Catholic school in 1903 amid post-war tensions. Fr. Saturnino Urios, S.J., supervised the Agusan mission from Butuan and lent vital support to educational efforts in the region. In 1913, Fr. Jose España, S.J. became the first parish priest of Cabadbaran, stabilizing the parish and supporting the school’s growth.",
+            "In 1935, the Dutch MSC missionaries, led by Rev. Cornelius van de Loo, MSC, formally incorporated the school as Cabadbaran Parochial School. He was joined by founding trustees Rev. Martin Fransen, MSC, Rev. Rudolf van Es, MSC, Rev. John Ruijter, MSC, and Rev. Vicente Celeste, MSC in 1938. Together, they established and expanded the elementary and kindergarten departments.",
+            "These founders were more than administrators—they were educators, spiritual leaders, and community builders. Their legacy continues to shape the mission and identity of Candelaria Institute through their unwavering commitment to Catholic education."
+        ]
+    },
+    "directorsContent": {
+        "heading": "School Directors Through the Years",
+        "highlightColor": "bg-amber-500",
+        "intro": "Candelaria Institute's has been blessed with dedicated leaders who have guided our school through decades of growth and change.",
+        "directors": [
+            {
+                "name": "Rev. Fr. Marlon A. Lacal",
+                "years": "November 2023 - Present",
+                "image": "/images/lacal.jpg"
+            },
+            {
+                "name": "Rev. Fr. Mart James C. Presillas",
+                "years": "June - November 2023",
+                "image": "/images/presillas.jpg"
+            },
+            {
+                "name": "Rev. Msgr. Porfirio C. Colon Jr.",
+                "years": "June 2007 - May 2023",
+                "image": "/images/colon.jpg"
+            },
+            {
+                "name": "Msgr. Marcelino J. Caldoza",
+                "years": "2001 - 2006",
+                "image": "/images/caldoza.jpg"
+            },
+            {
+                "name": "Rev. Fr. Isaac Manuel \"Boboc\" V. Moran",
+                "years": "1974 - 2001",
+                "image": "/images/moran.jpg"
+            }
+        ]
+    },
+    "campusEvolutionContent": {
+        "heading": "Campus Evolution",
+        "highlightColor": "bg-amber-500",
+        "intro": "Over the decades, our campus has grown and evolved to meet the changing needs of our students and educational programs.",
+        "background": "bg-slate-800",
+        "textColor": "text-white",
+        "cardBackground": "bg-slate-700",
+        "sections": [
+            {
+                "title": "The Original Building: A Symbol of Faith and Perseverance",
+                "image": "/images/old-building.jpg",
+                "alt": "Original Campus",
+                "description": "The original structure of Candelaria Institute, once known as Cabadbaran Parochial School, stood as a humble yet powerful symbol of the missionaries’ devotion to Catholic education. Built under the pioneering efforts of Spanish Jesuit missionaries like Fr. Matias Roure, S.J., and strengthened by the leadership of Fr. Jose España, S.J., the early buildings provided a safe space for learning during a time of political unrest and anti-clerical sentiment. Later expanded under the Dutch MSC missionaries in 1938, these early facilities—simple in form but strong in purpose—served as the foundation for nurturing generations of morally grounded and academically prepared youth in Cabadbaran."
+            },
+            {
+                "title": "The New Building: A Testament to Growth and Vision",
+                "image": "/images/renovated-building.jpg",
+                "alt": "Current Campus",
+                "description": "Today, Candelaria Institute’s new facilities reflect the school’s continuing evolution and commitment to excellence. Modern classrooms, upgraded infrastructure, and enhanced learning environments now support a growing student population, while still preserving the spiritual values embedded by its founders. The new building represents not just physical development, but a renewed dedication to delivering quality Catholic education—anchored in tradition, yet forward-looking in vision."
+            }
+        ]
+    },
+    "alumniSpotlightContent": {
+        "heading": "Alumni Spotlight",
+        "highlightColor": "bg-amber-500",
+        "intro": "Candelaria Institute's graduates have gone on to make significant contributions in various fields, carrying forward the values and education they received at our school.",
+        "alumni": [
+            {
+                "name": "Dr. Maria Rodriguez",
+                "class": "Class of 1975",
+                "achievement": "Renowned pediatric surgeon and humanitarian who has led medical missions to underserved communities worldwide.",
+                "image": "/placeholder.svg?height=400&width=400"
+            },
+            {
+                "name": "Fr. James Wilson",
+                "class": "Class of 1982",
+                "achievement": "Ordained priest who has served as a chaplain in hospitals and universities, bringing comfort and spiritual guidance to many.",
+                "image": "/placeholder.svg?height=400&width=400"
+            },
+            {
+                "name": "Mrs. Sarah Thompson",
+                "class": "Class of 1990",
+                "achievement": "Award-winning educator who founded a nonprofit organization providing educational opportunities for disadvantaged youth.",
+                "image": "/placeholder.svg?height=400&width=400"
+            }
+        ],
+        "ctaLink": "/alumni",
+        "ctaText": "Learn more about our alumni network"
+    },
+    "activitiesContent": {
+        "heading": "The Old Days",
+        "description": "Our students shine beyond the classroom through various clubs, leadership opportunities, service projects, and fun events throughout the year.",
+        "activities": [
+            {
+                "image": "/images/old-building.jpg",
+                "title": "Old Building"
+            },
+            {
+                "image": "/images/renovated-building.jpg",
+                "title": "Renovated Building"
+            },
+            {
+                "image": "/images/100-years.jpg",
+                "title": "Celebrating 100 Years"
+            },
+            {
+                "image": "/images/celeb-01.jpg",
+                "title": "Celebrating 100 Years"
+            },
+            {
+                "image": "/images/celeb-02.jpg",
+                "title": "Celebrating 100 Years"
+            },
+            {
+                "image": "/images/celeb-03.jpg",
+                "title": "Celebrating 100 Years"
+            },
+            {
+                "image": "/images/celeb-04.jpg",
+                "title": "Celebrating 100 Years"
+            },
+            {
+                "image": "/images/celeb-05.jpg",
+                "title": "Celebrating 100 Years"
+            },
+            {
+                "image": "/images/teachers.jpg",
+                "title": "Teachers of CI"
+            }
+        ]
+    },
+    "vision": {
+        "title": "Our Vision",
+        "quote": "CITCI envisions morally, spiritually, intellectually formed and digitally savvy graduates who promote life, culture, and environment.",
+        "paragraphs": [
+            "At Candelaria Institute of Technology and Candelaria Institute (CITCI), our vision is to form individuals who are not only academically skilled but also morally and spiritually grounded. We aim to equip our students with the knowledge and competencies they need to thrive in an increasingly digital world.",
+            "Our graduates will be advocates for life, culture, and environmental sustainability, making a positive impact in their communities and beyond. By combining intellectual growth with ethical values, CITCI strives to shape future leaders who will drive positive change, promote cultural heritage, and care for the world around them."
+        ]
+    },
+    "_mission": {
+        "title": "Our Mission",
+        "quote": "With Mary our model, we commit ourselves to:\n1. Inculcate gospel values to all stakeholders;\n2. Design programs to achieve academic excellence;\n3. Conduct research for school and community development;\n4. Develop social responsibility among various stakeholders;\n5. Produce graduates who are Christ-centered and globally competitive.",
+        "paragraphs": [
+            "At Candelaria Institute of Technology and Candelaria Institute (CITCI), we are guided by Mary, our model, as we dedicate ourselves to fostering a holistic educational environment.",
+            "Our mission is to nurture gospel values in all members of our community, creating a foundation of moral and spiritual integrity. We are committed to designing programs that ensure academic excellence, encouraging our students to reach their highest potential.",
+            "Through research and community development initiatives, we aim to contribute to both the growth of the school and the well-being of the community.",
+            "We strive to develop social responsibility among our stakeholders, ensuring that our students not only excel academically but also engage with and improve their communities.",
+            "Ultimately, we aim to produce graduates who are Christ-centered, upholding strong ethical values, and globally competitive, equipped to thrive in an interconnected and evolving world."
+        ]
+    },
+    "core_values": {
+        "title": "Our Core Values",
+        "description": "These core values guide our mission, shape our programs, and strengthen our commitment to holistic education.",
+        "values": [
+            {
+                "title": "Faith and Spiritual Formation",
+                "description": "Rooted in our Catholic heritage, we emphasize religious instruction and values formation as integral parts of education, from elementary to college."
+            },
+            {
+                "title": "Commitment to Education and Excellence",
+                "description": "Our continuous growth from elementary to college and vocational levels reflects our pursuit of excellence, recognized by DepEd, CHED, and TESDA."
+            },
+            {
+                "title": "Service to Community",
+                "description": "Founded to provide accessible education, we continue to serve through programs like TVET that equip students with practical, employable skills."
+            },
+            {
+                "title": "Resilience and Adaptability",
+                "description": "Despite leadership transitions, we have thrived through the decades by evolving our academic and technical programs to meet learners' needs."
+            },
+            {
+                "title": "Integrity and Discipline",
+                "description": "Guided by Catholic values, we aim to shape individuals who are not only intellectually competent but also morally upright and disciplined."
+            }
+        ]
+    },
+    "philosophy_of_education": {
+        "title": "Our Philosophy of Education",
+        "paragraphs": [
+            "At Candelaria Institute, we believe that education is a transformative process rooted in faith, service, and excellence. Guided by Catholic values, we are committed to the holistic formation of learners — intellectually, morally, spiritually, and socially.",
+            "We strive to nurture responsible citizens and compassionate leaders through quality academic instruction, technical skills training, and values education that respond to the needs of the community and the nation. We view every student as a unique individual with the potential to grow and succeed.",
+            "Our approach integrates academic rigor, character development, and community service, empowering students to become lifelong learners, critical thinkers, and servant leaders in a changing world."
+        ]
+    },
+    "catholic_identity": {
+        "title": "Our Catholic Identity",
+        "paragraphs": [
+            "Candelaria Institute is a Catholic educational institution founded on the principles of faith, service, and commitment to holistic education. Inspired by Catholic teachings, we integrate Christian values into all aspects of school life—academics, student formation, and community engagement. Daily prayer, religious instruction, and participation in liturgical celebrations nurture the spiritual growth of our students.",
+            "We strive to form individuals who not only excel academically but also live out the Gospel values of compassion, humility, integrity, and social responsibility, becoming instruments of peace and justice in their families and communities."
+        ]
+    },
+    "callToActionContent": {
+        "heading": "Ready to Join Our Community?",
+        "description": "We invite you to take the next step in providing your child with an exceptional Catholic education. Contact our Admissions Office to schedule a tour or apply today.",
+        "buttons": [
+            {
+                "label": "Enroll Now",
+                "href": "/admissions/apply",
+                "style": "primary"
+            },
+            {
+                "label": "Contact Us",
+                "href": "/contact",
+                "style": "secondary"
+            }
+        ]
+    }
+}
