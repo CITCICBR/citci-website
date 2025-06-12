@@ -1,10 +1,10 @@
 import FadeIn from "@/components/fadein-transition"
 import Image from "next/image"
-import mission from "./mission.json"
+import mission from "../data.json"
 import PageCTA from "@/components/page-cta"
 
 export default function MissionPage() {
-  const { core_values, philosophy_of_education, catholic_identity, cta, _mission, vision } = mission
+  const { core_values, philosophy_of_education, catholic_identity, callToActionContent, _mission, vision } = mission
   return (
     <main className="min-h-screen">
       {/* Hero Section */}
@@ -28,28 +28,28 @@ export default function MissionPage() {
         </FadeIn>
       </section>
 
-      <section className="py-20 bg-white">
+      <section id="vision" className="py-20 bg-white">
         <div className="container mx-auto px-4">
           <div className="max-w-3xl mx-auto text-center">
-            <h2 className="font-serif text-3xl font-bold text-slate-600">{ vision.title}</h2>
+            <h2 className="font-serif text-3xl font-bold text-slate-600">{vision.title}</h2>
             <div className="mt-4 flex justify-center">
               <div className="h-1 w-20 bg-amber-500"></div>
             </div>
             <div className="mt-8 p-8 bg-sky-50 rounded-xl shadow-md">
               <p className="text-xl italic text-slate-600">
-                { vision.quote }
+                {vision.quote}
               </p>
             </div>
             <div className="mt-8 space-y-4 text-primary-600">
               {vision.paragraphs.map((p, index) => (
-                <p key={index}>{ p }</p>
+                <p key={index}>{p}</p>
               ))}
             </div>
           </div>
         </div>
       </section>
 
-      <section className="py-20 bg-sky-50">
+      <section id="mission" className="py-20 bg-sky-50">
         <div className="container mx-auto px-4">
           <div className="max-w-3xl mx-auto text-center">
             <h2 className="font-serif text-3xl font-bold text-slate-600">{_mission.title}</h2>
@@ -62,8 +62,8 @@ export default function MissionPage() {
               </p>
             </div>
             <div className="mt-8 space-y-4 text-primary-600">
-            {_mission.paragraphs.map((p, index) => (
-                <p key={index}>{ p }</p>
+              {_mission.paragraphs.map((p, index) => (
+                <p key={index}>{p}</p>
               ))}
             </div>
           </div>
@@ -71,7 +71,7 @@ export default function MissionPage() {
       </section>
 
       {/* Philosophy of Education */}
-      <section className="py-20 bg-slate-800 text-white">
+      <section id="philosophy" className="py-20 bg-slate-800 text-white">
         <div className="container mx-auto px-4">
           <div className="grid gap-12 md:grid-cols-2 items-center">
             <div>
@@ -98,7 +98,7 @@ export default function MissionPage() {
       </section>
 
       {/* Core Values */}
-      <section className="py-20 bg-white">
+      <section id="core-values" className="py-20 bg-white">
         <div className="container mx-auto px-4">
           <h2 className="font-serif text-3xl font-bold text-center text-slate-600">
             {core_values.title}
@@ -131,11 +131,8 @@ export default function MissionPage() {
         </div>
       </section>
 
-
-
-
       {/* Catholic Identity */}
-      <section className="py-20 bg-sky-50">
+      <section id="catholic-identity" className="py-20 bg-sky-50">
         <div className="container mx-auto px-4">
           <div className="grid gap-12 md:grid-cols-2 items-center">
             <div>
@@ -157,12 +154,12 @@ export default function MissionPage() {
         </div>
       </section>
 
-      {/* CTA */}
+      {/* callToActionContent */}
       <PageCTA
+        heading={callToActionContent.heading}
+        description={callToActionContent.description}
+        buttons={callToActionContent.buttons}
         color="bg-amber-500"
-        heading={cta.title}
-        description={cta.message}
-        buttons={cta.buttons}
       />
     </main>
   )

@@ -1,12 +1,11 @@
-import LibraryFacilitiesCarousel from "@/components/library-carousel"
-import { Button } from "@/components/ui/button"
 import Image from "next/image"
 import Link from "next/link"
-import missionVision from "./mission.json"
+import missionVision from "../data.json"
 import FadeIn from "@/components/fadein-transition"
+import PageCTA from "@/components/page-cta"
 
-export default function LibraryPage() {
-    const { vision, mission } = missionVision
+export default function MissionPage() {
+    const { vision, mission, callToActionContent } = missionVision
     return (
         <main className="flex min-h-screen flex-col">
             {/* Hero Section */}
@@ -23,7 +22,7 @@ export default function LibraryPage() {
                 <FadeIn>
                     <div className="container relative z-10 mx-auto px-4 text-center">
                         <h1 className="font-serif text-4xl font-bold tracking-tight text-white md:text-5xl">Mission & Vision</h1>
-                        
+
                         <p className="mt-6 max-w-2xl mx-auto text-xl text-white">
                             At CITCI Library, we nurture morally grounded, digitally savvy learners through a welcoming space of knowledge, creativity, and community engagement.
                         </p>
@@ -31,7 +30,7 @@ export default function LibraryPage() {
                 </FadeIn>
             </section>
 
-            <section className="py-20 bg-white">
+            <section id="vision" className="py-20 bg-white">
                 <div className="container mx-auto px-4">
                     <div className="max-w-3xl mx-auto text-center">
                         <h2 className="font-serif text-3xl font-bold text-slate-600">{vision.title}</h2>
@@ -52,7 +51,7 @@ export default function LibraryPage() {
                 </div>
             </section>
 
-            <section className="py-20 bg-sky-50">
+            <section id="mission" className="py-20 bg-sky-50">
                 <div className="container mx-auto px-4">
                     <div className="max-w-3xl mx-auto text-center">
                         <h2 className="font-serif text-3xl font-bold text-slate-600">{mission.title}</h2>
@@ -90,25 +89,12 @@ export default function LibraryPage() {
                 </div>
             </section>
             {/* CTA */}
-            <section className="py-20 bg-amber-500 text-white">
-                <div className="container mx-auto px-4">
-                    <div className="max-w-3xl mx-auto text-center">
-                        <h2 className="font-serif text-3xl font-bold">Ready to Join Our Community?</h2>
-                        <p className="mt-6 text-lg">
-                            We invite you to take the next step in providing your child with an exceptional Catholic education.
-                            Contact our Admissions Office to schedule a tour or apply today.
-                        </p>
-                        <div className="mt-10 flex flex-wrap justify-center gap-4">
-                            <Button size="lg" className="bg-white text-amber-500 hover:bg-slate-100">
-                                Enroll Now
-                            </Button>
-                            <Button size="lg" variant="outline" className="text-white border-white hover:bg-amber-400">
-                                Schedule a Tour
-                            </Button>
-                        </div>
-                    </div>
-                </div>
-            </section>
+            <PageCTA
+                color="bg-amber-500"
+                heading={callToActionContent.heading}
+                description={callToActionContent.description}
+                buttons={callToActionContent.buttons}
+            />
         </main>
     )
 }

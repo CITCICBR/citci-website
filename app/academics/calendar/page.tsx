@@ -157,7 +157,7 @@ function EventsCalendarPage() {
   };
 
   return (
-    <div className="container mx-auto px-4 py-8 font-serif">
+    <div id="sy-calendar" className="container mx-auto px-4 py-8 font-serif">
       <div className="bg-white rounded-lg shadow-md overflow-hidden">
         {/* Calendar Header */}
         <div className="bg-amber-500 text-white p-4 flex justify-between items-center">
@@ -266,7 +266,7 @@ export default function CalendarPage() {
       </section>
 
       {/* Calendar Overview */}
-      <section className="py-20 bg-white">
+      <section id="calendar-overview" className="py-20 bg-white">
         <div className="container mx-auto px-4">
           <div className="max-w-3xl mx-auto text-center">
             <h2 className="font-serif text-3xl font-bold text-slate-600">2025-2026 Academic Calendar</h2>
@@ -296,7 +296,7 @@ export default function CalendarPage() {
       </section>
 
       {/* Calendar Tabs */}
-      <section className="py-20 bg-sky-50">
+      <section id="calendar-events" className="py-20 bg-sky-50">
         <div className="container mx-auto px-4">
           <div className="max-w-5xl mx-auto">
             <Tabs defaultValue="events" className="w-full">

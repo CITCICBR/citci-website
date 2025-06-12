@@ -4,10 +4,12 @@ import { useState } from "react"
 import Link from "next/link"
 import Image from "next/image"
 import { usePathname } from "next/navigation"
-import { Menu, X, ChevronDown } from "lucide-react"
+import { Menu, X, ChevronDown} from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from "@/components/ui/dropdown-menu"
 import { cn } from "@/lib/utils"
+import { CommandBar } from "./command-bar"
+import search from "../app/search/data.json"
 
 const navigation = [
   { name: "Home", href: "/" },
@@ -46,7 +48,6 @@ const navigation = [
     href: "/admissions",
     submenu: [
       { name: "Enroll Now", href: "/admissions/apply" },
-      { name: "Tuition & Fees", href: "/admissions/tuition" },
       { name: "Scholarship", href: "/admissions/scholarship" },
     ],
   },
@@ -56,6 +57,8 @@ const navigation = [
 export default function Header() {
   const pathname = usePathname()
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
+
+
 
   const isActive = (href: string) => pathname === href || pathname.startsWith(href + "/")
 
@@ -133,14 +136,16 @@ export default function Header() {
           ))}
         </div>
 
-        <div className="hidden lg:flex lg:flex-1 lg:justify-end">
+        <div className="hidden lg:flex lg:flex-1 lg:justify-end items-center space-x-2">
+          <CommandBar search={search}/>
           <Link
-            href={"/admissions/apply"}
-            className={`inline-flex h-10 items-center justify-center rounded-md px-8 text-sm font-medium shadow transition-colors bg-amber-500 text-white hover:bg-amber-400`}
+            href="/admissions/apply"
+            className="inline-flex h-10 items-center justify-center rounded-md px-6 text-sm font-medium shadow bg-amber-500 text-white hover:bg-amber-400 transition-colors"
           >
             Enroll Now
           </Link>
         </div>
+
       </nav>
 
       {/* Mobile Menu: You may also use the same isActive() logic for highlighting if needed */}
@@ -195,7 +200,7 @@ export default function Header() {
                     ) : (
                       <Link
                         href={item.href}
-                          className={cn("block rounded-lg py-2 pl-3 pr-3 text-base font-medium text-slate-600 hover:bg-accent hover:text-amber-500",
+                        className={cn("block rounded-lg py-2 pl-3 pr-3 text-base font-medium text-slate-600 hover:bg-accent hover:text-amber-500",
                           isActive(item.href) ? "text-amber-500" : "text-slate-600"
                         )}
                         onClick={() => setMobileMenuOpen(false)}
@@ -206,6 +211,8 @@ export default function Header() {
                   </div>
                 ))}
               </div>
+
+
               <div className="py-6">
                 <Button className="w-full bg-amber-500 hover:bg-amber-400">Enroll Now</Button>
               </div>

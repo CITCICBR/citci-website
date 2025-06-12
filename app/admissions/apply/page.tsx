@@ -72,7 +72,7 @@ export default function ApplyPage() {
       </section>
 
       {/* Application Process */}
-      <section className="py-20 bg-white">
+      <section id="application-process" className="py-20 bg-white">
         <div className="container mx-auto px-4">
           <div className="max-w-3xl mx-auto text-center">
             <h2 className="font-serif text-3xl font-bold text-slate-600">Enrollment Steps</h2>
@@ -116,7 +116,7 @@ export default function ApplyPage() {
       </section>
 
       {/* Application Requirements */}
-      <section className="py-20 bg-sky-50">
+      <section id="requirements" className="py-20 bg-sky-50">
         <div className="container mx-auto px-4">
           <h2 className="font-serif text-3xl font-bold text-center text-slate-600">
             Application Requirements
