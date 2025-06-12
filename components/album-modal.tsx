@@ -56,7 +56,7 @@ export function AlbumModal({ isOpen, onClose, album }: AlbumModalProps) {
             <DialogContent className="max-w-7xl">
                 <div className="p-6">
                     <h2 className="text-2xl font-bold mb-4">{album.title}</h2>
-                    <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
+                    <div className="grid grid-cols-2 md:grid-cols-4 gap-3 max-h-[80vh] overflow-y-auto">
                         {imagesWithMeta.map(({ src, orientation }, index) => (
                             <div
                                 key={index}

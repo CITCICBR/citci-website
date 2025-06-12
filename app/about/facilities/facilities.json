@@ -10,10 +10,6 @@
                 "/images/speech-lab/spl-3.jpg"
             ],
             "features": [
-                "Interactive smartboards",
-                "Flexible seating arrangements",
-                "Climate controlled environment",
-                "Natural lighting"
             ]
         },
         {
@@ -29,10 +25,6 @@
                 "/images/computer-lab/cl-6.jpg"
             ],
             "features": [
-                "Interactive smartboards",
-                "Flexible seating arrangements",
-                "Climate controlled environment",
-                "Natural lighting"
             ]
         },
         {
@@ -43,13 +35,56 @@
             "images": [
                 "/images/bread-pastries/bpp-2.jpg",
                 "/images/bread-pastries/bpp-3.jpg",
-                "/images/bread-pastries/bpp-4.jpg"
+                "/images/bread-pastries/bpp-4.jpg",
+                "/images/bread-pastries/bpp-5.jpg"
+
             ],
             "features": [
-                "Interactive smartboards",
-                "Flexible seating arrangements",
-                "Climate controlled environment",
-                "Natural lighting"
+            ]
+        },
+        {
+            "id": "css-lab",
+            "title": "Comupert System Servicing Laboratory",
+            "description": "A space for students to practice computer hardware, software, and network troubleshooting.",
+            "coverImage": "/images/css-lab/cssl-1.jpg",
+            "images": [
+                "/images/css-lab/cssl-2.jpg",
+                "/images/css-lab/cssl-3.jpg",
+                "/images/css-lab/cssl-4.jpg",
+                "/images/css-lab/cssl-5.jpg",
+                "/images/css-lab/cssl-6.jpg",
+                "/images/css-lab/cssl-7.jpg",
+                "/images/css-lab/cssl-8.jpg"
+            ],
+            "features": [
+            ]
+        },
+        {
+            "id": "metal-fabrication",
+            "title": "SMAW Metal Fabrication Facility",
+            "description": "A space for students to practice in cutting, joining, and shaping metal with industry-grade tools",
+            "coverImage": "/images/metal-fabrication/wd-1.jpg",
+            "images": [
+                "/images/metal-fabrication/wd-2.jpg",
+                "/images/metal-fabrication/wd-3.jpg",
+                "/images/metal-fabrication/wd-4.jpg",
+                "/images/metal-fabrication/wd-5.jpg"
+            ],
+            "features": [
+            ]
+        },
+        {
+            "id": "driving",
+            "title": "Driving and Maintenance Facility",
+            "description": "A space for students to practice safe driving and basic vehicle care using real-world setups",
+            "coverImage": "/images/driving/drv-1.jpg",
+            "images": [
+                "/images/driving/drv-2.jpg",
+                "/images/driving/drv-3.jpg",
+                "/images/driving/drv-4.jpg",
+                "/images/driving/drv-5.jpg"
+            ],
+            "features": [
             ]
         },
         {
@@ -62,10 +97,6 @@
                 "/images/comfort-room/female/fcr-3.jpg"
             ],
             "features": [
-                "Interactive smartboards",
-                "Flexible seating arrangements",
-                "Climate controlled environment",
-                "Natural lighting"
             ]
         },
         {
@@ -78,10 +109,6 @@
                 "/images/comfort-room/male/mcr-3.jpg"
             ],
             "features": [
-                "Interactive smartboards",
-                "Flexible seating arrangements",
-                "Climate controlled environment",
-                "Natural lighting"
             ]
         }
     ],
