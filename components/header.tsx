@@ -51,6 +51,7 @@ const navigation = [
       { name: "Scholarship", href: "/admissions/scholarship" },
     ],
   },
+  { name: "News & Events", href: "/news-events" },
   { name: "Contact", href: "/contact" },
 ]
 
