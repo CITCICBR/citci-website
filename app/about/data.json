@@ -316,6 +316,126 @@
             ]
         }
     ],
+    "alumniAssociation": [
+        {
+            "id": "alumni-association-president",
+            "heading": "Alumni Association President",
+            "intro": "Leading our alumni community with pride and dedication.",
+            "members": [
+                {
+                    "name": "Tejanne Q. Zarzoso",
+                    "position": "CIAA President",
+                    "image": "placeholder.svg?height=400&width=400"
+                }
+            ]
+        },
+        {
+            "id": "alumni-association-vice-presidents",
+            "heading": "Alumni Association Vice Presidents",
+            "intro": "",
+            "members": [
+                {
+                    "name": "Earl D. Dela Victoria",
+                    "position": "CIAA Vice President",
+                    "image": "placeholder.svg?height=400&width=400"
+                },
+                {
+                    "name": "Ludivina M. Gaid",
+                    "position": "CIAA Vice President",
+                    "image": "placeholder.svg?height=400&width=400"
+                }
+            ]
+        },
+        {
+            "id": "alumni-association-secretary",
+            "heading": "Alumni Association Secretary",
+            "intro": "",
+            "members": [
+                {
+                    "name": "Niña Martina Q. Hornido",
+                    "position": "CIAA Secretary",
+                    "image": "placeholder.svg?height=400&width=400"
+                }
+            ]
+        },
+        {
+            "id": "alumni-association-treasurer",
+            "heading": "Alumni Association Treasurer",
+            "intro": "",
+            "members": [
+                {
+                    "name": "Ma. Ginah S. Mendez",
+                    "position": "CIAA Treasurer",
+                    "image": "placeholder.svg?height=400&width=400"
+                }
+            ]
+        },
+        {
+            "id": "alumni-association-auditor",
+            "heading": "Alumni Association Auditor",
+            "intro": "",
+            "members": [
+                {
+                    "name": "Joveth M. Duarte",
+                    "position": "CIAA Auditor",
+                    "image": "placeholder.svg?height=400&width=400"
+                }
+            ]
+        },
+        {
+            "id": "alumni-association-pio",
+            "heading": "Alumni Association PIO",
+            "intro": "",
+            "members": [
+                {
+                    "name": "Mildred L. Monteclaro",
+                    "position": "CIAA PIO",
+                    "image": "placeholder.svg?height=400&width=400"
+                }
+            ]
+        },
+        {
+            "id": "alumni-association-business-managers",
+            "heading": "Alumni Association Business Managers",
+            "intro": "",
+            "members": [
+                {
+                    "name": "Rowena V. Caparoso",
+                    "position": "CIAA Business Manager",
+                    "image": "placeholder.svg?height=400&width=400"
+                },
+                {
+                    "name": "Gemma Baldo",
+                    "position": "CIAA Business Manager",
+                    "image": "placeholder.svg?height=400&width=400"
+                }
+            ]
+        },
+        {
+            "id": "alumni-association-board-of-directors",
+            "heading": "Alumni Association Board of Directors",
+            "intro": "",
+            "members": [
+                {
+                    "name": "Celsa O. Yee",
+                    "position": "CIAA Board of Director",
+                    "image": "placeholder.svg?height=400&width=400"
+                },
+                {
+                    "name": "Charlotte P. Mandin",
+                    "position": "CIAA Board of Director",
+                    "image": "placeholder.svg?height=400&width=400"
+                },
+                {
+                    "name": "Christine P. Mandin",
+                    "position": "CIAA Board of Director",
+                    "image": "placeholder.svg?height=400&width=400"
+                }
+                
+            ]
+        }
+        
+    ],
     "facilitiesContent": [
         {
             "id": "speech-lab",

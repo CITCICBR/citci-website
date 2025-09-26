@@ -21,6 +21,7 @@ const navigation = [
       { name: "Mission & Vision", href: "/about/mission" },
       { name: "Administration", href: "/about/administration" },
       { name: "Facilities", href: "/about/facilities" },
+      { name: "Alumni Association", href: "/about/alumni" },
     ],
   },
   {
@@ -51,6 +52,7 @@ const navigation = [
       { name: "Scholarship", href: "/admissions/scholarship" },
     ],
   },
+  { name: "News & Events", href: "/news-events" },
   { name: "Contact", href: "/contact" },
 ]
 
