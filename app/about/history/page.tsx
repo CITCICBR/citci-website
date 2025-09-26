@@ -163,7 +163,7 @@ export default function HistoryPage() {
         ))}
       </ContentSection>
 
-      <ContentSection
+      {/* <ContentSection
         id="alumni-spotlight"
         grid="3"
         background={"bg-white"}
@@ -190,7 +190,7 @@ export default function HistoryPage() {
             <p className="mt-4 text-primary-600">{person.achievement}</p>
           </div>
         ))}
-      </ContentSection>
+      </ContentSection> */}
 
       {/* CTA */}
       <PageCTA
