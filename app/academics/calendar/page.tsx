@@ -9,6 +9,7 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import FadeIn from "@/components/fadein-transition";
 import calendar from "./calendar.json";
+import selectedEvents from "./selected-events.json";
 import {
   TooltipTrigger,
   TooltipContent,
@@ -384,13 +385,7 @@ export default function CalendarPage() {
                     </h3>
                     <div className="h-1 w-12 bg-amber-500 mb-6"></div>
                     <ul className="space-y-2 text-primary-600">
-                      {[
-                        "July 29, 2024: Start of Classes & Entrance Exam (1st Year)",
-                        "November 11-15, 2024: Final Examination (1st Semester)",
-                        "December 2–6, 2024: Commencement of Classes for 2nd Semester",
-                        "April 7, 8, 10, and 11, 2025: Final Examination (2nd Semester)",
-                        "April 26, 2025: Graduation Day",
-                      ].map((event, index) => (
+                      {selectedEvents["key-events"].map((event, index) => (
                         <li key={index}>{event}</li>
                       ))}
                     </ul>
@@ -410,28 +405,7 @@ export default function CalendarPage() {
                       Mass & Religious Observances
                     </h4>
                     <ul className="space-y-2 text-primary-600">
-                      {[
-                        "August 7 & 14, 2024: SCC Campaign & Election (Holy Spirit Mass @ 8 AM)",
-                        "August 15, 2024: Feast of Our Lady of Assumption",
-                        "August 21, 2024: Ninoy Aquino Day",
-                        "August 26, 2024: National Heroes Day",
-                        "September 4, 2024: Second Year Recollection & Integration",
-                        "September 9, 2024: Blessed Virgin Mary’s Birthday Liturgy/Mass",
-                        "October 1, 2024: Feast of St. Therese of the Child Jesus",
-                        "October 2, 2024: Rosary Month & Lesson Planning Workshop",
-                        "October 5, 2024: Recollection (1st & 3rd Year)",
-                        "January 15, 2025: GKK Day",
-                        "February 1–2, 2025: Feast of Our Lady of Purification",
-                        "February 12, 2025: GKK Day",
-                        "February 25, 2025: EDSA Revolution Anniversary",
-                        "March 12, 2025: GKK Day",
-                        "March 21–22, 2025: 4th Year College Retreat",
-                        "April 1, 2025: Vespers or Mass for Feast Preparation",
-                        "April 2, 2025: Feast of Saint Pedro Calungsod",
-                        "April 9, 2025: Day of Valor / GKK Day / Eid’l-Fitr",
-                        "April 16, 2025: Holy Wednesday",
-                        "April 17–18, 2025: Holy Thursday & Good Friday",
-                      ].map((event, index) => (
+                      {selectedEvents["liturgical-events"].map((event, index) => (
                         <li key={index}>{event}</li>
                       ))}
                     </ul>

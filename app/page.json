@@ -157,44 +157,52 @@
                 "title": "Important Dates",
                 "items": [
                     {
-                        "label": "Start of Classes & Entrance Exam (1st Year)",
-                        "value": "July 29, 2024"
+                        "label": "College Regular Classes (Start of 1st Semester)",
+                        "value": "June 23, 2025"
                     },
                     {
-                        "label": "Final Examination (1st Semester)",
-                        "value": "November 11–15, 2024"
+                        "label": "College Preliminary Examination",
+                        "value": "July 25, 2025"
                     },
                     {
-                        "label": "Commencement of Classes for 2nd Semester",
-                        "value": "December 2–6, 2024"
+                        "label": "College Midterm Examination",
+                        "value": "September 15–20, 2025"
                     },
                     {
-                        "label": "Final Examination (2nd Semester)",
-                        "value": "April 7, 8, 10, and 11, 2025"
+                        "label": "College Final Examination (1st Semester)",
+                        "value": "October 13–18, 2025"
                     },
                     {
-                        "label": "Graduation Day",
-                        "value": "April 26, 2025"
+                        "label": "College Students' Orientation for Second Semester",
+                        "value": "November 17, 2025"
                     },
                     {
-                        "label": "First Day of School",
-                        "value": "August 20, 2024"
+                        "label": "Elementary Final Examination (2nd Quarter)",
+                        "value": "November 18–21, 2025"
                     },
                     {
-                        "label": "Last Day of School",
-                        "value": "June 10, 2025"
+                        "label": "College Preliminary Examination (2nd Semester)",
+                        "value": "December 9, 2025"
                     },
                     {
-                        "label": "Parent-Teacher Conferences",
-                        "value": "October 28–29, 2024"
+                        "label": "College Midterm Examination (2nd Semester)",
+                        "value": "February 9–14, 2026"
                     },
                     {
-                        "label": "Christmas Break",
-                        "value": "December 23 – January 3"
+                        "label": "4th Year Students and Unit Earners Final Examination",
+                        "value": "March 16–20, 2026"
                     },
                     {
-                        "label": "Spring Break",
-                        "value": "April 14 – April 18"
+                        "label": "1st–3rd Year College Final Examination & Grand Demonstration",
+                        "value": "March 23–28, 2026"
+                    },
+                    {
+                        "label": "4th Year College Graduation",
+                        "value": "April 13, 2026"
+                    },
+                    {
+                        "label": "Teachers’ Summer Break",
+                        "value": "April 10 – May 10, 2026"
                     }
                 ]
             },
@@ -202,44 +210,44 @@
                 "title": "Mass & Observances",
                 "items": [
                     {
-                        "label": "SCC Campaign & Election Mass",
-                        "value": "August 7 & 14, 2024"
+                        "label": "Holy Mass – Feast of Immaculate Conception",
+                        "value": "December 8, 2025"
                     },
                     {
-                        "label": "Feast of Our Lady of Assumption",
-                        "value": "August 15, 2024"
+                        "label": "Feast of St. Agnes",
+                        "value": "January 23, 2026"
                     },
                     {
-                        "label": "Ninoy Aquino Day",
-                        "value": "August 21, 2024"
+                        "label": "Feast of St. Thomas Aquinas",
+                        "value": "January 30, 2026"
                     },
                     {
-                        "label": "National Heroes Day",
-                        "value": "August 26, 2024"
+                        "label": "Feast of Our Lady of Purification & Presentation",
+                        "value": "February 1–2, 2026"
                     },
                     {
-                        "label": "Blessed Virgin Mary’s Birthday Liturgy",
-                        "value": "September 9, 2024"
+                        "label": "Ash Wednesday",
+                        "value": "February 17, 2026"
                     },
                     {
-                        "label": "Feast of St. Therese of the Child Jesus",
-                        "value": "October 1, 2024"
+                        "label": "4th Year College Retreat",
+                        "value": "March 11, 2026"
                     },
                     {
-                        "label": "Rosary Month Kick-off",
-                        "value": "October 2, 2024"
+                        "label": "Eid’l-Fitr – Feast of Ramadan",
+                        "value": "March 20, 2026"
                     },
                     {
-                        "label": "Recollection (1st & 3rd Year)",
-                        "value": "October 5, 2024"
+                        "label": "College Vespers or Mass (Feast Preparation)",
+                        "value": "April 1, 2026"
                     },
                     {
-                        "label": "GKK Day (January)",
-                        "value": "January 15, 2025"
+                        "label": "Holy Week (Holy Thursday & Good Friday)",
+                        "value": "April 2–3, 2026"
                     },
                     {
-                        "label": "Feast of Our Lady of Purification",
-                        "value": "February 1–2, 2025"
+                        "label": "Feast of Saint Pedro Calungsod (College Patron Saint Mass)",
+                        "value": "April 2, 2026"
                     }
                 ]
             }
