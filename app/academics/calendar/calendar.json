@@ -4,8 +4,6 @@
             "id": "plotting-schedules-2024",
             "title": "Plotting of Schedules",
             "date": "May 1-30, 2024",
-            "time": "",
-            "location": "Campus",
             "description": "Scheduling of academic and administrative activities.",
             "category": "Administrative"
         },
@@ -13,8 +11,6 @@
             "id": "enrollment-2024",
             "title": "Enrollment and Preparation",
             "date": "June 24 – July 19, 2024",
-            "time": "",
-            "location": "Campus",
             "description": "Enrollment for all students and preparation of classrooms, labs, and offices.",
             "category": "Academic"
         },
@@ -22,8 +18,6 @@
             "id": "orientation-week",
             "title": "Pre-opening Orientation",
             "date": "July 22-26, 2024",
-            "time": "",
-            "location": "Campus",
             "description": "Orientation on use of facilities, mental health support, and SSC/NSTP introduction.",
             "category": "Academic"
         },
@@ -31,8 +25,6 @@
             "id": "start-classes-1styear",
             "title": "Start of Classes & Entrance Exam (1st Year)",
             "date": "July 29, 2024",
-            "time": "",
-            "location": "Campus",
             "description": "Commencement of regular classes and entrance exam for 1st-year students.",
             "category": "Academic"
         },
@@ -40,7 +32,6 @@
             "id": "course-change",
             "title": "Adding/Changing Enrolled Courses",
             "date": "July 31 – August 5, 2024",
-            "time": "",
             "location": "Registrar's Office",
             "description": "Students may add or change their enrolled subjects.",
             "category": "Academic"
@@ -49,8 +40,6 @@
             "id": "faculty-meeting-aug7",
             "title": "College Faculty Meeting & First Year Integration Sharing",
             "date": "August 7, 2024",
-            "time": "",
-            "location": "Campus",
             "description": "Meeting of college faculty and integration sharing for 1st-year students.",
             "category": "Academic"
         },
@@ -58,8 +47,6 @@
             "id": "english-proficiency",
             "title": "English Proficiency Intervention",
             "date": "Every Wednesday, August to November, 2024",
-            "time": "",
-            "location": "Campus",
             "description": "English language sessions open to all students.",
             "category": "Academic"
         },
@@ -67,8 +54,6 @@
             "id": "ssc-elections-filing",
             "title": "Filing of Candidacy for SSC Elections",
             "date": "August 5-6, 2024",
-            "time": "",
-            "location": "Campus",
             "description": "Submission of candidacy for student council elections.",
             "category": "Student Affairs"
         },
@@ -77,7 +62,6 @@
             "title": "SCC Campaign & Election",
             "date": "August 7 & 14, 2024",
             "time": "Holy Spirit Mass @ 8 AM, Election (Morning)",
-            "location": "Campus",
             "description": "Student Council Campaign and Election along with Holy Mass and Bible Sharing.",
             "category": "Student Affairs"
         },
@@ -86,7 +70,6 @@
             "title": "Earthquake Drill",
             "date": "August 14, 2024",
             "time": "Afternoon",
-            "location": "Campus",
             "description": "School-wide earthquake safety drill.",
             "category": "Safety"
         },
@@ -94,8 +77,6 @@
             "id": "feast-assumption",
             "title": "Feast of Our Lady of Assumption",
             "date": "August 15, 2024",
-            "time": "",
-            "location": "Campus",
             "description": "Religious observance with activities.",
             "category": "Religious"
         },
@@ -103,8 +84,6 @@
             "id": "osas-symposium",
             "title": "OSAS Health Awareness Symposium",
             "date": "August 21, 2024",
-            "time": "",
-            "location": "Campus",
             "description": "Symposium on health, emergency, and pregnancy awareness.",
             "category": "Health"
         },
@@ -112,8 +91,6 @@
             "id": "prelim-exams",
             "title": "Prelim Examination",
             "date": "August 19-23, 2024",
-            "time": "",
-            "location": "Campus",
             "description": "Preliminary examinations for all students.",
             "category": "Academic"
         },
@@ -121,8 +98,6 @@
             "id": "ninoy-day",
             "title": "Ninoy Aquino Day (Holiday)",
             "date": "August 21, 2024",
-            "time": "",
-            "location": "Philippines",
             "description": "National holiday in observance of Ninoy Aquino Day.",
             "category": "Holiday"
         },
@@ -130,8 +105,6 @@
             "id": "heroes-day",
             "title": "National Heroes Day (Holiday)",
             "date": "August 26, 2024",
-            "time": "",
-            "location": "Philippines",
             "description": "Special national non-working holiday.",
             "category": "Holiday"
         },
@@ -139,8 +112,6 @@
             "id": "wikang-pambansa",
             "title": "Buwan ng Wika Culmination",
             "date": "August 30, 2024",
-            "time": "",
-            "location": "Campus",
             "description": "Closing celebration of National History and Buwan ng Wika Month.",
             "category": "Cultural"
         },
@@ -148,8 +119,6 @@
             "id": "2ndyear-recollection",
             "title": "Second Year Recollection & Integration",
             "date": "September 4, 2024",
-            "time": "",
-            "location": "Campus",
             "description": "Spiritual recollection for second-year students.",
             "category": "Religious"
         },
@@ -157,8 +126,6 @@
             "id": "marys-birthday-mass",
             "title": "Blessed Virgin Mary’s Birthday Liturgy/Mass",
             "date": "September 9, 2024",
-            "time": "",
-            "location": "Campus",
             "description": "Religious liturgical mass celebration.",
             "category": "Religious"
         },
@@ -166,8 +133,6 @@
             "id": "classroom-observation",
             "title": "Deployment for Classroom Observation",
             "date": "September 11, 2024",
-            "time": "",
-            "location": "Campus",
             "description": "Deployment of 4th year and Unit Earners for observation.",
             "category": "Academic"
         },
@@ -175,8 +140,6 @@
             "id": "midterms",
             "title": "Midterm Examination",
             "date": "September 16-20, 2024",
-            "time": "",
-            "location": "Campus",
             "description": "Midterm exams for students.",
             "category": "Academic"
         },
@@ -184,8 +147,6 @@
             "id": "leadership-training",
             "title": "Leadership/Governance Training",
             "date": "September 25, 2024",
-            "time": "",
-            "location": "Campus",
             "description": "Seminar and orientation for SSC & GKK officers.",
             "category": "Student Affairs"
         },
@@ -193,8 +154,6 @@
             "id": "nstp-awareness",
             "title": "NSTP - Illegal Drugs, Tobacco, and Alcohol Awareness",
             "date": "September 25, 2024",
-            "time": "",
-            "location": "Campus",
             "description": "Seminar for 1st year students on illegal substances and risks.",
             "category": "Health"
         },
@@ -202,8 +161,6 @@
             "id": "feast-therese",
             "title": "Feast of St. Therese of the Child Jesus",
             "date": "October 1, 2024",
-            "time": "",
-            "location": "Campus",
             "description": "Institutional patroness celebration.",
             "category": "Religious"
         },
@@ -211,8 +168,6 @@
             "id": "rosary-month-launch",
             "title": "Rosary Month & Lesson Planning Workshop",
             "date": "October 2, 2024",
-            "time": "",
-            "location": "Campus",
             "description": "Rosary month kick-off and workshop for 3rd & 4th years.",
             "category": "Religious"
         },
@@ -220,8 +175,6 @@
             "id": "world-teachers-day",
             "title": "World Teachers’ Day",
             "date": "October 5, 2024",
-            "time": "",
-            "location": "Campus",
             "description": "Celebration to honor teachers.",
             "category": "Celebration"
         },
@@ -229,8 +182,6 @@
             "id": "recollection-oct5",
             "title": "Recollection (1st & 3rd Year)",
             "date": "October 5, 2024",
-            "time": "",
-            "location": "Campus",
             "description": "Spiritual recollection for 1st and 3rd year students.",
             "category": "Religious"
         },
@@ -238,8 +189,6 @@
             "id": "ssc-oath-taking",
             "title": "SSC Officers Oath-Taking & Acquaintance Party",
             "date": "October 11, 2024",
-            "time": "",
-            "location": "Campus",
             "description": "Oath-taking for new SSC officers and student gathering.",
             "category": "Student Affairs"
         },
@@ -247,8 +196,6 @@
             "id": "founding-anniv",
             "title": "Founding Anniversary / Intramurals",
             "date": "October 23-28, 2024",
-            "time": "",
-            "location": "Campus",
             "description": "120th founding anniversary with sports and social activities.",
             "category": "Celebration"
         },
@@ -256,8 +203,6 @@
             "id": "finals",
             "title": "Final Examination",
             "date": "November 11-15, 2024",
-            "time": "",
-            "location": "Campus",
             "description": "Final examinations for all students.",
             "category": "Academic"
         },
@@ -265,8 +210,6 @@
             "id": "semestral-break",
             "title": "Semestral Break",
             "date": "November 18-22, 2024",
-            "time": "",
-            "location": "Campus",
             "description": "No classes. Break after final exams.",
             "category": "Academic"
         },
@@ -274,7 +217,6 @@
             "id": "final-grade-submission",
             "title": "Final Grade Computation and Submission",
             "date": "November 25 – December 6, 2024",
-            "time": "",
             "location": "Registrar's Office",
             "description": "Submission of first semester grades by faculty.",
             "category": "Administrative"
@@ -283,7 +225,6 @@
             "id": "faculty-preparation",
             "title": "Faculty and Staff Offices - Preparation for Second Semester",
             "date": "November 25–29, 2024",
-            "time": "",
             "location": "",
             "description": "Clearance week and start of enrollment for 2nd semester.",
             "category": "Administrative"
@@ -292,7 +233,6 @@
             "id": "semester-start",
             "title": "Commencement of Classes for 2nd Semester",
             "date": "December 2–6, 2024",
-            "time": "",
             "location": "",
             "description": "Includes orientation for students, instructors, and CWTS students.",
             "category": "Academic"
@@ -301,7 +241,6 @@
             "id": "students-subjects-change",
             "title": "Students' Adding/Changing of Subjects",
             "date": "December 10–13, 2024",
-            "time": "",
             "location": "Registrar's Office",
             "description": "Period for students to adjust enrolled courses or subjects.",
             "category": "Academic"
@@ -310,7 +249,6 @@
             "id": "christmas-party",
             "title": "Students & Employees Christmas Party & Gift-giving",
             "date": "December 17–18, 2024",
-            "time": "",
             "location": "",
             "description": "Holiday celebration for students and employees.",
             "category": "Community"
@@ -319,7 +257,6 @@
             "id": "christmas-break",
             "title": "Start of Christmas Break",
             "date": "December 19",
-            "time": "",
             "location": "",
             "description": "Beginning of holiday break.",
             "category": "Holiday"
@@ -328,7 +265,6 @@
             "id": "mock-interview",
             "title": "Mock Interview – 4th Year & Unit Earners",
             "date": "January (Second Week), 2025",
-            "time": "",
             "location": "",
             "description": "Mock job interviews for graduating students.",
             "category": "Career"
@@ -337,7 +273,6 @@
             "id": "leadership-seminar",
             "title": "Seminar on Leadership and Good Governance",
             "date": "January 8, 2025",
-            "time": "",
             "location": "",
             "description": "Leadership training for students.",
             "category": "Seminar"
@@ -346,7 +281,6 @@
             "id": "career-guidance-launch",
             "title": "Launching of Career Guidance",
             "date": "January 13, 2025",
-            "time": "",
             "location": "",
             "description": "Start of career planning activities.",
             "category": "Career"
@@ -364,7 +298,6 @@
             "id": "career-talk",
             "title": "Career Talk & Gender Development",
             "date": "January 22, 2025",
-            "time": "",
             "location": "",
             "description": "Seminar on career development and gender awareness.",
             "category": "Seminar"
@@ -373,7 +306,6 @@
             "id": "integration-sharing-1st-year",
             "title": "Integration Sharing for First Year",
             "date": "January 22, 2025",
-            "time": "",
             "location": "",
             "description": "Reflective sharing session for first-year students.",
             "category": "Formation"
@@ -382,7 +314,6 @@
             "id": "clean-up-drive",
             "title": "City-wide Clean-up Drive",
             "date": "January 29, 2025",
-            "time": "",
             "location": "Cabadbaran City",
             "description": "Clean-up activity in preparation for fiesta. (CWTS only)",
             "category": "Community"
@@ -391,7 +322,6 @@
             "id": "purification-feast",
             "title": "Feast of Our Lady of Purification",
             "date": "February 1–2, 2025",
-            "time": "",
             "location": "",
             "description": "Religious celebration of the Feast of Purification and Presentation.",
             "category": "Religious"
@@ -400,7 +330,6 @@
             "id": "class-resumption",
             "title": "Resumption of Classes",
             "date": "February 4, 2025",
-            "time": "",
             "location": "",
             "description": "Start of academic classes after break.",
             "category": "Academic"
@@ -409,7 +338,6 @@
             "id": "interns-orientation",
             "title": "Orientation of Interns",
             "date": "February 5–6, 2025",
-            "time": "",
             "location": "",
             "description": "Orientation for student teachers with cooperating teachers.",
             "category": "Academic"
@@ -427,7 +355,6 @@
             "id": "valentines-day",
             "title": "Valentines' Day",
             "date": "February 14, 2025",
-            "time": "",
             "location": "",
             "description": "Celebration of Valentine's Day.",
             "category": "Community"
@@ -436,7 +363,6 @@
             "id": "grand-demo",
             "title": "Grand Demonstration",
             "date": "February 17–28, 2025",
-            "time": "",
             "location": "",
             "description": "Demo teaching of 4th year and unit earners.",
             "category": "Academic"
@@ -445,7 +371,6 @@
             "id": "tos-workshop",
             "title": "Workshop on TOS Development & Item Analysis",
             "date": "February 19, 2025",
-            "time": "",
             "location": "",
             "description": "Seminar led by Ma’am Torregosa.",
             "category": "Seminar"
@@ -454,7 +379,6 @@
             "id": "research-defense",
             "title": "Research Final Defense",
             "date": "February 20–21, 2025",
-            "time": "",
             "location": "",
             "description": "Final defense of student research projects.",
             "category": "Academic"
@@ -463,7 +387,6 @@
             "id": "community-engagement",
             "title": "Community Engagement Activity",
             "date": "February 22, 2025",
-            "time": "",
             "location": "",
             "description": "Tree planting and community clean-up activity.",
             "category": "Community"
@@ -472,7 +395,6 @@
             "id": "midterm-exam",
             "title": "Midterm Examination",
             "date": "February 24, 26, 27, 28, 2025",
-            "time": "",
             "location": "Classrooms",
             "description": "Midterm exams for all students.",
             "category": "Academic"
@@ -481,7 +403,6 @@
             "id": "edsa-day",
             "title": "EDSA Revolution Anniversary",
             "date": "February 25, 2025",
-            "time": "",
             "location": "",
             "description": "National holiday commemorating the EDSA People Power Revolution.",
             "category": "Holiday"
@@ -490,7 +411,6 @@
             "id": "integration-sharing-2nd-3rd",
             "title": "Integration Sharing & Curriculum Workshop",
             "date": "February 26, 2025",
-            "time": "",
             "location": "",
             "description": "For 2nd and 3rd year students; includes workshop for 3rd and 4th years.",
             "category": "Academic"
@@ -499,7 +419,6 @@
             "id": "final-grade-submission",
             "title": "Final Grade Computation and Submission",
             "date": "March (3rd Week)",
-            "time": "",
             "location": "Registrar's Office",
             "description": "Submission of grades and ranking preparation.",
             "category": "Administrative"
@@ -508,7 +427,6 @@
             "id": "fire-prevention-seminar",
             "title": "Seminar on Fire Prevention",
             "date": "March 15, 2025",
-            "time": "",
             "location": "",
             "description": "Fire safety awareness seminar (CWTS only).",
             "category": "Seminar"
@@ -526,7 +444,6 @@
             "id": "college-retreat",
             "title": "4th Year College Retreat",
             "date": "March 21–22, 2025",
-            "time": "",
             "location": "",
             "description": "Retreat for graduating students.",
             "category": "Religious"
@@ -535,7 +452,6 @@
             "id": "vespers-mass",
             "title": "Vespers or Mass for Feast Preparation",
             "date": "April 1, 2025",
-            "time": "",
             "location": "Chapel",
             "description": "Religious observance in preparation for feast.",
             "category": "Religious"
@@ -544,7 +460,6 @@
             "id": "patron-saint-feast",
             "title": "Feast of Saint Pedro Calungsod",
             "date": "April 2, 2025",
-            "time": "",
             "location": "Chapel",
             "description": "College department patron saint celebration (Mass).",
             "category": "Religious"
@@ -553,7 +468,6 @@
             "id": "final-exam",
             "title": "Final Examination",
             "date": "April 7, 8, 10, and 11, 2025",
-            "time": "",
             "location": "Classrooms",
             "description": "Final exams for all students.",
             "category": "Academic"
@@ -562,7 +476,6 @@
             "id": "day-of-valor",
             "title": "Day of Valor (Araw ng Kagitingan)",
             "date": "April 9, 2025",
-            "time": "",
             "location": "",
             "description": "National holiday honoring Filipino veterans.",
             "category": "Holiday"
@@ -580,7 +493,6 @@
             "id": "eid-holiday",
             "title": "Eid’l-Fitr - Feast of Ramadan",
             "date": "April 9, 2025",
-            "time": "",
             "location": "",
             "description": "Regular national holiday.",
             "category": "Holiday"
@@ -589,7 +501,6 @@
             "id": "holy-wednesday",
             "title": "Holy Wednesday",
             "date": "April 16, 2025",
-            "time": "",
             "location": "",
             "description": "Holy day in the Catholic calendar.",
             "category": "Religious"
@@ -598,7 +509,6 @@
             "id": "holy-week",
             "title": "Holy Thursday & Good Friday",
             "date": "April 17–18, 2025",
-            "time": "",
             "location": "",
             "description": "Days of obligation during Holy Week.",
             "category": "Religious"
@@ -607,7 +517,6 @@
             "id": "nstp-culmination",
             "title": "NSTP Culmination Program",
             "date": "April 7–9, 2025",
-            "time": "",
             "location": "",
             "description": "End-of-program culmination for NSTP students.",
             "category": "Community"
@@ -616,13 +525,1093 @@
             "id": "graduation-day",
             "title": "Graduation Day",
             "date": "April 26, 2025",
-            "time": "",
             "location": "",
             "description": "4th Year College Graduation Ceremony.",
             "category": "Academic"
+        },
+        {
+            "id": "summer-break",
+            "title": "Teachers' Summer Break",
+            "date": "April 15 - May 15, 2025",
+            "location": "-",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "enrollment-0",
+            "title": "Start Of Enrollment",
+            "date": "April 21, 2025",
+            "description": "Start of Enrollment for Grade 7 and Grade 11 students",
+            "category": "Academic"
+        },
+        {
+            "id": "enrollment-1",
+            "title": "Start Of Enrollment",
+            "date": "May 15, 2025",
+            "description": [
+                "Start of Enrollment for Old/Regular Students including Transferees",
+                "Admission Exam"
+            ],
+            "category": "Academic"
+        },
+        {
+            "id": "orientations",
+            "title": "Orientations / Re-Orientations",
+            "date": "May 19-23, 2025",
+            "location": "-",
+            "description": [
+                "Institutional Orientation/Re-Orientation",
+                "School-Based Faculty & Staff Orientation / Departmental Orientation",
+                "Faculty Instructional and Curriculum Preparation",
+                "In-House Trainings"
+            ],
+            "category": "Academic"
+        },
+        {
+            "id": "meetings-preparation",
+            "title": "Meetings & Preparations",
+            "date": "June 2-6, 2025",
+            "location": "-",
+            "description": [
+                "Elementary BOD Meeting and Parents Orientation",
+                "Classroom/Laboratories and Office Preparation"
+            ],
+            "category": "Administrative"
+        },
+        {
+            "id": "re-orientation-week",
+            "title": "Re-Orientation and Socialization Week",
+            "date": "June 9-13, 2025",
+            "description": [
+                "High School, Pre-School, Elementary Opening, Orientation of the utilization of learning modalities, class schedules, subjects, & offices.",
+                "Procedures and Decorum",
+                "PEAC JHS and SHS INSET"
+            ],
+            "category": "Academic"
+        },
+        {
+            "id": "weekly-tests-and-meetings",
+            "title": "Weekly Tests and Meetings",
+            "date": "June 11, 2025",
+            "description": [
+                "Elementary Weekly Test",
+                "Fun & Engaging Learning Day / MAPEH (Morning Only)",
+                "Faculty Meeting / Teachers' Preparations (Afternoon)"
+            ],
+            "category": "Academic"
+        },
+        {
+            "id": "independence-day",
+            "title": "Independence Day",
+            "date": "June 12, 2025",
+            "description": "Regular Holiday",
+            "category": "Holiday"
+        },
+        {
+            "id": "elementary-training",
+            "title": "PEAC Elementary Training",
+            "date": "June 14-15, 2025",
+            "description": "PEAC Elementary Training",
+            "category": "Academic"
+        },
+        {
+            "id": "start-regular-classes",
+            "title": "Start Regular Classes",
+            "date": "June 14-15, 2025",
+            "description": "Start of Regular Classes for High School and Elementary",
+            "category": "Academic"
+        },
+        {
+            "id": "college-reorientation-week",
+            "title": "College Re-Orientation and Socialization Week",
+            "date": "June 16-20, 2025",
+            "description": [
+                "Pre-Opening/Orientation of the utilization of learning modalities, class schedules, subjects, & offices.",
+                "SAS Orientation from 1st - 4th year",
+                "Procedures and Decorum",
+                "Mental Health and Psychological Support Activities",
+                "GKK and SSC Orientation",
+                "NSTP - CWTS Orientation (CWTS stu.)"
+            ],
+            "category": "Academic"
+        },
+        {
+            "id": "weekly-tests-and-meetings-2",
+            "title": "Weekly Meetings and Tests",
+            "date": "June 18, 2025",
+            "description": [
+                "Elementary Weekly Test",
+                "Interactive Learning Day (Morning only)",
+                "Faculty Meeting / Teachers' Preparations (Afternoon)"
+            ],
+            "category": "Academic"
+        },
+        {
+            "id": "pta-meeting-elementary",
+            "title": "Elementary PTA Meeting and Orientation",
+            "date": "June 21, 2025",
+            "location": "HR",
+            "description": "",
+            "category": "Administrative"
+        },
+        {
+            "id": "pta-meeting-highschool",
+            "title": "High School CIPTA Meeting and Orientation",
+            "date": "June 22, 2025",
+            "location": "HR",
+            "description": "",
+            "category": "Administrative"
+        },
+        {
+            "id": "college-regular-classes",
+            "title": "College Regular Classes",
+            "date": "June 23, 2025",
+            "description": "Start of College regular classes",
+            "category": "Academic"
+        },
+        {
+            "id": "adding-changing-dropping",
+            "title": "Adding and Changing Enrolled Courses/Subjects",
+            "date": "June 23-27, 2025",
+            "description": "Start of adding and changing of Students enrolled courses/subjects",
+            "category": "Academic"
+        },
+        {
+            "id": "deped-founding-anniversary",
+            "title": "DepEd's Founding Anniversary",
+            "date": "June 24, 2025",
+            "description": "Celebrating the Founding Anniversary of DepEd",
+            "category": "Special Event"
+        },
+        {
+            "id": "mass",
+            "title": "Regular Mass",
+            "date": "June 25, 2025",
+            "description": [
+                "Mass of the Holy Spirit (Morning only)",
+                "Employees GGk/Faculty Meeting (Afternoon)"
+            ],
+            "category": "Mass"
+        },
+        {
+            "id": "assessments-diagnostics",
+            "title": "Assessments / Diagnostics",
+            "date": "June 26-27, 2025",
+            "description": "High School and Elementary Pre-Assessment/Diagnostic Exam",
+            "category": "Academic"
+        },
+        {
+            "id": "nutrition-month",
+            "title": "Nutrition Month",
+            "date": "June 30, 2025",
+            "description": "Opening of Nutrition Month Celebration",
+            "category": "Academic"
+        },
+        {
+            "id": "journalism-training",
+            "title": "Journalism Training",
+            "date": "July 1, 2025",
+            "description": "Start of Journalism Trainings every afternoon after class",
+            "category": "Academic"
+        },
+        {
+            "id": "journalism-training",
+            "title": "Journalism Training",
+            "date": "July 2, 2025",
+            "description": [
+                "College Seminar on Republic Act 7079 ",
+                "Campus Journalism Act of 1991 for 3rd Yr.",
+                "Anti-Terrorism Law – NSTP – CWTS Students",
+                "Elem. GKK & Monthly Mass",
+                "Elem. Weekly Test (MORNING ONLY)",
+                "HS Homeroom Guidance Program",
+                "Faculty GKK/Meeting/Teachers' Preparations (AFTERNOON)"
+            ],
+            "category": "Academic"
+        },
+        {
+            "id": "hs-acquaintance-party",
+            "title": "HS Acquaintance Party",
+            "date": "July 4, 2025",
+            "description": "HS Acquaintance Party (1:00 - 5:00 PM)",
+            "category": "Student Engagement"
+        },
+        {
+            "id": "hs-cipta-assembly",
+            "title": "HS CIPTA General Assembly",
+            "date": "July 6, 2025",
+            "description": "HS CIPTA General Assembly (8:00 AM)",
+            "category": "Student Engagement"
+        },
+        {
+            "id": "uniform-orientation",
+            "title": "Wearing of School Uniform",
+            "date": "July 7, 2025",
+            "description": "Wearing of School Uniform (Old) Pupils and Students",
+            "category": "Administrative"
+        },
+        {
+            "id": "feast-july-birthdays",
+            "title": "Feast of Our Lady & July Birthdays",
+            "date": "July 9, 2025",
+            "description": [
+                "Elementary: Feast of Our Lady (Mary Queen of Peace) / Celebrate July 18 (Rosary & Pray then snacks)",
+                "1st Yr: College Recollection/Integration Sharing (Morning)",
+                "OSAS Symposium on Reproductive Health Awareness / Early Pregnancy (Afternoon)"
+            ],
+            "category": "Cultural"
+        },
+        {
+            "id": "wed-activities",
+            "title": "Wednesday Activities",
+            "date": "July 9, 16, 23, 2025",
+            "description": [
+                "Elem: Weekly Test",
+                "Elem & HS: Engaging Learning Day/MAPEH (Morning Only)",
+                "Faculty Meeting/Teachers’ Preparation (Afternoon)",
+                "EARTHQUAKE/FIRE DRILL SIMULATION (Every first hour in the Morning)"
+            ],
+            "category": "Academic"
+        },
+        {
+            "id": "elem-pta-meeting",
+            "title": "Elementary General PTA Meeting",
+            "date": "July 12, 2025",
+            "description": "Elementary General PTA Meeting (Morning)",
+            "category": "Administrative"
+        },
+        {
+            "id": "college-symposium-ra9211",
+            "title": "SAS College Symposium on RA 9211",
+            "date": "July 16, 2025",
+            "description": [
+                "College Symposium on RA 9211 - Tobacco Regulation Act of 2003",
+                "College NSTP - CWTS Students Values Education Symposium",
+                "HS Deadline for JHS and SHS Midterm Exam",
+                "HS SSC Campaign & Elections (Grade 7 & Grade 11 Representative)"
+            ],
+            "category": "Academic"
+        },
+        {
+            "id": "feast-st-elijah",
+            "title": "Feast of St. Elijah",
+            "date": "July 20, 2025",
+            "description": "Feast of St. Elijah (Rosary/ Paraliturgy & Pray then snacks)",
+            "category": "Cultural"
+        },
+        {
+            "id": "college-symposium-ra9512",
+            "title": "SAS College Symposium on RA 9512",
+            "date": "July 23, 2025",
+            "description": [
+                "College Symposium on RA 9512 - National Environmental Awareness and Education Act of 2008",
+                "College Symposium on RA 9729 - Climate Change Act of 2009",
+                "Feast of the St. Uriel (Rosary/ Paraliturgy & Pray)"
+            ],
+            "category": "Academic"
+        },
+        {
+            "id": "exam",
+            "title": "Midterm Examination",
+            "date": "July 24-25, 2025",
+            "description": "HS and Elementary MIDTERM EXAM (1st Quarter)",
+            "category": "Academic"
+        },
+        {
+            "id": "college-prelim-exams",
+            "title": "College Prelim Examination",
+            "date": "July 25, 2025",
+            "description": "College Preliminary Examination",
+            "category": "Academic"
+        },
+        {
+            "id": "college-prelim-exams",
+            "title": "College Prelim Examination",
+            "date": "July 25, 2025",
+            "description": "College Preliminary Examination",
+            "category": "Academic"
+        },
+        {
+            "id": "buwan-ng-wika-highschool",
+            "title": "Buwan ng Wika",
+            "date": "August 1, 2025",
+            "description": "High School Launching of Buwan ng Wika, Kasaysayan & Other Languages (3 PM)",
+            "category": "Academic"
+        },
+        {
+            "id": "feast-day",
+            "title": "Feast Day of Our Lady of All Angels (Nursery 1)",
+            "date": "August 2, 2025",
+            "description": "-",
+            "category": "Mass"
+        },
+        {
+            "id": "cipta-meeting",
+            "title": "High School CIPTA Meeting (HR)",
+            "date": "August 3, 2025",
+            "description": "-",
+            "category": "Administrative"
+        },
+        {
+            "id": "buwan-ng-wika-elementary",
+            "title": "Buwan ng Wika",
+            "date": "August 4, 2025",
+            "description": [
+                "Elementary Launching of Buwan ng Wika, Kasaysayan & Other Languages (Flag Ceremony)",
+                "Wearing of School Prescribed Uniform (New Pupils and Students)"
+            ],
+            "category": "Administrative"
+        },
+        {
+            "id": "",
+            "title": "College Filing of Candidacy for SSC Election",
+            "date": "August 6, 2025",
+            "description": [
+                "College Seminar on RA 9262 – Anti-Violence Against Women and Their Children Act of 2004 (by SAS Dept.)",
+                "Elementary GKK & Monthly Meeting",
+                "Weekly Test (Morning only)",
+                "High School Homeroom Guidance Program",
+                "Faculty GKK/Meeting/Teachers Preparations (Afternoon)",
+                "Psycho-Spiritual Campus Recollection (Grade 7) – St. Agnes (AM), St. Cecilia (PM)"
+            ],
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "Elementary Acquaintance Party (Grade 4-6 only)",
+            "date": "August 8, 2025",
+            "description": "-",
+            "category": "Special Event"
+        },
+        {
+            "id": "",
+            "title": "Elementary Homeroom PTA Meeting (Morning)",
+            "date": "August 9, 2025",
+            "description": "-",
+            "category": "Special Event"
+        },
+        {
+            "id": "",
+            "title": "Elementary Fun & Engaging Learning Day",
+            "date": "August 13, 2025",
+            "description": [
+                "Weekly Test (MORNING ONLY)",
+                "HS Clubbing and other activities",
+                "Faculty GKK/Meeting/ Teachers' Preparations (AFTERNOON)",
+                "JHS Deadline 1s1 Quarter Final Exam (TQ and TOS)",
+                "Second Year College Recollection/Integration Sharing",
+                "College Seminar on Anti-Sexual Harassment Symposium - NST - CWTS Students",
+                "College Earthquake Drill"
+            ],
+            "category": "Special Event"
+        },
+        {
+            "id": "",
+            "title": "Solemnity of the Assumption of the Blessed Virgin Mary (Community Mass)",
+            "date": "August 15, 2025",
+            "description": [
+                "(Offer Flower to Mama Mary and Pray the Rosary together)"
+            ],
+            "category": "Special Event"
+        },
+        {
+            "id": "",
+            "title": "Elementary Fun & Engaging Learning Day",
+            "date": "August 20, 2025",
+            "description": [
+                "Weekly Test (MORNING ONLY)",
+                "HS Wednesday Activities",
+                "Faculty GKK/Meeting/ Teachers' Preparations (AFTERNOON)",
+                "OSAS College Orientation on RA 11036 - Mental Health Act",
+                "NSTP -CWTS Students symposium on Philippine Martial Law",
+                "Psycho-Spiritual Camp/ Recollection (Grade 7&8) - St. Therese & St. John"
+            ],
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "Ninoy Aquino Day (National Holiday)",
+            "date": "August 21, 2025",
+            "description": "-",
+            "category": "Holiday"
+        },
+        {
+            "id": "",
+            "title": "JHS 1 Quarter and SHS 1st Quarter Final Exam",
+            "date": "August 22, 2025",
+            "description": [
+                "College Acquaintance Party (AFTERNOON)"
+            ],
+            "category": "Special Event"
+        },
+        {
+            "id": "",
+            "title": "Nursery 1 & 2 Parents Encounter (Info Drive/Recollection)",
+            "date": "August 23, 2025",
+            "description": "-",
+            "category": "Special Event"
+        },
+        {
+            "id": "",
+            "title": "National Heroes Day (National Holiday)",
+            "date": "August 25, 2025",
+            "description": "-",
+            "category": "Holiday"
+        },
+        {
+            "id": "",
+            "title": "DepEd Testing Window for NAT Grade 10",
+            "date": "August 26-29, 2025",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "SAS College Seminar on RA 11053 - Anti-Hazing Act of 2018",
+            "date": "August 27, 2025",
+            "description": [
+                "NSTP -CWTS Students Seminar on Anti Hazing Law",
+                "Psycho-Spiritual Camp/ Recollection (Grade 8) - St. Luke & St. Matthew"
+            ],
+            "category": "Holiday"
+        },
+        {
+            "id": "",
+            "title": "Final Examination (1st Quarter)",
+            "date": "August 27-28, 2025",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "Buwan ng Wika Culmination",
+            "date": "August 29, 2025",
+            "description": "Elementary and HS Culmination ng Buwan ng Wika at Kasaysayan (Classroom-Based: Subject Integration)",
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "College National History Month and Buwan ng Wika Culmination",
+            "date": "August 30, 2025",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "Launching of Science, Math & Technology Month (F.C.)",
+            "date": "September 1, 2025",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "HS Homeroom Guidance Program (AM) and Faculty Meeting/ In-house Training/Teachers Preparation (PM)",
+            "date": "September 3, 2025",
+            "description": [
+                "Elem and HS GKK & Monthly Mass",
+                "Weekly Test (MORNING ONLY)",
+                "Faculty GKK/Meeting/ Teachers' Preparations (AFTERNOON)",
+                "College Leadership/Governance Seminar-Orientation & Training - SSC (If Applicable) & GKK Officers only",
+                "Psycho-Spiritual Camp/ Recollection (Grade 9 - 2 Sections AM & PM)"
+            ],
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "High School CIPTA Meeting (HR)",
+            "date": "September 7, 2025",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "Blessed Virgin Mary's Birthday: Paraliturgy/Mass (Community Mass)",
+            "date": "September 8, 2025",
+            "description": [
+                "(Offer Flower to Mama Mary and Pray the Rosary together)",
+                "College Deployment of 4th year and Unit Earner students - classroom observation",
+                "College GKK Day - Holy Mass"
+            ],
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "DepEd Testing Window for NCAE",
+            "date": "September 8-26, 2025",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": " Elementary FIRST HOLY COMMUNION",
+            "date": "September 10, 2025",
+            "description": [
+                "Grade 2 and all Catholic Transferees (MORNING) HS Activities",
+                "Deadline JHS & SHS 2nd Quarter Midterm Exam",
+                "FACULTY MEETING & OTHER TEACHERS' PREPARATIONS"
+            ],
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "College Midterm Exam",
+            "date": "September 15-20, 2025",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "JHS & SHS Midterm Exam (2nd Q)",
+            "date": "September 16, 2025",
+            "description": [
+                "Feast Day Our Lady of Sorrow"
+            ],
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "Feast of St. Matthew",
+            "date": "September 21, 2025",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "Elem. Fun & Engaging Learning Day/MAPEH",
+            "date": "September 24, 2025",
+            "description": [
+                "Weekly Test (MORNING ONLY)",
+                "HS Activities",
+                "Faculty Meeting/ Teachers' Preparations (AFTERNOON)",
+                "SAS College Seminar on RA 11313 - Safe Spaces Act",
+                "NSTP-CWTS Students on RA 9165 NSTP- Illegal Drugs, Tobacco and Alcohol-1ST YEAR",
+                "Psycho-Spiritual Camp/ Recollection (Grade 11 Elijah AM & Jeremiah PM)"
+            ],
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "Elementary MIDTERM EXAM (2nd Quarter)",
+            "date": "September 25-26, 2025",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "HS Science, Math & Tech. Month Culmination",
+            "date": "September 26, 2025",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "Kinder and Grade 1 Parents Encounter (Info Drive/Recollection)",
+            "date": "September 27, 2025",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "Elem. Science, Math & Tech. Month Culmination",
+            "date": "September 30, 2025",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "Feast of St. Therese of the Child Jesus",
+            "date": "October 1, 2025",
+            "description": [
+                "Holy Mass and Launching of Rosary Month (C.E Month)",
+                "Elem. GKK (MORNING)",
+                "HS Scheduled Activities",
+                "Season of Creation (SHS Students at 10-11 MORNING)",
+                "Faculty GKK/Meeting/ Teachers' Preparations (AFTERNOON)"
+            ],
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "School - based World Teacher's Day Celebration/ Cluster B Sports Fest",
+            "date": "October 3, 2025",
+            "description": [
+                "Deadline JHS and SHS 2nd Quarter Final Exam (TQ & TOS)"
+            ],
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "World Teacher's Day",
+            "date": "October 5, 2025",
+            "description": [
+                "High School CIPTA Meeting (HR)"
+            ],
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "School - Based World Teacher's Day Celebration by Elem. Supreme Pupils Government (SPG)",
+            "date": "October 6, 2025",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "HS JHS AND SHS FINAL EXAM (2td Quarter)",
+            "date": "October 7, 2025",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "Elem. Weekly Test/MAPEH/Fun & Engaging Learning Day (MORNING ONLY)",
+            "date": "October 8, 2025",
+            "description": [
+                "HS Homeroom Guidance Program",
+                "Faculty Meeting/In-House Training/ Teachers' Preparations",
+                "Fourth Year College Integration Sharing (AFTERNOON)",
+                "NSTP-CWTS Students Safety Educ (First Aid Training)"
+            ],
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "College Research - Title Proposal Defense",
+            "date": "October 10, 2025",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "Elementary PTA Meeting (G) (MORNING ONLY)",
+            "date": "October 12, 2025",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "College FINAL EXAM",
+            "date": "October 13-18, 2025",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "Feast of St. Teresa of Avila",
+            "date": "October 15, 2025",
+            "description": [
+                "Elem. Fun & Engaging Learning Day/MAPEH",
+                "Elem. Weekly Test",
+                "Culmination Rosary Month (MORNING)",
+                "Faculty Meeting/ Teachers' Preparations (AFTERNOON)"
+            ],
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "Elementary MID-YEAR ASSESSMENT",
+            "date": "October 16-17, 2025",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "Feast of St. Luke",
+            "date": "October 18, 2025",
+            "description": [
+                "Grade 2 & 3 Parents Encounter (Info Drive/Recollection)"
+            ],
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "Hour of Prayer at 7PM (Campus Ministry)",
+            "date": "October 19, 2025",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "Foundation Preparation",
+            "date": "October 20, 2025",
+            "description": [
+                "College Clean-up drive in preparation of CITCI Founding Anniversary (CWTS Students only)",
+                "Final Clean Up Drive Coastal Area (NSTP - CWTS Students only)"
+            ],
+            "category": "Special Event"
+        },
+        {
+            "id": "",
+            "title": "122 Founding Anniversary, Intramurals, & Students - Parents Night",
+            "date": "October 21-25, 2025",
+            "description": "-",
+            "category": "Special Event"
+        },
+        {
+            "id": "",
+            "title": "Tribute to Jubilarians",
+            "date": "October 23, 2025",
+            "description": "-",
+            "category": "Special Event"
+        },
+        {
+            "id": "",
+            "title": "Alumni Day",
+            "date": "October 25, 2025",
+            "description": "-",
+            "category": "Special Event"
+        },
+        {
+            "id": "",
+            "title": "Mid - School Year Wellness Break",
+            "date": "October 25 - November 1, 2025",
+            "description": "-",
+            "category": "Semestral Break"
+        },
+        {
+            "id": "",
+            "title": "All Saints' Day (Special Non-Working Holiday)",
+            "date": "November 1, 2025",
+            "description": "-",
+            "category": "Holiday"
+        },
+        {
+            "id": "",
+            "title": "Ail Souls Day (Special Non-Working Holiday)",
+            "date": "November 2, 2025",
+            "description": "-",
+            "category": "Holiday"
+        },
+        {
+            "id": "",
+            "title": "Resumption of Classes and Launching of Book Month",
+            "date": "November 3, 2025",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "College Clearance Week, Submission of Grades and Enrollment Preparation for second semester",
+            "date": "November 3-14, 2025",
+            "description": [
+                "College Enrollment Week",
+                "Faculty and staff/ Offices - Preparation for 2nd semester"
+            ],
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "Elem. GKK/ Weekly Test (MORNING ONLY)",
+            "date": "November 5, 2025",
+            "description": [
+                "Monthly Mass",
+                "Faculty GKK/ Meeting/In-House Training/ Teachers' Preparations (AFTERNOON)"
+            ],
+            "category": "Administrative"
+        },
+        {
+            "id": "",
+            "title": "Virgen de La Candelaria Parish Cabadbaran City Founding Anniversary",
+            "date": "November 7, 2025",
+            "description": "-",
+            "category": "Mass"
+        },
+        {
+            "id": "",
+            "title": "Elementary PTA Meeting (HR)",
+            "date": "November 8, 2025",
+            "description": "-",
+            "category": "Administrative"
+        },
+        {
+            "id": "",
+            "title": "HS CIPTA Meeting (HR)",
+            "date": "November 9, 2025",
+            "description": "-",
+            "category": "Administrative"
+        },
+        {
+            "id": "",
+            "title": "Elem. Weekly Test/MAPEH/Fun & Engaging Learning Day (MORNING ONLY)",
+            "date": "November 12, 2025",
+            "description": [
+                "HS Homeroom Guidance Program",
+                "Faculty Meeting/In-House Training/ Teachers' Preparations (AFTERNOON)"
+            ],
+            "category": "Administrative"
+        },
+        {
+            "id": "",
+            "title": "JHS MID - YEAR EXAM",
+            "date": "November 13-14, 2025",
+            "description": "-",
+            "category": "Administrative"
+        },
+        {
+            "id": "",
+            "title": " Grades 4 - 5 Parents' Encounter",
+            "date": "November 15, 2025",
+            "description": [
+                "College Resumption of classes for 2nd Semester"
+            ],
+            "category": "Administrative"
+        },
+        {
+            "id": "",
+            "title": "College Students' Orientation for Second Semester Calendar of Activities",
+            "date": "November 17, 2025",
+            "description": [
+                "Instructors' Orientation with their Subject Courses",
+                "Reorientation for New CWTS Students"
+            ],
+            "category": "Administrative"
+        },
+        {
+            "id": "",
+            "title": "Elem FINAL EXAM (2nd Quarter)",
+            "date": "November 18-21, 2025",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "Grades 4-6 Exam",
+            "date": "November 18-19, 2025",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "Nursery 1-Grade 3 Exam",
+            "date": "November 20-21, 2025",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "Feast Day Our Lady of Providence",
+            "date": "November 19, 2025",
+            "description": [
+                "SAS College Seminar on RA 11861 - Expanded Solo Parents Welfare Act and RA 11551 -Labor Education Act",
+                "HS Clubbing and other activities",
+                "Faculty Meeting/In-House Training/ Teachers' Preparations (AFTERNOON)"
+            ],
+            "category": "Administrative"
+        },
+        {
+            "id": "",
+            "title": "Grades 4- 6 Boys and Girls Scout",
+            "date": "November 20-22, 2025",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "Nursery 1 - Grade 3 Scouting Day/Family Day",
+            "date": "November 22, 2025",
+            "description": [
+                "Feast of St. Cecilia"
+            ],
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "Students' Adding and Changing of Enrolled Course/Subjects",
+            "date": "November 24-28, 2025",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "Elem. GKK/ Weekly Test (MORNING ONLY)",
+            "date": "November 26, 2025",
+            "description": [
+                "Faculty Meeting/In-House Training/ Teachers' Preparations (AFTERNOON)",
+                "First Year College Recollection/Integration Sharing"
+            ],
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "Feast of St. Andrew",
+            "date": "November 30, 2025",
+            "description": [
+                " Bonifacio Day (National Holiday)"
+            ],
+            "category": "Mass"
+        },
+        {
+            "id": "",
+            "title": "Elem. GKK/ Weekly Test (MORNING ONLY)",
+            "date": "December 3, 2025",
+            "description": [
+                "Monthly Mass",
+                "Faculty GKK/ Meeting/In-House Training/ Teachers' Preparations (AFTERNOON)",
+                "SAS College Seminar on Executive Order (E.O.) 193, 12 November 2015 - Enhanced National Greening Program",
+                "NSTP - CWTS Students Coastal/Community Clean Up Drive"
+            ],
+            "category": "Mass"
+        },
+        {
+            "id": "",
+            "title": "College Deployment of Student Teachers - Internship",
+            "date": "December 5, 2025",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "Elem PTA Meeting (HR) (1' Saturday only this Month)",
+            "date": "December 6, 2025",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "HS CIPTA Meeting (HR)",
+            "date": "December 7, 2025",
+            "description": [
+                "Feast of Immaculate Concepcion"
+            ],
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "Holy Mass - Feast of Immaculate Concepcion",
+            "date": "December 8, 2025",
+            "description": [
+                "DepEd Cabadbaran City Division Founding Anniversary"
+            ],
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "College Preliminary Exam",
+            "date": "December 9, 2025",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "Diagnostic Demo - Teaching of the Interns",
+            "date": "December 9-13, 2025",
+            "description": "-",
+            "category": "Administrative"
+        },
+        {
+            "id": "",
+            "title": "Elem. Fun & Engaging Lcarning Day/MAPEH/ Weekly Test (MORNING ONLY)",
+            "date": "December 10, 2025",
+            "description": [
+                "Faculty Meeting/ Teachers' Preparations (AFTERNOON)"
+            ],
+            "category": "Administrative"
+        },
+        {
+            "id": "",
+            "title": "Elem. MIDTERM EXAM (3rd Quarter)",
+            "date": "December 11-12, 2025",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "JHS and SHS MIDTERM EXAM (3rd Quarter)",
+            "date": "December 12, 2025",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "HS Gift - giving (SSC)",
+            "date": "December 15, 2025",
+            "description": "-",
+            "category": "Special Event"
+        },
+        {
+            "id": "",
+            "title": "Elem. Family Day and General Christmas Party",
+            "date": "December 16, 2025",
+            "description": "-",
+            "category": "Special Event"
+        },
+        {
+            "id": "",
+            "title": "Elem. Packing for Gift - giving",
+            "date": "December 17, 2025",
+            "description": [
+                " Elem. Gift - giving"
+            ],
+            "category": "Special Event"
+        },
+        {
+            "id": "",
+            "title": "HS and College Students Christmas Party",
+            "date": "December 18, 2025",
+            "description": "-",
+            "category": "Special Event"
+        },
+        {
+            "id": "",
+            "title": "Employees Christmas Party",
+            "date": "December 19, 2025",
+            "description": "-",
+            "category": "Special Event"
+        },
+        {
+            "id": "",
+            "title": "Start of Christmas Break",
+            "date": "December 25, 2025",
+            "description": "-",
+            "category": "Holiday"
+        },
+        {
+            "id": "",
+            "title": "Christmas Day (Holiday)",
+            "date": "December 27, 2025",
+            "description": "-",
+            "category": "Holiday"
+        },
+        {
+            "id": "",
+            "title": "Feast of St. John the Apostle",
+            "date": "December 30, 2025",
+            "description": "-",
+            "category": "Holiday"
+        },
+        {
+            "id": "",
+            "title": "Resumption of Classes",
+            "date": "January 5, 2026",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "Feast Day Mary Mother of God",
+            "date": "January 6, 2026",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "Elem. GKK/ Weekly Test (MORNING ONLY)",
+            "date": "January 7, 2026",
+            "description": [
+                "Monthly Mass",
+                "Faculty GKK/ Meeting/In-House Training/ Teachers' Preparations (AFTERNOON)",
+                "College Seminar on Leadership and Good Governance"
+            ],
+            "category": "Academic"
+        },
+        {
+            "id": "",
+            "title": "G10 St. Peter Retreat",
+            "date": "January 9-10, 2026",
+            "description": "-",
+            "category": "Special Event"
         }
     ],
-    
     "callToActionContent": {
         "heading": "Ready to Join Our Community?",
         "description": "We invite you to take the next step in providing your child with an exceptional Catholic education. Contact our Admissions Office to schedule a tour or apply today.",
@@ -639,6 +1628,4 @@
             }
         ]
     }
-    
-
 }

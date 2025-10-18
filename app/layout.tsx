@@ -5,7 +5,6 @@ import "./globals.css"
 import Header from "@/components/header"
 import Footer from "@/components/footer"
 import { ThemeProvider } from "@/components/theme-provider"
-import { Tooltip } from "recharts"
 import { TooltipProvider } from "@/components/ui/tooltip"
 
 const inter = Inter({
