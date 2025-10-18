@@ -863,7 +863,7 @@
             "category": "Administrative"
         },
         {
-            "id": "",
+            "id": "college-ssc-candidacy-filing-aug2025",
             "title": "College Filing of Candidacy for SSC Election",
             "date": "August 6, 2025",
             "description": [
@@ -877,21 +877,21 @@
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "elementary-acquaintance-party-aug2025",
             "title": "Elementary Acquaintance Party (Grade 4-6 only)",
             "date": "August 8, 2025",
             "description": "-",
             "category": "Special Event"
         },
         {
-            "id": "",
+            "id": "elementary-pta-meeting-aug2025",
             "title": "Elementary Homeroom PTA Meeting (Morning)",
             "date": "August 9, 2025",
             "description": "-",
             "category": "Special Event"
         },
         {
-            "id": "",
+            "id": "weekly-tests-and-meetings-aug13-2025",
             "title": "Elementary Fun & Engaging Learning Day",
             "date": "August 13, 2025",
             "description": [
@@ -906,7 +906,7 @@
             "category": "Special Event"
         },
         {
-            "id": "",
+            "id": "assumption-day-2025",
             "title": "Solemnity of the Assumption of the Blessed Virgin Mary (Community Mass)",
             "date": "August 15, 2025",
             "description": [
@@ -915,7 +915,7 @@
             "category": "Special Event"
         },
         {
-            "id": "",
+            "id": "elementary-learning-day-aug20-2025",
             "title": "Elementary Fun & Engaging Learning Day",
             "date": "August 20, 2025",
             "description": [
@@ -929,14 +929,14 @@
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "ninoy-aquino-day-2025",
             "title": "Ninoy Aquino Day (National Holiday)",
             "date": "August 21, 2025",
             "description": "-",
             "category": "Holiday"
         },
         {
-            "id": "",
+            "id": "jhs-finals-aug2025",
             "title": "JHS 1 Quarter and SHS 1st Quarter Final Exam",
             "date": "August 22, 2025",
             "description": [
@@ -945,28 +945,28 @@
             "category": "Special Event"
         },
         {
-            "id": "",
+            "id": "nursery-parents-encounter-aug2025",
             "title": "Nursery 1 & 2 Parents Encounter (Info Drive/Recollection)",
             "date": "August 23, 2025",
             "description": "-",
             "category": "Special Event"
         },
         {
-            "id": "",
+            "id": "national-heroes-day-aug2025",
             "title": "National Heroes Day (National Holiday)",
             "date": "August 25, 2025",
             "description": "-",
             "category": "Holiday"
         },
         {
-            "id": "",
+            "id": "nat-grade10-testing-aug2025",
             "title": "DepEd Testing Window for NAT Grade 10",
             "date": "August 26-29, 2025",
             "description": "-",
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "anti-hazing-seminar-aug2025",
             "title": "SAS College Seminar on RA 11053 - Anti-Hazing Act of 2018",
             "date": "August 27, 2025",
             "description": [
@@ -976,35 +976,35 @@
             "category": "Holiday"
         },
         {
-            "id": "",
+            "id": "final-exam-q1-aug2025",
             "title": "Final Examination (1st Quarter)",
             "date": "August 27-28, 2025",
             "description": "-",
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "buwan-ng-wika-culmination-aug2025",
             "title": "Buwan ng Wika Culmination",
             "date": "August 29, 2025",
             "description": "Elementary and HS Culmination ng Buwan ng Wika at Kasaysayan (Classroom-Based: Subject Integration)",
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "college-history-month-culmination-aug2025",
             "title": "College National History Month and Buwan ng Wika Culmination",
             "date": "August 30, 2025",
             "description": "-",
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "stem-month-launch-sep2025",
             "title": "Launching of Science, Math & Technology Month (F.C.)",
             "date": "September 1, 2025",
             "description": "-",
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "hs-guidance-faculty-meeting-sep2025",
             "title": "HS Homeroom Guidance Program (AM) and Faculty Meeting/ In-house Training/Teachers Preparation (PM)",
             "date": "September 3, 2025",
             "description": [
@@ -1017,14 +1017,14 @@
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "hs-cipta-meeting-sep2025",
             "title": "High School CIPTA Meeting (HR)",
             "date": "September 7, 2025",
             "description": "-",
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "blessed-virgin-birthday-mass-sep2025",
             "title": "Blessed Virgin Mary's Birthday: Paraliturgy/Mass (Community Mass)",
             "date": "September 8, 2025",
             "description": [
@@ -1035,14 +1035,14 @@
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "ncae-testing-window-sep2025",
             "title": "DepEd Testing Window for NCAE",
             "date": "September 8-26, 2025",
             "description": "-",
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "elementary-first-communion-sep2025",
             "title": " Elementary FIRST HOLY COMMUNION",
             "date": "September 10, 2025",
             "description": [
@@ -1053,14 +1053,14 @@
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "college-midterm-exam-sep2025",
             "title": "College Midterm Exam",
             "date": "September 15-20, 2025",
             "description": "-",
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "jhs-shs-midterm-q2-sep2025",
             "title": "JHS & SHS Midterm Exam (2nd Q)",
             "date": "September 16, 2025",
             "description": [
@@ -1069,14 +1069,14 @@
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "feast-st-matthew-sep2025",
             "title": "Feast of St. Matthew",
             "date": "September 21, 2025",
             "description": "-",
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "elem-learning-day-sep24-2025",
             "title": "Elem. Fun & Engaging Learning Day/MAPEH",
             "date": "September 24, 2025",
             "description": [
@@ -1090,35 +1090,35 @@
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "elementary-midterm-q2-sep2025",
             "title": "Elementary MIDTERM EXAM (2nd Quarter)",
             "date": "September 25-26, 2025",
             "description": "-",
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "hs-stem-culmination-sep2025",
             "title": "HS Science, Math & Tech. Month Culmination",
             "date": "September 26, 2025",
             "description": "-",
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "kinder-g1-parents-encounter-sep2025",
             "title": "Kinder and Grade 1 Parents Encounter (Info Drive/Recollection)",
             "date": "September 27, 2025",
             "description": "-",
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "elem-stem-culmination-sep2025",
             "title": "Elem. Science, Math & Tech. Month Culmination",
             "date": "September 30, 2025",
             "description": "-",
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "feast-st-therese-oct2025",
             "title": "Feast of St. Therese of the Child Jesus",
             "date": "October 1, 2025",
             "description": [
@@ -1131,7 +1131,7 @@
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "teachers-day-sports-fest-oct2025",
             "title": "School - based World Teacher's Day Celebration/ Cluster B Sports Fest",
             "date": "October 3, 2025",
             "description": [
@@ -1140,7 +1140,7 @@
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "world-teachers-day-oct2025",
             "title": "World Teacher's Day",
             "date": "October 5, 2025",
             "description": [
@@ -1149,21 +1149,21 @@
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "spg-teachers-day-celebration-oct2025",
             "title": "School - Based World Teacher's Day Celebration by Elem. Supreme Pupils Government (SPG)",
             "date": "October 6, 2025",
             "description": "-",
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "jhs-shs-finals-q2-oct2025",
             "title": "HS JHS AND SHS FINAL EXAM (2td Quarter)",
             "date": "October 7, 2025",
             "description": "-",
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "elem-weekly-test-oct8-2025",
             "title": "Elem. Weekly Test/MAPEH/Fun & Engaging Learning Day (MORNING ONLY)",
             "date": "October 8, 2025",
             "description": [
@@ -1175,28 +1175,28 @@
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "college-research-proposal-oct2025",
             "title": "College Research - Title Proposal Defense",
             "date": "October 10, 2025",
             "description": "-",
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "elem-pta-meeting-oct2025",
             "title": "Elementary PTA Meeting (G) (MORNING ONLY)",
             "date": "October 12, 2025",
             "description": "-",
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "college-finals-oct2025",
             "title": "College FINAL EXAM",
             "date": "October 13-18, 2025",
             "description": "-",
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "feast-st-teresa-avila-oct2025",
             "title": "Feast of St. Teresa of Avila",
             "date": "October 15, 2025",
             "description": [
@@ -1208,14 +1208,14 @@
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "elem-midyear-assessment-oct2025",
             "title": "Elementary MID-YEAR ASSESSMENT",
             "date": "October 16-17, 2025",
             "description": "-",
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "feast-st-luke-oct2025",
             "title": "Feast of St. Luke",
             "date": "October 18, 2025",
             "description": [
@@ -1224,14 +1224,14 @@
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "campus-prayer-hour-oct2025",
             "title": "Hour of Prayer at 7PM (Campus Ministry)",
             "date": "October 19, 2025",
             "description": "-",
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "foundation-prep-oct2025",
             "title": "Foundation Preparation",
             "date": "October 20, 2025",
             "description": [
@@ -1241,56 +1241,56 @@
             "category": "Special Event"
         },
         {
-            "id": "",
+            "id": "founding-anniversary-122-oct2025",
             "title": "122 Founding Anniversary, Intramurals, & Students - Parents Night",
             "date": "October 21-25, 2025",
             "description": "-",
             "category": "Special Event"
         },
         {
-            "id": "",
+            "id": "jubilarians-tribute-oct2025",
             "title": "Tribute to Jubilarians",
             "date": "October 23, 2025",
             "description": "-",
             "category": "Special Event"
         },
         {
-            "id": "",
+            "id": "alumni-day-oct2025",
             "title": "Alumni Day",
             "date": "October 25, 2025",
             "description": "-",
             "category": "Special Event"
         },
         {
-            "id": "",
+            "id": "midyear-wellness-break-oct2025",
             "title": "Mid - School Year Wellness Break",
             "date": "October 25 - November 1, 2025",
             "description": "-",
             "category": "Semestral Break"
         },
         {
-            "id": "",
+            "id": "all-saints-day-nov2025",
             "title": "All Saints' Day (Special Non-Working Holiday)",
             "date": "November 1, 2025",
             "description": "-",
             "category": "Holiday"
         },
         {
-            "id": "",
+            "id": "all-souls-day-nov2025",
             "title": "Ail Souls Day (Special Non-Working Holiday)",
             "date": "November 2, 2025",
             "description": "-",
             "category": "Holiday"
         },
         {
-            "id": "",
+            "id": "class-resumption-book-month-nov2025",
             "title": "Resumption of Classes and Launching of Book Month",
             "date": "November 3, 2025",
             "description": "-",
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "college-clearance-enrollment-prep-nov2025",
             "title": "College Clearance Week, Submission of Grades and Enrollment Preparation for second semester",
             "date": "November 3-14, 2025",
             "description": [
@@ -1300,7 +1300,7 @@
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "elem-gkk-weekly-test-nov5-2025",
             "title": "Elem. GKK/ Weekly Test (MORNING ONLY)",
             "date": "November 5, 2025",
             "description": [
@@ -1310,28 +1310,28 @@
             "category": "Administrative"
         },
         {
-            "id": "",
+            "id": "candelaria-parish-anniversary-nov2025",
             "title": "Virgen de La Candelaria Parish Cabadbaran City Founding Anniversary",
             "date": "November 7, 2025",
             "description": "-",
             "category": "Mass"
         },
         {
-            "id": "",
+            "id": "elem-pta-meeting-nov2025",
             "title": "Elementary PTA Meeting (HR)",
             "date": "November 8, 2025",
             "description": "-",
             "category": "Administrative"
         },
         {
-            "id": "",
+            "id": "hs-cipta-meeting-nov2025",
             "title": "HS CIPTA Meeting (HR)",
             "date": "November 9, 2025",
             "description": "-",
             "category": "Administrative"
         },
         {
-            "id": "",
+            "id": "elem-weekly-test-nov12-2025",
             "title": "Elem. Weekly Test/MAPEH/Fun & Engaging Learning Day (MORNING ONLY)",
             "date": "November 12, 2025",
             "description": [
@@ -1341,14 +1341,14 @@
             "category": "Administrative"
         },
         {
-            "id": "",
+            "id": "jhs-midyear-exam-nov2025",
             "title": "JHS MID - YEAR EXAM",
             "date": "November 13-14, 2025",
             "description": "-",
             "category": "Administrative"
         },
         {
-            "id": "",
+            "id": "grades-4-5-parents-encounter-nov2025",
             "title": " Grades 4 - 5 Parents' Encounter",
             "date": "November 15, 2025",
             "description": [
@@ -1357,7 +1357,7 @@
             "category": "Administrative"
         },
         {
-            "id": "",
+            "id": "college-sem2-orientation-nov2025",
             "title": "College Students' Orientation for Second Semester Calendar of Activities",
             "date": "November 17, 2025",
             "description": [
@@ -1367,28 +1367,28 @@
             "category": "Administrative"
         },
         {
-            "id": "",
+            "id": "elem-finals-q2-nov2025",
             "title": "Elem FINAL EXAM (2nd Quarter)",
             "date": "November 18-21, 2025",
             "description": "-",
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "grades-4-6-exam-nov2025",
             "title": "Grades 4-6 Exam",
             "date": "November 18-19, 2025",
             "description": "-",
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "nursery-grade3-exam-nov2025",
             "title": "Nursery 1-Grade 3 Exam",
             "date": "November 20-21, 2025",
             "description": "-",
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "feast-lady-providence-nov2025",
             "title": "Feast Day Our Lady of Providence",
             "date": "November 19, 2025",
             "description": [
@@ -1399,14 +1399,14 @@
             "category": "Administrative"
         },
         {
-            "id": "",
+            "id": "grades-4-6-scouts-nov2025",
             "title": "Grades 4- 6 Boys and Girls Scout",
             "date": "November 20-22, 2025",
             "description": "-",
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "nursery-grade3-scouts-family-day-nov2025",
             "title": "Nursery 1 - Grade 3 Scouting Day/Family Day",
             "date": "November 22, 2025",
             "description": [
@@ -1415,14 +1415,14 @@
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "course-changes-nov2025",
             "title": "Students' Adding and Changing of Enrolled Course/Subjects",
             "date": "November 24-28, 2025",
             "description": "-",
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "elem-gkk-weekly-test-nov26-2025",
             "title": "Elem. GKK/ Weekly Test (MORNING ONLY)",
             "date": "November 26, 2025",
             "description": [
@@ -1432,7 +1432,7 @@
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "feast-st-andrew-nov2025",
             "title": "Feast of St. Andrew",
             "date": "November 30, 2025",
             "description": [
@@ -1441,7 +1441,7 @@
             "category": "Mass"
         },
         {
-            "id": "",
+            "id": "elem-gkk-weekly-test-dec3-2025",
             "title": "Elem. GKK/ Weekly Test (MORNING ONLY)",
             "date": "December 3, 2025",
             "description": [
@@ -1453,21 +1453,21 @@
             "category": "Mass"
         },
         {
-            "id": "",
+            "id": "student-teachers-deployment-dec2025",
             "title": "College Deployment of Student Teachers - Internship",
             "date": "December 5, 2025",
             "description": "-",
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "elem-pta-meeting-dec2025",
             "title": "Elem PTA Meeting (HR) (1' Saturday only this Month)",
             "date": "December 6, 2025",
             "description": "-",
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "hs-cipta-meeting-dec2025",
             "title": "HS CIPTA Meeting (HR)",
             "date": "December 7, 2025",
             "description": [
@@ -1476,7 +1476,7 @@
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "immaculate-conception-mass-dec2025",
             "title": "Holy Mass - Feast of Immaculate Concepcion",
             "date": "December 8, 2025",
             "description": [
@@ -1485,21 +1485,21 @@
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "college-prelim-exam-dec2025",
             "title": "College Preliminary Exam",
             "date": "December 9, 2025",
             "description": "-",
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "intern-diagnostic-demo-dec2025",
             "title": "Diagnostic Demo - Teaching of the Interns",
             "date": "December 9-13, 2025",
             "description": "-",
             "category": "Administrative"
         },
         {
-            "id": "",
+            "id": "elem-learning-day-dec10-2025",
             "title": "Elem. Fun & Engaging Lcarning Day/MAPEH/ Weekly Test (MORNING ONLY)",
             "date": "December 10, 2025",
             "description": [
@@ -1508,35 +1508,35 @@
             "category": "Administrative"
         },
         {
-            "id": "",
+            "id": "elem-midterm-q3-dec2025",
             "title": "Elem. MIDTERM EXAM (3rd Quarter)",
             "date": "December 11-12, 2025",
             "description": "-",
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "jhs-shs-midterm-q3-dec2025",
             "title": "JHS and SHS MIDTERM EXAM (3rd Quarter)",
             "date": "December 12, 2025",
             "description": "-",
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "hs-gift-giving-dec2025",
             "title": "HS Gift - giving (SSC)",
             "date": "December 15, 2025",
             "description": "-",
             "category": "Special Event"
         },
         {
-            "id": "",
+            "id": "elem-christmas-party-dec2025",
             "title": "Elem. Family Day and General Christmas Party",
             "date": "December 16, 2025",
             "description": "-",
             "category": "Special Event"
         },
         {
-            "id": "",
+            "id": "elem-gift-packing-dec2025",
             "title": "Elem. Packing for Gift - giving",
             "date": "December 17, 2025",
             "description": [
@@ -1545,56 +1545,56 @@
             "category": "Special Event"
         },
         {
-            "id": "",
+            "id": "hs-college-christmas-party-dec2025",
             "title": "HS and College Students Christmas Party",
             "date": "December 18, 2025",
             "description": "-",
             "category": "Special Event"
         },
         {
-            "id": "",
+            "id": "employees-christmas-party-dec2025",
             "title": "Employees Christmas Party",
             "date": "December 19, 2025",
             "description": "-",
             "category": "Special Event"
         },
         {
-            "id": "",
+            "id": "christmas-break-start-dec2025",
             "title": "Start of Christmas Break",
             "date": "December 25, 2025",
             "description": "-",
             "category": "Holiday"
         },
         {
-            "id": "",
+            "id": "christmas-day-dec2025",
             "title": "Christmas Day (Holiday)",
             "date": "December 27, 2025",
             "description": "-",
             "category": "Holiday"
         },
         {
-            "id": "",
+            "id": "feast-st-john-apostle-dec2025",
             "title": "Feast of St. John the Apostle",
             "date": "December 30, 2025",
             "description": "-",
             "category": "Holiday"
         },
         {
-            "id": "",
+            "id": "classes-resumption-jan2026",
             "title": "Resumption of Classes",
             "date": "January 5, 2026",
             "description": "-",
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "feast-mary-mother-god-jan2026",
             "title": "Feast Day Mary Mother of God",
             "date": "January 6, 2026",
             "description": "-",
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "elem-gkk-weekly-test-jan7-2026",
             "title": "Elem. GKK/ Weekly Test (MORNING ONLY)",
             "date": "January 7, 2026",
             "description": [
@@ -1605,11 +1605,486 @@
             "category": "Academic"
         },
         {
-            "id": "",
+            "id": "g10-st-peter-retreat-jan2026",
             "title": "G10 St. Peter Retreat",
             "date": "January 9-10, 2026",
             "description": "-",
             "category": "Special Event"
+        },
+        {
+            "id": "elem-pta-meeting-jan10-2026",
+            "title": "Elem PTA Meeting (HR)",
+            "date": "January 10, 2026",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "hs-pta-meeting-jan11-2026",
+            "title": "HS PTA Meeting (HR)",
+            "date": "January 11, 2026",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "career-guidance-launching-jan12-2026",
+            "title": "Launching of Career Guidance",
+            "date": "January 12, 2026",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "elem-weekly-test-jan14-2026",
+            "title": "Elem. Weekly Test, Fun & Engaging Learning Day/MAPEH (MORNING ONLY)",
+            "date": "January 14, 2026",
+            "description": [
+                "HS Homeroom Guidance Program",
+                "Faculty GKK/ Meeting/In-House Training/ Teachers' Preparations (AFTERNOON)",
+                "SAS College Seminar on EO No. 101 - Attaining 'Zero Hunger'"
+            ],
+            "category": "Academic"
+        },
+        {
+            "id": "mock-interview-jan15-16-2026",
+            "title": "Mock Interview - 4th Year & Unit Earners",
+            "date": "January 15-16, 2026",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "g10-st-paul-retreat-jan16-17-2026",
+            "title": "G10 St. Paul Retreat",
+            "date": "January 16-17, 2026",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "college-interns-orientation-jan19-2026",
+            "title": "College Interns Orientation and acquaintance with the Cooperating Teachers",
+            "date": "January 19, 2026",
+            "description": [
+                "DepEd Testing Window for NAT Grade 12"
+            ],
+            "category": "Academic"
+        },
+        {
+            "id": "jhs-shs-final-exam-jan20-2026",
+            "title": "JHS & SHS FINAL EXAM (3rd Quarter)",
+            "date": "January 20, 2026",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "elem-weekly-test-jan21-2026",
+            "title": "Elem. Weekly Test/MAPEH/Fun & Engaging Learning Day",
+            "date": "January 21, 2026",
+            "description": [
+                "HS Clubbing",
+                "Faculty Meeting/In-House Training/ Teachers' Preparations",
+                "SAS College Joint Administrative Order (JAO) No. 2022-0001 - Guidelines on Healthy Settings Framework in Learning Institutions",
+                "College Launching of Career Guidance, GKK, Career Talk & Gender Development"
+            ],
+            "category": "Academic"
+        },
+        {
+            "id": "elem-final-exam-jan22-23-2026",
+            "title": "Elem. FINAL EXAM (3rd Quarter)",
+            "date": "January 22-23, 2026",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "g10-st-andrew-retreat-jan23-24-2026",
+            "title": "G10 St. Andrew Retreat",
+            "date": "January 23-24, 2026",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "feast-st-agnes-jan23-2026",
+            "title": "Feast of St. Agnes",
+            "date": "January 23, 2026",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "early-registration-jan26-27-2026",
+            "title": "Start of Early Registration/ Marketing Campaign",
+            "date": "January 26-27, 2026",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "faculty-gkk-meeting-jan28-2026",
+            "title": "Faculty GKK/ Meeting/In-House Training/ Teachers' Preparations",
+            "date": "January 28, 2026",
+            "description": [
+                "Second Year College Recollection/Integration Sharing",
+                "Cabadbaran City wide clean-up drive in preparation for Fiesta (CWTS Students only)"
+            ],
+            "category": "Academic"
+        },
+        {
+            "id": "elem-festival-talents-jan29-30-2026",
+            "title": "Elem. Festival of Talents",
+            "date": "January 29-30, 2026",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "feast-st-thomas-aquinas-jan30-2026",
+            "title": "Feast of St. Thomas Aquinas",
+            "date": "January 30, 2026",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "g12-arch-michael-retreat-jan30-31-2026",
+            "title": "G12 Arch. Michael Retreat",
+            "date": "January 30-31, 2026",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "feast-our-lady-purification-feb1-2-2026",
+            "title": "Feast of Our Lady of Purification and Presentation of Our Lord",
+            "date": "February 1-2, 2026",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "resumption-classes-feb3-2026",
+            "title": "Resumption of Classes",
+            "date": "February 3, 2026",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "elem-gkk-weekly-test-feb4-2026",
+            "title": "Elem. GKK/ Weekly Test (MORNING ONLY)",
+            "date": "February 4, 2026",
+            "description": [
+                "HS GKK",
+                "Faculty GKK/Meeting/In-House Training/ Teachers' Preparations (AFTERNOON)",
+                "SAS College Conference on CMO No. 18, S. 2018 - The Implementing Guidelines for the Conduct of Drug Testing of Students in all Higher Education Institutions (HEIs)"
+            ],
+            "category": "Academic"
+        },
+        {
+            "id": "elem-pta-meeting-feb7-2026",
+            "title": "Elem PTA Meeting (HR)",
+            "date": "February 7, 2026",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "hs-pta-meeting-feb8-2026",
+            "title": "HS PTA Meeting (HR)",
+            "date": "February 8, 2026",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "college-midterm-exam-feb9-14-2026",
+            "title": "College MIDTERM EXAM",
+            "date": "February 9-14, 2026",
+            "description": [
+                "Feast of Our Lady of Lourdes"
+            ],
+            "category": "Academic"
+        },
+        {
+            "id": "elem-weekly-test-feb11-2026",
+            "title": "Elem. Fun & Engaging Learning Day/MAPEH/ Weekly Test (MORNING ONLY)",
+            "date": "February 11, 2026",
+            "description": [
+                "HS Homeroom Guidance Program",
+                "Third Year College Recollection/Integration Sharing"
+            ],
+            "category": "Academic"
+        },
+        {
+            "id": "faculty-meeting-feb12-2026",
+            "title": "Faculty Meeting/ Teachers' Preparations (AFTERNOON)",
+            "date": "February 12, 2026",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "jhs-shs-midterm-exam-feb13-14-2026",
+            "title": "JHS & SHS MIDTERM EXAM (4th Quarter)",
+            "date": "February 13-14, 2026",
+            "description": [
+                "G12 Arch. Uriel Retreat"
+            ],
+            "category": "Academic"
+        },
+        {
+            "id": "js-prom-feb14-2026",
+            "title": "JS Prom and Valentine's Day",
+            "date": "February 14, 2026",
+            "description": [
+                "Community Engagement: Tree Planting/Community Clean-up"
+            ],
+            "category": "Academic"
+        },
+        {
+            "id": "chinese-new-year-feb17-2026",
+            "title": "Chinese New Year (Regular Holiday)",
+            "date": "February 17, 2026",
+            "description": [
+                "Ash Wednesday"
+            ],
+            "category": "Academic"
+        },
+        {
+            "id": "elem-weekly-test-feb18-2026",
+            "title": "Elem. Fun & Engaging Learning Day/MAPEH/ Weekly Test (MORNING ONLY)",
+            "date": "February 18, 2026",
+            "description": [
+                "HS Clubbing",
+                "Faculty Meeting/ Teachers' Preparations (AFTERNOON)"
+            ],
+            "category": "Academic"
+        },
+        {
+            "id": "elem-midterm-exam-feb19-20-2026",
+            "title": "Elem. MIDTERM EXAM (4th Quarter)",
+            "date": "February 19-20, 2026",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "g12-arch-rafael-retreat-feb20-21-2026",
+            "title": "G12 Arch. Rafael Retreat",
+            "date": "February 20-21, 2026",
+            "description": [
+                "Grade VI Recollection"
+            ],
+            "category": "Academic"
+        },
+        {
+            "id": "edsa-revolution-feb25-2026",
+            "title": "EDSA Revolution (National Holiday)",
+            "date": "February 25, 2026",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "hs-family-day-feb27-2026",
+            "title": "HS Family Day Activity",
+            "date": "February 27, 2026",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "hs-pta-meeting-mar1-2026",
+            "title": "HS PTA Meeting (G)",
+            "date": "March 1, 2026",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "jhs-shs-final-exam-mar3-2026",
+            "title": "JHS & SHS FINAL EXAM (4th Quarter)",
+            "date": "March 3, 2026",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "grade6-kinder-final-exam-mar3-4-2026",
+            "title": "GRADE VI & Kinder FINAL EXAM (4th Quarter)",
+            "date": "March 3-4, 2026",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "elem-gkk-weekly-test-mar4-2026",
+            "title": "Elem. GKK/ Weekly Test (MORNING ONLY)",
+            "date": "March 4, 2026",
+            "description": [
+                "HS GKK",
+                "Faculty GKK/Meeting/In-House Training/ Teachers' Preparations (AFTERNOON)"
+            ],
+            "category": "Academic"
+        },
+        {
+            "id": "nursery-gr1-5-final-exam-mar5-6-2026",
+            "title": "Nursery & Grades 1-5 FINAL EXAM (4th Quarter)",
+            "date": "March 5-6, 2026",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "elem-graduating-practice-mar9-2026",
+            "title": "Elem. Graduating Class Home Practice of Songs Through Provided Links",
+            "date": "March 9, 2026",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "grades-consolidation-mar9-13-2026",
+            "title": "Elem and HS Grades Consolidations & Deliberations",
+            "date": "March 9-13, 2026",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "kinder-grade6-practice-mar11-2026",
+            "title": "Start of Kindergarten & Grade VI Practices (Physical)",
+            "date": "March 11, 2026",
+            "description": [
+                "HS Homeroom Guidance Program",
+                "Faculty GKK/ Meeting/In-House Training/ Teachers' Preparations (AFTERNOON)",
+                "College Seminar on Fire Prevention Month (CWTS Students only)",
+                "4th Year College Retreat"
+            ],
+            "category": "Academic"
+        },
+        {
+            "id": "elem-pta-meeting-mar13-14-2026",
+            "title": "Elem PTA Meeting (G)",
+            "date": "March 13-14, 2026",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "honor-pupils-declaration-mar14-2026",
+            "title": "Elem. and HS Declaration of Honor Pupils/ Students & Preparations of Graduation Rites",
+            "date": "March 14, 2026",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "ati-ve-mar16-2026",
+            "title": "ATI VE",
+            "date": "March 16, 2026",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "final-exam-4th-year-mar16-20-2026",
+            "title": "4th Year Students and Unit Earners FINAL EXAMINATION",
+            "date": "March 16-20, 2026",
+            "description": [
+                "3rd Year Students Final Research Defense",
+                "NSTP-CWTS Students Final Coastal Clean Up"
+            ],
+            "category": "Academic"
+        },
+        {
+            "id": "eid-feast-ramadan-mar20-2026",
+            "title": "Eid'l-Fitr - Feast of Ramadan (Regular Holiday)",
+            "date": "March 20, 2026",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "elem-recognition-graduation-mar23-2026",
+            "title": "Elem. Recognition and Graduation Day/ Completion",
+            "date": "March 23, 2026",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "college-grand-demo-mar23-28-2026",
+            "title": "4th Year College Students and Unit Earners Grand Demonstration",
+            "date": "March 23-28, 2026",
+            "description": [
+                "Final Exam for FIRST YEAR TO THIRD YEAR STUDENTS"
+            ],
+            "category": "Academic"
+        },
+        {
+            "id": "g12-graduation-mar24-2026",
+            "title": "G12 Graduation",
+            "date": "March 24, 2026",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "elem-clearance-signing-mar24-31-2026",
+            "title": "Elem Signing of Teacher's Clearance",
+            "date": "March 24-31, 2026",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "g10-moving-up-mar25-2026",
+            "title": "G10 Moving-Up Ceremony (PM)",
+            "date": "March 25, 2026",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "jhs-recognition-mar26-2026",
+            "title": "JHS Recognition (PM)",
+            "date": "March 26, 2026",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "shs-recognition-mar27-2026",
+            "title": "SHS Recognition (AM)",
+            "date": "March 27, 2026",
+            "description": [
+                "HS Submission of Forms and Signing of Teacher's Clearance"
+            ],
+            "category": "Academic"
+        },
+        {
+            "id": "college-submission-grades-mar30-apr1-2026",
+            "title": "College Submission of Final Grades/Ranking/Awards & Prep. for Medals/Ribbons/etc.",
+            "date": "March 30 - April 1, 2026",
+            "description": [
+                "NSTP-CWTS Students' Graduation/ Culmination"
+            ],
+            "category": "Academic"
+        },
+        {
+            "id": "college-vespers-apr1-2026",
+            "title": "College (Vespers or Mass for preparation for the feast)",
+            "date": "April 1, 2026",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "holy-week-apr2-3-2026",
+            "title": "Holy Week (Regular Holiday)",
+            "date": "April 2-3, 2026",
+            "description": [
+                "Feast of Saint Pedro Calungsod - College Department Patron Saint (Mass)"
+            ],
+            "category": "Academic"
+        },
+        {
+            "id": "team-building-apr6-10-2026",
+            "title": "Team Building",
+            "date": "April 6-10, 2026",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "araw-ng-kagitingan-apr9-2026",
+            "title": "Araw ng Kagitingan (Regular Holiday)",
+            "date": "April 9, 2026",
+            "description": [
+                "Day of Valor"
+            ],
+            "category": "Academic"
+        },
+        {
+            "id": "college-graduation-apr13-2026",
+            "title": "4th Year College Graduation",
+            "date": "April 13, 2026",
+            "description": "-",
+            "category": "Academic"
+        },
+        {
+            "id": "teachers-summer-break-apr10-may10-2026",
+            "title": "Start of 30-day Teacher's Summer Break",
+            "date": "April 10 - May 10, 2026",
+            "description": "-",
+            "category": "Academic"
         }
     ],
     "callToActionContent": {
