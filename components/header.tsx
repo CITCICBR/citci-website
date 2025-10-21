@@ -158,8 +158,8 @@ export default function Header() {
             <Link href="/" className="-m-1.5 p-1.5">
               <span className="sr-only">Candelaria Institute</span>
               <div className="flex items-center">
-                <div className="relative h-8 w-8 mr-2">
-                  <Image src="/placeholder.svg?height=32&width=32" alt="School Logo" fill className="object-contain" />
+                <div className="relative h-10 w-10 mr-2">
+                  <Image src="/images/logo.png" alt="School Logo" fill className="object-contain" />
                 </div>
                 <p className="font-serif text-base font-bold text-slate-600">Candelaria Institute</p>
               </div>
