@@ -116,7 +116,7 @@ export default function Footer() {
         <div className="mt-12 pt-8 border-t border-slate-700">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-sm text-slate-400">
-              &copy; {new Date().getFullYear()} Candelaria Institute&apos;s Catholic School. All rights reserved.
+              &copy; {new Date().getFullYear()} Candelaria Institute of Technology of Cabadbaran, Inc. All rights reserved.
             </p>
             <div className="mt-4 md:mt-0 flex space-x-6">
               <Link href="/privacy-policy" className="text-sm text-slate-400 hover:text-white">
