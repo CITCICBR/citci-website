@@ -1,0 +1,103 @@
+{
+    "heroSection": {
+        "title": "Contact Us",
+        "description": "We're here to answer your questions and welcome you to our community",
+        "image": {
+            "src": "/placeholder.svg?height=600&width=1920",
+            "alt": "Contact Candelaria Institute"
+        }
+    },
+    "contactInformation": {
+        "header": "Get in Touch",
+        "welcomeMessage": "Welcome to Candelaria Institute of Technology. We’re glad you’re here. Whether you’re a student exploring your future, a parent seeking guidance, or a partner looking to collaborate—our doors are always open. Let’s connect!",
+        "officeHours": {
+            "days": "Monday - Friday",
+            "hours": "8:30 AM - 3:30 PM",
+            "closed": "Closed on weekends and holidays"
+        },
+        "address": {
+            "line1": "Brgy. 1, Funcion St.",
+            "city": "Cabadbaran City",
+            "province": "Agusan del Norte"
+        },
+        "phone": "(0981) 234 7323",
+        "email": "candelariainstitute@yahoo.com"
+    },
+    "contactForm": {
+        "header": "Contact Form",
+        "description": "Please fill out the form below and we'll get back to you as soon as possible.",
+        "fields": {
+            "firstName": "First Name",
+            "lastName": "Last Name",
+            "email": "Email",
+            "phone": "Phone",
+            "inquiryType": [
+                "General Information",
+                "Admissions",
+                "Tuition & Financial Aid",
+                "Academics",
+                "Other"
+            ],
+            "message": "Your message"
+        },
+        "submitButton": "Submit"
+    },
+    "mapSection": {
+        "header": "Visit Our Campus",
+        "description": "We invite you to visit our beautiful campus and experience the Candelaria Institute's difference firsthand. Schedule a tour or attend an open house to learn more about our programs and meet our faculty and staff.",
+        "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d362.56055381051993!2d125.53153360518368!3d9.123507027660576!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3301a2d2eb260d91%3A0xbc1c12349dcf14df!2sCandelaria%20Institute%20of%20Technology%20of%20Cabadbaran%20Inc.!5e1!3m2!1sen!2sph!4v1746866947639!5m2!1sen!2sph"
+    },
+    "departmentDirectory": {
+        "header": "Department Directory",
+        "description": "Contact our departments directly for specific inquiries.",
+        "departments": [
+            {
+                "department": "Administration",
+                "contact": "Mrs. Elizabeth Johnson, Principal",
+                "email": "principal@stcatherines.edu",
+                "phone": "(555) 123-4567 ext. 101"
+            },
+            {
+                "department": "Admissions",
+                "contact": "Mrs. Sarah Thompson",
+                "email": "admissions@stcatherines.edu",
+                "phone": "(555) 123-4568"
+            },
+            {
+                "department": "Business Office",
+                "contact": "Mr. Robert Davis",
+                "email": "business@stcatherines.edu",
+                "phone": "(555) 123-4567 ext. 102"
+            },
+            {
+                "department": "Religious Education",
+                "contact": "Sr. Mary Catherine",
+                "email": "religion@stcatherines.edu",
+                "phone": "(555) 123-4567 ext. 103"
+            },
+            {
+                "department": "Athletics",
+                "contact": "Mr. James Wilson",
+                "email": "athletics@stcatherines.edu",
+                "phone": "(555) 123-4567 ext. 104"
+            },
+            {
+                "department": "Parent Association",
+                "contact": "Mrs. Jennifer Martinez",
+                "email": "parents@stcatherines.edu",
+                "phone": "(555) 123-4567 ext. 105"
+            }
+        ]
+    },
+    "ctaSection": {
+        "header": "Ready to Join Our Community?",
+        "description": "We invite you to take the next step in providing your child with an exceptional Catholic education. Contact our Admissions Office to schedule a tour or apply today.",
+        "buttons": [
+            {
+                "label": "Enroll Now",
+                "href": "/admissions/apply",
+                "style": "primary"
+            }
+        ]
+    }
+}

@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button"
 import Image from "next/image"
-import guidelines from "../data.json"
+import guidelines from "@/content/library/data.json"
 import FadeIn from "@/components/fadein-transition"
 import PageCTA from "@/components/page-cta"
 

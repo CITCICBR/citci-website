@@ -1,7 +1,7 @@
 import Image from "next/image"
 import FadeIn from "@/components/fadein-transition"
 import ContentSection from "@/components/section"
-import administrationJson from "../data.json"
+import administrationJson from "@/content/about/data.json"
 export default function AlumniAssociation() {
     const {alumniAssociation} = administrationJson
     

@@ -1,7 +1,7 @@
 import Image from "next/image"
 import Link from "next/link"
 import { ChevronRight, Calendar, User, Tag } from "lucide-react"
-import eventsData from "./events.json"
+import eventsData from "@/content/news-events/events.json"
 import PageCTA from "@/components/page-cta"
 
 

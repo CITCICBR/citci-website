@@ -4,7 +4,7 @@ import { ChevronRight, CheckCircle2 } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import FadeIn from "@/components/fadein-transition"
 import PageCTA from "@/components/page-cta"
-import apply from "./apply.json"
+import apply from "@/content/admissions/apply/apply.json"
 
 export default function ApplyPage() {
   const { callToActionContent, enrollmentSteps, enrollmentRequirements } = apply

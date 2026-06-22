@@ -1,6 +1,6 @@
 import Image from "next/image"
 import Link from "next/link"
-import missionVision from "../data.json"
+import missionVision from "@/content/library/data.json"
 import FadeIn from "@/components/fadein-transition"
 import PageCTA from "@/components/page-cta"
 

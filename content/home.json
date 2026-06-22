@@ -1,0 +1,319 @@
+{
+    "welcomeContent": {
+        "heading": "Welcome to Candelaria Institute",
+        "message": " Welcome to CITCI — a place where faith, excellence, and service come together to shape the leaders of tomorrow. Rooted in Catholic values and inspired by Mary, our model, we are committed to providing a nurturing and academically challenging environment that develops learners who are Christ-centered, socially responsible, and globally competitive.",
+        "learnMore": "Learn more about our mission"
+    },
+    "valuesContent": {
+        "heading": "Faith. Academics. Community.",
+        "hightlights": [
+            {
+                "icon": "Cross",
+                "title": "Faith Formation",
+                "description": "Our Catholic identity permeates all aspects of school life, nurturing students' relationship with Christ through daily prayer, regular Mass, and religious education.",
+                "link": "/faith-life",
+                "linkText": "Explore our faith life"
+            },
+            {
+                "icon": "BookOpen",
+                "title": "Academic Excellence",
+                "description": "We provide a rigorous curriculum that challenges students to reach their full potential, fostering critical thinking, creativity, and a lifelong love of learning.",
+                "link": "/academics",
+                "linkText": "Discover our programs"
+            },
+            {
+                "icon": "Calendar",
+                "title": "Vibrant Community",
+                "description": "Our school community is a family where students, parents, faculty, and staff work together to create a supportive and enriching environment for all.",
+                "link": "/student-life",
+                "linkText": "See student life"
+            }
+        ]
+    },
+    "schoolShowcaseContent": {
+        "heading": "Discover Candelaria Institute",
+        "intro": "Where a legacy of faith meets a future of excellence. Rooted in tradition and driven by innovation, Candelaria Institute offers quality Catholic education that shapes minds, nurtures values, and empowers lives."
+    },
+    "curriculumOverviewContent": {
+        "heading": "Programs Offered",
+        "intro": "Candelaria Institute offers a comprehensive curriculum designed to develop both academic skills and technical expertise across its educational levels—Basic Education, College Department, and Technical-Vocational Education and Training (TVET).",
+        "items": [
+            {
+                "title": "Basic Education Program",
+                "image": "/images/elementary.png",
+                "description": "Our Basic Education program spans from Elementary to Secondary education, providing students with a strong academic foundation and emphasizing Catholic values.",
+                "bullets": [
+                    {
+                        "title": "Elementary Education:",
+                        "detail": "Emphasizing religious instruction, language arts, mathematics, science, and social studies since 1935."
+                    }
+                ]
+            },
+            {
+                "title": "Junior High School Program (Grade 7-10)",
+                "image": "/images/junior-high.png",
+                "description": "Empowering learners through a well-rounded curriculum that prepares them for higher education and responsible citizenship.",
+                "bullets": []
+            },
+            {
+                "title": "Senior High School Program (Grade 11-12)",
+                "image": "/images/senior-high.png",
+                "description": "The Senior High School Program at Candelaria Institute equips students with academic excellence, life skills, and spiritual formation, preparing them for higher education, employment, or entrepreneurship.",
+                "bullets": [
+                    {
+                        "title": "ABM: ",
+                        "detail": "Accountancy, Business, and Management"
+                    },
+                    {
+                        "title": "HUMSS: ",
+                        "detail": "Humanities and Social Sciences"
+                    },
+                    {
+                        "title": "STEM: ",
+                        "detail": "Science, Technology, Engineering, and Mathematics"
+                    },
+                    {
+                        "title": "TECH-VOC Tracks: ",
+                        "detail": "Bread and Pastry Production, Food and Beverages Services, Computer Systems Servicing, Shielded Metal Arc Welding"
+                    }
+                ]
+            },
+            {
+                "title": "College Department",
+                "image": "/images/college.png",
+                "description": "The College Department offers Bachelor's degrees in education, with majors in Social Studies and English, preparing students for teaching careers.",
+                "bullets": [
+                    {
+                        "title": "Bachelor of Secondary Education (BSEd):",
+                        "detail": "Majors in Social Studies and English, preparing students for secondary education teaching roles. Recognized by the government since 2014."
+                    }
+                ]
+            },
+            {
+                "title": "TVET Programs",
+                "image": "/images/tesda-program.png",
+                "description": "Candelaria Institute offers a variety of TESDA-approved TVET courses, equipping students with the practical skills and certifications needed for various industries.",
+                "bullets": [
+                    {
+                        "title": "Shielded Metal Arc Welding (SMAW):",
+                        "detail": "NC I, NC II"
+                    },
+                    {
+                        "title": "Computer Systems Servicing:",
+                        "detail": "NC II"
+                    },
+                    {
+                        "title": "Visual Graphic Design:",
+                        "detail": "NC III"
+                    },
+                    {
+                        "title": "Driving:",
+                        "detail": "NC II"
+                    },
+                    {
+                        "title": "Bread and Pastry Production:",
+                        "detail": "NC II"
+                    },
+                    {
+                        "title": "Bookkeeping:",
+                        "detail": "NC III"
+                    }
+                ]
+            }
+        ]
+    },
+    "affiliationContent": {
+        "heading": "Affiliated Organizations",
+        "intro": "Candelaria Institute's has been blessed with dedicated leaders who have guided our school through decades of growth and change.",
+        "affiliation": [
+            {
+                "name": "Private Education Assistance Committee (PEAC)",
+                "image": "/placeholder.svg?height=600&width=800"
+            },
+            {
+                "name": "The Catholic Educational Association of the Philippines (CEAP)",
+                "image": "/placeholder.svg?height=600&width=800"
+            },
+            {
+                "name": "Association of Philippine Private School Administrators and Mentors (APPSAM) ",
+                "image": "/placeholder.svg?height=600&width=800"
+            },
+            {
+                "name": "Association of Technical Vocational Institutions in Agusan",
+                "image": "/placeholder.svg?height=600&width=800"
+            },
+            {
+                "name": "Caraga Association of Technical Vocational Institutions",
+                "image": "/placeholder.svg?height=600&width=800"
+            }
+        ]
+    },
+    "academicCalendarContent": {
+        "heading": "Academic Calendar Highlights",
+        "intro": "Candelaria Institute's has been blessed with dedicated leaders who have guided our school through decades of growth and change.",
+        "linkLabel": "View Full Academic Calendar",
+        "info": [
+            {
+                "title": "Important Dates",
+                "items": [
+                    {
+                        "label": "College Regular Classes (Start of 1st Semester)",
+                        "value": "June 23, 2025"
+                    },
+                    {
+                        "label": "College Preliminary Examination",
+                        "value": "July 25, 2025"
+                    },
+                    {
+                        "label": "College Midterm Examination",
+                        "value": "September 15–20, 2025"
+                    },
+                    {
+                        "label": "College Final Examination (1st Semester)",
+                        "value": "October 13–18, 2025"
+                    },
+                    {
+                        "label": "College Students' Orientation for Second Semester",
+                        "value": "November 17, 2025"
+                    },
+                    {
+                        "label": "Elementary Final Examination (2nd Quarter)",
+                        "value": "November 18–21, 2025"
+                    },
+                    {
+                        "label": "College Preliminary Examination (2nd Semester)",
+                        "value": "December 9, 2025"
+                    },
+                    {
+                        "label": "College Midterm Examination (2nd Semester)",
+                        "value": "February 9–14, 2026"
+                    },
+                    {
+                        "label": "4th Year Students and Unit Earners Final Examination",
+                        "value": "March 16–20, 2026"
+                    },
+                    {
+                        "label": "1st–3rd Year College Final Examination & Grand Demonstration",
+                        "value": "March 23–28, 2026"
+                    },
+                    {
+                        "label": "4th Year College Graduation",
+                        "value": "April 13, 2026"
+                    },
+                    {
+                        "label": "Teachers’ Summer Break",
+                        "value": "April 10 – May 10, 2026"
+                    }
+                ]
+            },
+            {
+                "title": "Mass & Observances",
+                "items": [
+                    {
+                        "label": "Holy Mass – Feast of Immaculate Conception",
+                        "value": "December 8, 2025"
+                    },
+                    {
+                        "label": "Feast of St. Agnes",
+                        "value": "January 23, 2026"
+                    },
+                    {
+                        "label": "Feast of St. Thomas Aquinas",
+                        "value": "January 30, 2026"
+                    },
+                    {
+                        "label": "Feast of Our Lady of Purification & Presentation",
+                        "value": "February 1–2, 2026"
+                    },
+                    {
+                        "label": "Ash Wednesday",
+                        "value": "February 17, 2026"
+                    },
+                    {
+                        "label": "4th Year College Retreat",
+                        "value": "March 11, 2026"
+                    },
+                    {
+                        "label": "Eid’l-Fitr – Feast of Ramadan",
+                        "value": "March 20, 2026"
+                    },
+                    {
+                        "label": "College Vespers or Mass (Feast Preparation)",
+                        "value": "April 1, 2026"
+                    },
+                    {
+                        "label": "Holy Week (Holy Thursday & Good Friday)",
+                        "value": "April 2–3, 2026"
+                    },
+                    {
+                        "label": "Feast of Saint Pedro Calungsod (College Patron Saint Mass)",
+                        "value": "April 2, 2026"
+                    }
+                ]
+            }
+        ]
+    },
+    "highlightsContent": [
+        {
+            "icon": "Users",
+            "title": "Faith",
+            "description": "Rooted in Catholic tradition, we cultivate a deep relationship with God through prayer, sacramental life, and daily witness to Gospel values, guiding students to live with purpose and integrity."
+        },
+        {
+            "icon": "BookOpen",
+            "title": "Service",
+            "description": "Inspired by Christ’s example, we encourage a life of compassion and generosity by engaging students in meaningful service to others—within the school, the parish, and the wider community."
+        },
+        {
+            "icon": "Calendar",
+            "title": "Excellence",
+            "description": "We pursue academic and personal excellence by challenging students to reach their highest potential, fostering critical thinking, creativity, and a lifelong love of learning in a values-driven environment."
+        }
+    ],
+    "communityCOntent": [
+        {
+            "icon": "Users",
+            "title": "Pre-School to Elementary",
+            "total": "198"
+        },
+        {
+            "icon": "Users",
+            "title": "High School",
+            "total": "921"
+        },
+        {
+            "icon": "Users",
+            "title": "College (Y1-Y4)",
+            "total": "152"
+        },
+        {
+            "icon": "Users",
+            "title": "Teaching",
+            "total": "37"
+        },
+        {
+            "icon": "Users",
+            "title": "Non-Teaching",
+            "total": "17"
+        },
+        {
+            "icon": "Users",
+            "title": "Administrative",
+            "total": "8"
+        }
+    ],
+    "scholarshipContent": [
+        {
+            "title": "ESC Grantee",
+            "description": "Subsidy for Junior High School students in private schools."
+        },
+        {
+            "title": "SHS Voucher Program",
+            "description": "Financial aid for Grade 11–12 students in private schools."
+        },
+        {
+            "title": "TES / TDP",
+            "description": "Government subsidy for deserving college students."
+        }
+    ]
+}

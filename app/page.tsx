@@ -4,7 +4,7 @@ import { getIcon } from "@/lib/icon-utils"
 import HeroCarousel from "@/components/hero-carousel"
 import CTASection from "@/components/footer-cta"
 import DiscoverCarousel from "@/components/discover-carousel"
-import page from './page.json'
+import page from '@/content/home.json'
 import ContentSection from "@/components/section"
 import ActivitiesCarousel from "@/components/activities-carousel"
 import WelcomeSection from "@/components/home/welcome-section"

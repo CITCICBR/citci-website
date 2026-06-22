@@ -4,7 +4,7 @@ import { ChevronRight, Gift, CalendarCheck } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
 import FadeIn from "@/components/fadein-transition"
-import sholarship from "./scholarship.json"
+import sholarship from "@/content/admissions/scholarship/scholarship.json"
 import PageCTA from "@/components/page-cta"
 
 export default function ScholarshipPage() {

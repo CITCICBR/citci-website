@@ -2,7 +2,7 @@
 import FadeIn from "@/components/fadein-transition"
 import PageCTA from "@/components/page-cta"
 import Image from "next/image"
-import _facilities from "../data.json"
+import _facilities from "@/content/about/data.json"
 import { useState } from "react"
 import { AlbumModal } from "@/components/album-modal"
 export default function FacilitiesPage() {

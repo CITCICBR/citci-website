@@ -3,7 +3,7 @@ import PageCTA from "@/components/page-cta"
 import { LibraryBig } from "lucide-react"
 import Image from "next/image"
 import Link from "next/link"
-import service from "../data.json"
+import service from "@/content/library/data.json"
 
 export default function LibraryPage() {
     const { callToActionContent, libraryCollection } = service

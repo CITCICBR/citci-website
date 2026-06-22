@@ -1,0 +1,262 @@
+[
+    {
+        "heading": "Mission and Vision",
+        "items": [
+            {
+                "title": "Mission",
+                "description": "CITCI envisions morally, spirituality, intellectuality...",
+                "link": "/about/mission#mission"
+            },
+            {
+                "title": "Vision",
+                "description": "With Mary our model, we commit ourselves to...",
+                "link": "/about/mission#vision"
+            },
+            {
+                "title": "Philosophy of Education",
+                "description": "Our philosophy of education is to provide holistic education that enables learners to...",
+                "link": "/about/mission#philosophy"
+            },
+            {
+                "title": "Core Values",
+                "description": " Core values guide our mission, shape our programs, and strengthen...",
+                "link": "/about/mission#core-values"
+            },
+            {
+                "title": "Catholic Identity",
+                "description": "At Candelaria Institute, we believe that education is a transformative...",
+                "link": "/about/mission#catholic-identity"
+            }
+        ]
+    },
+    {
+        "heading": "History",
+        "items": [
+            {
+                "title": "History",
+                "description": "A legacy of education since 1901",
+                "link": "/about/history#history"
+            },
+            {
+                "title": "Founding Fathers",
+                "description": "The founding fathers of our educational legacy",
+                "link": "/about/history#founders"
+            },
+            {
+                "title": "School Leaders",
+                "description": "School Directors Through the Years",
+                "link": "/about/history#directors"
+            },
+            {
+                "title": "Camous Evolution",
+                "description": "Over the decades, our campus has grown and evolved.",
+                "link": "/about/history#evolution"
+            },
+            {
+                "title": "Alumni Spotlight",
+                "description": "Candelaria Institute's graduates have gone on to make significant contributions.",
+                "link": "/about/history#alumni-spotlight"
+            }
+        ]
+    },
+    {
+        "heading": "Administration",
+        "items": [
+            {
+                "title": "Admins and Spiritual Directors",
+                "description": "Meet our dedicated leaders.",
+                "link": "/about/administration#admins-and-spiritual-directors"
+            },
+            {
+                "title": "Basic Education Department",
+                "description": "Meet our dedicated educators shaping the future of our young learners.",
+                "link": "/about/administration#basic-education-department"
+            },
+            {
+                "title": "High School Department",
+                "description": "Our senior high faculty are committed to academic excellence and student success.",
+                "link": "/about/administration#high-school-department"
+            },
+            {
+                "title": "College Department",
+                "description": "Our college faculty are committed to academic excellence and student success.",
+                "link": "/about/administration#college-department"
+            },
+            {
+                "title": "Non-Teaching Personnels",
+                "description": "Supporting our community with dedication and professionalism.",
+                "link": "/about/administration#non-teaching-personnel"
+            }
+        ]
+    },
+    {
+        "heading": "Facilities",
+        "items": [
+            {
+                "title": "Speech Laboratory",
+                "description": "A space for students to practice their public speaking skills.",
+                "link": "/about/facilities#speech-lab"
+            },
+            {
+                "title": "Computer Laboratory",
+                "description": "A space for students to practice their computer skills.",
+                "link": "/about/facilities#speech-lab"
+            },
+            {
+                "title": "Bread and Pastry Production Laboratory",
+                "description": "A space for students to practice their baking skills.",
+                "link": "/about/facilities#bread-and-pastry"
+            },
+            {
+                "title": "Comupert System Servicing Laboratory",
+                "description": "A space for students to practice computer hardware, software, and network troubleshooting.",
+                "link": "/about/facilities#css-lab"
+            },
+            {
+                "title": "Metal Fabrication Facility",
+                "description": "A space for students to practice in cutting, joining, and shaping metal with industry-grade tools",
+                "link": "/about/facilities#metal-fabrication"
+            },
+            {
+                "title": "Driving and Maintenance Facility",
+                "description": "A space for students to practice safe driving and basic vehicle care using real-world setups",
+                "link": "/about/facilities#driving"
+            },
+            {
+                "title": "Campus Map",
+                "description": "A map of the Candelaria Institute's campus location.",
+                "link": "/about/facilities#campus-map"
+            }
+        ]
+    },
+    {
+        "heading": "Academics",
+        "items": [
+            {
+                "title": "Calendar Overview",
+                "description": "Our academic calendar provides important dates for the school year...",
+                "link": "/academics/calendar#"
+            },
+            {
+                "title": "Academic Calendar",
+                "description": "A calendar of events and activities at Candelaria Institute.",
+                "link": "/academics/calendar#sy-calendar"
+            },
+            {
+                "title": "Key events and Liturgical",
+                "description": "Key events and liturgical days at Candelaria Institute.",
+                "link": "/academics/calendar#calendar-events"
+            },
+            {
+                "title": "Curriculum Overview",
+                "description": "Candelaria Institute offers a comprehensive curriculum...",
+                "link": "/academics/curriculum#curriculum-overview"
+            },
+            {
+                "title": "Basic Education Program",
+                "description": "Our Basic Education program spans from Elementary to Secondary...",
+                "link": "/academics/curriculum#basic-education-program"
+            },
+            {
+                "title": "Senior High School Program (Grades 11-12)",
+                "description": "Get future-ready with our specialized tracks that match...",
+                "link": "/academics/curriculum#senior-high-school-program"
+            },
+            {
+                "title": "College Program",
+                "description": "Our Bachelor of Secondary Education (BSEd) program...",
+                "link": "/academics/curriculum#college-program"
+            },
+            {
+                "title": "TVET Programs",
+                "description": "Skill up. Stand out. Start your career with our TESDA-approved...",
+                "link": "/academics/curriculum#tvet-program"
+            }
+        ]
+    },
+    {
+        "heading": "Admission",
+        "items": [
+            {
+                "title": "Addmission Process",
+                "description": "The admission process at Candelaria Institute...",
+                "link": "/admissions/apply#admission-process"
+            },
+            {
+                "title": "Admisison Requirements",
+                "description": "The admission requirements for Candelaria Institute...",
+                "link": "/admissions/apply#requirements"
+            },
+            {
+                "title": "Scholarships Overview",
+                "description": "The scholarships at Candelaria Institute...",
+                "link": "/admissions/scholarship#overview"
+            },
+            {
+                "title": "Scholarships Programs",
+                "description": "The scholarship program at Candelaria Institute...",
+                "link": "/admissions/scholarship#scholarships"
+            }
+        ]
+    },
+    {
+        "heading": "Library",
+        "items": [
+            {
+                "title": "Guidelines",
+                "description": "The CITCI Library is committed to providing a quiet...",
+                "link": "/library/guidelines"
+            },
+            {
+                "title": "Mission",
+                "description": "The library well be a user, centric hub information...",
+                "link": "/library/mission#mission"
+            },
+            {
+                "title": "Vision",
+                "description": "CITCI envisions morally, spirituality, intellectuality formed...",
+                "link": "/library/mission#vision"
+            },
+            {
+                "title": "President",
+                "description": "Meet the visionary leader guiding the mission and direction...",
+                "link": "/library/structure#president"
+            },
+            {
+                "title": "Academic Head",
+                "description": "Get to know the academic leaders dedicated to nurturing and educating...",
+                "link": "/library/structure#academic-head"
+            },
+            {
+                "title": "OSAS",
+                "description": "Meet the personnel ensuring holistic student development through...",
+                "link": "/library/structure#osas"
+            },
+            {
+                "title": "Librarian",
+                "description": "Introducing our librarian who ensures access to knowledge...",
+                "link": "/library/structure#librarian"
+            },
+            {
+                "title": "Library Staff",
+                "description": "Meet our dedicated library staff who support learning...",
+                "link": "/library/structure#library-staff"
+            },
+            {
+                "title": "Collections",
+                "description": "Explore a wide range of disciplines—from science...",
+                "link": "/library/services#collections"
+            },
+            {
+                "title": "How to access Zendy",
+                "description": "Easily access a wide range of academic journals, articles...",
+                "link": "/library/services#how-to-access"
+            },
+            {
+                "title": "Explore Zendy",
+                "description": "Unlock a world of academic resources anytime, anywhere with Zendy...",
+                "link": "/library/zendy#zendy"
+            }
+        ]
+    }
+]
