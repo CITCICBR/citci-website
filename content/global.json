@@ -1,0 +1,28 @@
+{
+  "accreditation": {
+    "heading": "Accreditation & Certification",
+    "description": "Candelaria Institute is recognized and accredited by national organizations, ensuring quality and accessible education for all students.",
+    "items": [
+      {
+        "name": "TESDA Accredited",
+        "image": "/images/tesda.png",
+        "description": "We offer programs recognized by the Technical Education and Skills Development Authority (TESDA), aligning with national competency standards."
+      },
+      {
+        "name": "Educational Service Contracting PEAC Certified",
+        "image": "/images/peac.png",
+        "description": "As a PEAC-certified institution, we participate in the ESC program to support affordable and quality private education for junior high school students."
+      }
+    ]
+  },
+  "contact": {
+    "heading": "Contact Us",
+    "phone": "(0981) 234 7323",
+    "email": "candelariainstitute@yahoo.com",
+    "address": "Brgy. 1, Funcion St.",
+    "city": "Cabadbaran City, Agusan del Norte 8605",
+    "hours": "Monday - Friday: 8:30 AM - 3:30 PM",
+    "linkLabel": "View full contact information",
+    "linkHref": "/contact"
+  }
+}

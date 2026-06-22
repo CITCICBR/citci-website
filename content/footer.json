@@ -1,0 +1,36 @@
+{
+  "school": {
+    "name": "Candelaria Institute of Technology",
+    "tagline": "CITCI Cabadbaran City",
+    "logo": "/images/logo.png"
+  },
+  "social": [
+    { "name": "Facebook", "icon": "Facebook", "url": "#" },
+    { "name": "Twitter", "icon": "Twitter", "url": "#" },
+    { "name": "Instagram", "icon": "Instagram", "url": "#" },
+    { "name": "YouTube", "icon": "Youtube", "url": "#" }
+  ],
+  "quickLinks": [
+    { "name": "About Us", "href": "/about" },
+    { "name": "Academics", "href": "/academics" },
+    { "name": "Admissions", "href": "/admissions" },
+    { "name": "News & Events", "href": "/news-events" },
+    { "name": "Student Life", "href": "/student-life" },
+    { "name": "Contact Us", "href": "/contact" }
+  ],
+  "parentResources": [
+    { "name": "School Calendar", "href": "/academics/calendar" },
+    { "name": "Forms & Documents", "href": "/downloads" }
+  ],
+  "contact": {
+    "address": "Brgy. 1, Funcion St., Cabadbaran City, Agusan del Norte",
+    "phone": "(0981) 234 7323",
+    "email": "candelariainstitute@yahoo.com"
+  },
+  "copyright": "Candelaria Institute of Technology of Cabadbaran, Inc. All rights reserved.",
+  "legalLinks": [
+    { "name": "Privacy Policy", "href": "/privacy-policy" },
+    { "name": "Terms of Use", "href": "/terms-of-use" },
+    { "name": "Accessibility", "href": "/accessibility" }
+  ]
+}

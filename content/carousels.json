@@ -1,0 +1,96 @@
+{
+  "hero": [
+    {
+      "image": "/images/banner.jpg",
+      "title": "Guided by the Light of a Star",
+      "subtitle": "Empowered by faith and service, we illuminate the path to lifelong learning and compassionate leadership.",
+      "buttonText": "Enroll Now",
+      "buttonLink": "/admissions/apply",
+      "secondaryButtonText": "Contact Us",
+      "secondaryButtonLink": "/admissions/visit"
+    },
+    {
+      "image": "/images/banner-1.png",
+      "title": "Excellence Rooted in Values",
+      "subtitle": "At CITCI, we nurture morally upright, intellectually equipped, and service-driven individuals ready to make a difference.",
+      "buttonText": "Our Academics",
+      "buttonLink": "/academics"
+    },
+    {
+      "image": "/images/banner-2.jpg",
+      "title": "Building Futures with Purpose",
+      "subtitle": "Through holistic education and inspired teaching, we prepare students to lead with integrity in a changing world.",
+      "buttonText": "Our Curriculum",
+      "buttonLink": "/academics/curriculum"
+    }
+  ],
+  "discover": [
+    {
+      "title": "Facilities",
+      "description": "Classrooms, science labs, library, and athletic facilities designed to enhance learning.",
+      "icon": "School",
+      "image": "/images/facilities.jpg",
+      "link": "/about/facilities"
+    },
+    {
+      "title": "Dedicated Faculty",
+      "description": "Experienced teachers committed to academic excellence and Catholic values.",
+      "icon": "Users",
+      "image": "/images/dedicated-faculty.jpg",
+      "link": "/faculty"
+    },
+    {
+      "title": "Academic Excellence",
+      "description": "Rigorous curriculum preparing students for success in college and beyond.",
+      "icon": "BookOpenIcon",
+      "image": "/images/academic-excellence.jpg",
+      "link": "/academics"
+    },
+    {
+      "title": "Community Engagement",
+      "description": "Instilling a spirit of service and social responsibility in every student.",
+      "icon": "Cross",
+      "image": "/images/community-engagement.jpg",
+      "link": "/faith-life"
+    },
+    {
+      "title": "Faith Formation",
+      "description": "Daily prayer, regular Mass, and religious education nurturing spiritual growth.",
+      "icon": "Palette",
+      "image": "/images/faith-formation.jpg",
+      "link": "/student-life/arts"
+    }
+  ],
+  "activities": [
+    {
+      "image": "/images/school-activities/alumni.jpg",
+      "title": "50th Alumni Homecoming",
+      "description": "It was a blast! Here are some highlights from the Alumni Night showcasing different batches with their Boho-themed outfits! Congratulations to all who made it possible, especially to the host batch of 1999!"
+    },
+    {
+      "image": "/images/school-activities/founding-anniversary.jpg",
+      "title": "121st Founding Anniversary",
+      "description": "Candelarians played sports and parlor games with the spirit of camaraderie, enjoying the game while building friendship with each other."
+    },
+    {
+      "image": "/images/school-activities/festival-of-talents.jpg",
+      "title": "Festival of Talents",
+      "description": "Elementary departments from Candelaria Institute of Technology of Cabadbaran, Inc. and Fr. Urios Academic of Magallanes, Inc. showcased their God-given gifts in this year's Festival of Talents"
+    },
+    {
+      "image": "/images/school-activities/athletics.jpg",
+      "title": "Division Athletic Meet",
+      "description": "Congratulations to our Candelarians who bagged a lot of medals last Division Athletic Meet held at Caraga State University Cabadbaran Campus"
+    },
+    {
+      "image": "/images/school-activities/bsp-gsp.jpg",
+      "title": "BSP & GSP Encampment",
+      "description": "Joint BSP and GSP Encampment Elementary department at Calo Farm, Brgy. Sanghan, Cabadbaran City. A memorable moment for our Frolicsome Candelarians"
+    },
+    {
+      "image": "/images/school-activities/rosary-month.jpg",
+      "title": "Rosary Month",
+      "description": "The culmination of the Month of Rosary. Candelarians prayed the Rosary and offered roses to the Blessed Virgin Mary. Afterwards, each section competed in the Parade of Mary"
+    }
+  ]
+}
