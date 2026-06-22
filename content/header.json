@@ -1,4 +1,9 @@
 {
+  "school": {
+    "name": "Candelaria Institute of Technology",
+    "tagline": "CITCI Cabadbaran City",
+    "logo": "/images/logo.png"
+  },
   "navigation": [
     { "name": "Home", "href": "/" },
     {

@@ -10,51 +10,9 @@ import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigge
 import { cn } from "@/lib/utils"
 import { CommandBar } from "./command-bar"
 import search from "@/content/search/data.json"
+import headerData from "@/content/header.json"
 
-const navigation = [
-  { name: "Home", href: "/" },
-  {
-    name: "About Us",
-    href: "/about",
-    submenu: [
-      { name: "History", href: "/about/history" },
-      { name: "Mission & Vision", href: "/about/mission" },
-      { name: "Administration", href: "/about/administration" },
-      { name: "Facilities", href: "/about/facilities" },
-      { name: "Alumni Association", href: "/about/alumni" },
-    ],
-  },
-  {
-    name: "Academics",
-    href: "/academics",
-    submenu: [
-      { name: "Curriculum", href: "/academics/curriculum" },
-      { name: "Calendar", href: "/academics/calendar" },
-    ],
-  },
-  {
-    name: "Library",
-    href: "/library",
-    submenu: [
-      { name: "Misson & Vision", href: "/library/mission" },
-      { name: "Guidelines", href: "/library/guidelines" },
-      { name: "Services", href: "/library/services" },
-      { name: "Structure", href: "/library/structure" },
-      { name: "Explore Zendy", href: "/library/zendy" },
-
-    ],
-  },
-  {
-    name: "Admissions",
-    href: "/admissions",
-    submenu: [
-      { name: "Enroll Now", href: "/admissions/apply" },
-      { name: "Scholarship", href: "/admissions/scholarship" },
-    ],
-  },
-  { name: "News & Events", href: "/news-events" },
-  { name: "Contact", href: "/contact" },
-]
+const navigation = headerData.navigation
 
 export default function Header() {
   const pathname = usePathname()
@@ -69,14 +27,14 @@ export default function Header() {
       <nav className="container-fluid mx-auto flex items-center justify-between p-4 lg:px-8" aria-label="Global">
         <div className="flex lg:flex-1">
           <Link href="/" className="-m-1.5 p-1.5">
-            <span className="sr-only">Candelaria Institute of Technology</span>
+            <span className="sr-only">{headerData.school.name}</span>
             <div className="flex items-center">
               <div className="relative h-10 w-10 mr-3">
-                <Image src="/images/logo.png" alt="School Logo" fill className="object-contain" />
+                <Image src={headerData.school.logo} alt="School Logo" fill className="object-contain" />
               </div>
               <div className="hidden md:block">
-                <p className="font-serif text-lg font-bold text-slate-600">Candelaria Institute of Technology</p>
-                <p className="text-xs text-amber-600">CITCI Cabadbaran City</p>
+                <p className="font-serif text-lg font-bold text-slate-600">{headerData.school?.name ?? "Candelaria Institute of Technology"}</p>
+                <p className="text-xs text-amber-600">{headerData.school?.tagline ?? "CITCI Cabadbaran City"}</p>
               </div>
             </div>
           </Link>
@@ -156,12 +114,12 @@ export default function Header() {
         <div className="fixed inset-y-0 right-0 z-50 w-full overflow-y-auto bg-white px-6 py-6 sm:max-w-sm sm:ring-1 sm:ring-gray-900/10">
           <div className="flex items-center justify-between">
             <Link href="/" className="-m-1.5 p-1.5">
-              <span className="sr-only">Candelaria Institute</span>
+              <span className="sr-only">{headerData.school.name}</span>
               <div className="flex items-center">
                 <div className="relative h-10 w-10 mr-2">
-                  <Image src="/images/logo.png" alt="School Logo" fill className="object-contain" />
+                  <Image src={headerData.school.logo} alt="School Logo" fill className="object-contain" />
                 </div>
-                <p className="font-serif text-base font-bold text-slate-600">Candelaria Institute</p>
+                <p className="font-serif text-base font-bold text-slate-600">{headerData.school.name}</p>
               </div>
             </Link>
             <button

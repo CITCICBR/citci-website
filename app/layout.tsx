@@ -6,6 +6,7 @@ import Header from "@/components/header"
 import Footer from "@/components/footer"
 import { ThemeProvider } from "@/components/theme-provider"
 import { TooltipProvider } from "@/components/ui/tooltip"
+import siteData from "@/content/site.json"
 
 const inter = Inter({
   subsets: ["latin"],
@@ -20,10 +21,10 @@ const lora = Lora({
 })
 
 export const metadata: Metadata = {
-  icons: "/images/logo.png",
-  title: "Candelaria Institute of Technology",
-  description: "Faith • Excellence • Service",
-  generator: 'v0.dev'
+  icons: siteData.icon,
+  title: siteData.title,
+  description: siteData.description,
+  generator: siteData.generator,
 }
 
 export default function RootLayout({

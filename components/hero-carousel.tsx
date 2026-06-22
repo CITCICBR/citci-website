@@ -5,6 +5,7 @@ import Image from "next/image"
 import Link from "next/link"
 import { ChevronLeft, ChevronRight } from "lucide-react"
 import { Button } from "@/components/ui/button"
+import carouselData from "@/content/carousels.json"
 
 interface CarouselSlide {
     image?: string
@@ -17,31 +18,7 @@ interface CarouselSlide {
     secondaryButtonLink?: string
 }
 
-const slides: CarouselSlide[] = [
-    {
-        image: "/images/banner.jpg",
-        title: "Guided by the Light of a Star",
-        subtitle: "Empowered by faith and service, we illuminate the path to lifelong learning and compassionate leadership.",
-        buttonText: "Enroll Now",
-        buttonLink: "/admissions/apply",
-        secondaryButtonText: "Contact Us",
-        secondaryButtonLink: "/admissions/visit",
-    },
-    {
-        image: "/images/banner-1.png",
-        title: "Excellence Rooted in Values",
-        subtitle: "At CITCI, we nurture morally upright, intellectually equipped, and service-driven individuals ready to make a difference.",
-        buttonText: "Our Academics",
-        buttonLink: "/academics",
-    },
-    {
-        image: "/images/banner-2.jpg",
-        title: "Building Futures with Purpose",
-        subtitle: "Through holistic education and inspired teaching, we prepare students to lead with integrity in a changing world.",
-        buttonText: "Our Curriculum",
-        buttonLink: "/academics/curriculum",
-    },
-]
+const slides: CarouselSlide[] = carouselData.hero
 
 export default function HeroCarousel() {
     const [currentSlide, setCurrentSlide] = useState(0)
