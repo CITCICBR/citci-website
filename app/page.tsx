@@ -5,6 +5,7 @@ import HeroCarousel from "@/components/hero-carousel"
 import CTASection from "@/components/footer-cta"
 import DiscoverCarousel from "@/components/discover-carousel"
 import page from '@/content/home.json'
+import globalData from '@/content/global.json'
 import ContentSection from "@/components/section"
 import ActivitiesCarousel from "@/components/activities-carousel"
 import WelcomeSection from "@/components/home/welcome-section"
@@ -20,16 +21,19 @@ export default function Home() {
     highlightsContent,
     scholarshipContent,
     communityCOntent,
-    academicCalendarContent } = page
+    academicCalendarContent,
+    welcomeContent,
+    schoolShowcaseContent,
+    activitiesContent } = page
 
   return (
     <main className="min-h-screen">
       <HeroCarousel />
 
       <WelcomeSection
-        heading="Welcome to Candelaria Institute"
-        message="Welcome to CITCI — a place where faith, excellence, and service come together to shape the leaders of tomorrow. Rooted in Catholic values and inspired by Mary, our model, we are committed to providing a nurturing and academically challenging environment that develops learners who are Christ-centered, socially responsible, and globally competitive."
-        learnMore="Learn more about our mission"
+        heading={welcomeContent.heading}
+        message={welcomeContent.message}
+        learnMore={welcomeContent.learnMore}
       />
 
       <HighlightsSection
@@ -40,14 +44,13 @@ export default function Home() {
       <section className="py-20 bg-slate-800">
         <div className="container mx-auto px-4">
           <h2 className="font-serif text-3xl font-bold text-center text-white md:text-4xl">
-            Discover Candelaria Institute of Technology
+            {schoolShowcaseContent.heading}
           </h2>
           <div className="mt-4 flex justify-center">
             <div className="h-1 w-20 bg-amber-500"></div>
           </div>
           <p className="mt-6 text-center text-lg text-slate-300 max-w-3xl mx-auto mb-20">
-            Uncover a learning community where faith, excellence, and service shape future leaders. Whether you're pursuing academic achievement or technical skills,
-            Candelaria Institute is where your journey begins. Come and see what makes us a beacon of hope and opportunity!
+            {schoolShowcaseContent.intro}
           </p>
           <DiscoverCarousel />
         </div>
@@ -61,7 +64,7 @@ export default function Home() {
 
       <ScholarshipsSection items={scholarshipContent} />
 
-      <AccreditationSection />
+      <AccreditationSection data={globalData.accreditation} />
 
       <ContentSection
         grid="1"
@@ -105,13 +108,13 @@ export default function Home() {
       <section className="py-20 bg-white" >
         <div className="container mx-auto px-4">
           <h2 className="font-serif text-3xl font-bold text-center text-slate-600 md:text-4xl">
-            School Activities
+            {activitiesContent.heading}
           </h2>
           <div className="mt-4 flex justify-center">
             <div className="h-1 w-20 bg-amber-500"></div>
           </div>
           <p className="mt-6 text-center text-lg text-amber-600 max-w-3xl mx-auto mb-10">
-            Our students shine beyond the classroom through various clubs, leadership opportunities, service projects, and fun events throughout the year.
+            {activitiesContent.description}
           </p>
           <ActivitiesCarousel />
         </div>
@@ -137,7 +140,7 @@ export default function Home() {
         </div>
       </CTASection>
 
-      <ContactSection />
+      <ContactSection data={globalData.contact} />
     </main >
   )
 }

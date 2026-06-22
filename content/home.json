@@ -31,8 +31,12 @@
         ]
     },
     "schoolShowcaseContent": {
-        "heading": "Discover Candelaria Institute",
-        "intro": "Where a legacy of faith meets a future of excellence. Rooted in tradition and driven by innovation, Candelaria Institute offers quality Catholic education that shapes minds, nurtures values, and empowers lives."
+        "heading": "Discover Candelaria Institute of Technology",
+        "intro": "Uncover a learning community where faith, excellence, and service shape future leaders. Whether you're pursuing academic achievement or technical skills, Candelaria Institute is where your journey begins. Come and see what makes us a beacon of hope and opportunity!"
+    },
+    "activitiesContent": {
+        "heading": "School Activities",
+        "description": "Our students shine beyond the classroom through various clubs, leadership opportunities, service projects, and fun events throughout the year."
     },
     "curriculumOverviewContent": {
         "heading": "Programs Offered",
