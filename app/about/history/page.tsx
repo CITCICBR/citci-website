@@ -44,26 +44,30 @@ export default function HistoryPage() {
             <div className="space-y-4" key={idx}>
               <h2 className="text-3xl font-extrabold text-blue-900">{entry.title}</h2>
               {entry.paragraphs?.map((p, i) => (
-                <p key={i}>{p}</p>
+                <p key={i} className="text-amber-600">{p}</p>
               ))}
               {entry.list && (
                 <ul className="list-decimal list-inside ml-6 space-y-1">
                   {entry.list.map((item, j) => (
-                    <li key={j}>{item}</li>
+                    <li key={j} className="text-amber-600">
+                      {item}
+                    </li>
                   ))}
                 </ul>
               )}
               {entry.extraLists?.map((listBlock, i) => (
                 <div key={i}>
-                  <p>{listBlock.paragraph}</p>
+                  <p className="text-amber-600">{listBlock.paragraph}</p>
                   <ul className="list-decimal list-inside ml-6 space-y-1">
                     {listBlock.items.map((item, j) => (
-                      <li key={j}>{item}</li>
+                      <li key={j} className="text-amber-600">
+                        {item}
+                      </li>
                     ))}
                   </ul>
                 </div>
               ))}
-              {entry.conclusion && <p>{entry.conclusion}</p>}
+              {entry.conclusion && <p className="text-amber-600">{entry.conclusion}</p>}
             </div>
           ))}
         </section>
@@ -102,7 +106,7 @@ export default function HistoryPage() {
             {activitiesContent.heading}
           </h2>
           <div className="mt-4 flex justify-center">
-            <div className="h-1 w-20 bg-amber-500"></div>
+            <div className="h-1 w-20 bg-amber-600"></div>
           </div>
           <p className="mt-6 text-center text-lg text-amber-600 max-w-3xl mx-auto mb-10">
             {activitiesContent.description}
@@ -131,7 +135,7 @@ export default function HistoryPage() {
               />
             </div>
             <h3 className="font-serif text-xl font-bold text-slate-600">{leader.name}</h3>
-            <p className="text-amber-500">{leader.years}</p>
+            <p className="text-amber-600">{leader.years}</p>
           </div>
         ))}
       </ContentSection>
@@ -173,7 +177,7 @@ export default function HistoryPage() {
         intro={alumniSpotlightContent.intro}
         footer={
           <div className="mt-12 text-center">
-            <Link href={alumniSpotlightContent.ctaLink} className="inline-flex items-center text-amber-500 font-medium hover:text-amber-400">
+            <Link href={alumniSpotlightContent.ctaLink} className="inline-flex items-center text-amber-600 font-medium hover:text-amber-400">
               {alumniSpotlightContent.ctaText}
               <ChevronRight className="ml-1 h-4 w-4" />
             </Link>
@@ -186,7 +190,7 @@ export default function HistoryPage() {
               <Image src={person.image} alt={person.name} fill className="object-cover" />
             </div>
             <h3 className="font-serif text-xl font-bold text-slate-600">{person.name}</h3>
-            <p className="text-amber-500">{person.class}</p>
+            <p className="text-amber-600">{person.class}</p>
             <p className="mt-4 text-amber-600">{person.achievement}</p>
           </div>
         ))}
@@ -197,7 +201,7 @@ export default function HistoryPage() {
         heading={callToActionContent.heading}
         description={callToActionContent.description}
         buttons={callToActionContent.buttons}
-        color="bg-amber-500"
+        color="bg-amber-600"
       />
     </main>
   )

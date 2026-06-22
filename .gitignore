@@ -9,6 +9,11 @@
 
 # production
 /build
+/.manager
+/tasks
+/skills
+/docs
+AGENTS.md
 
 # debug
 npm-debug.log*
