@@ -34,7 +34,7 @@ export default function NewsEventsPage() {
           <div className="mt-4 flex justify-center">
             <div className="h-1 w-20 bg-amber-500"></div>
           </div>
-          <p className="mt-8 max-w-3xl mx-auto text-center text-primary-600">
+          <p className="mt-8 max-w-3xl mx-auto text-center text-amber-600">
             View our calendar for upcoming events, holidays, and important dates. Click on an event for more details.
           </p>
 

@@ -42,7 +42,7 @@ export default function MissionPage() {
                                 {vision.quote}
                             </p>
                         </div>
-                        <div className="mt-8 space-y-4 text-primary-600">
+                        <div className="mt-8 space-y-4 text-amber-600">
                             {vision.paragraphs.map((p, index) => (
                                 <p key={index}>{p}</p>
                             ))}
@@ -63,7 +63,7 @@ export default function MissionPage() {
                                 {mission.quote}
                             </p>
                         </div>
-                        <div className="mt-8 space-y-4 text-primary-600">
+                        <div className="mt-8 space-y-4 text-amber-600">
                             {mission.paragraphs.map((p: string, index: any) => (
                                 <p key={index}>{p}</p>
                             ))}

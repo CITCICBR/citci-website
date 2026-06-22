@@ -86,7 +86,7 @@ export default function HistoryPage() {
               <div className="mt-4">
                 <div className={`h-1 w-20 ${foundersContent.highlightColor}`}></div>
               </div>
-              <div className="mt-8 space-y-4 text-primary-600">
+              <div className="mt-8 space-y-4 text-amber-600">
                 {foundersContent.paragraphs.map((p, i) => (
                   <p key={i}>{p}</p>
                 ))}
@@ -104,7 +104,7 @@ export default function HistoryPage() {
           <div className="mt-4 flex justify-center">
             <div className="h-1 w-20 bg-amber-500"></div>
           </div>
-          <p className="mt-6 text-center text-lg text-primary-600 max-w-3xl mx-auto mb-10">
+          <p className="mt-6 text-center text-lg text-amber-600 max-w-3xl mx-auto mb-10">
             {activitiesContent.description}
           </p>
           <OldDaysCarousel activities={activitiesContent.activities} />
@@ -187,7 +187,7 @@ export default function HistoryPage() {
             </div>
             <h3 className="font-serif text-xl font-bold text-slate-600">{person.name}</h3>
             <p className="text-amber-500">{person.class}</p>
-            <p className="mt-4 text-primary-600">{person.achievement}</p>
+            <p className="mt-4 text-amber-600">{person.achievement}</p>
           </div>
         ))}
       </ContentSection> */}

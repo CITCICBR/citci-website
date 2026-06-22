@@ -34,7 +34,7 @@ export default function DepartmentsPage() {
             <div className="mt-4 flex justify-center">
               <div className="h-1 w-20 bg-amber-500"></div>
             </div>
-            <div className="mt-8 space-y-4 text-primary-600">
+            <div className="mt-8 space-y-4 text-amber-600">
               <p>
                 Candelaria Institute&apos;s Catholic School is organized into academic departments that work collaboratively to
                 provide a comprehensive, faith-integrated education. Our dedicated faculty members are experts in their
@@ -84,7 +84,7 @@ export default function DepartmentsPage() {
                     <div className="mt-2">
                       <div className="h-1 w-12 bg-amber-500"></div>
                     </div>
-                    <div className="mt-4 space-y-4 text-primary-600">
+                    <div className="mt-4 space-y-4 text-amber-600">
                       <p>
                         The Religion Department is at the heart of our Catholic identity. Our religion teachers are
                         certified catechists who are passionate about sharing the Catholic faith with students and
@@ -123,7 +123,7 @@ export default function DepartmentsPage() {
                     <div className="mt-2">
                       <div className="h-1 w-12 bg-amber-500"></div>
                     </div>
-                    <div className="mt-4 space-y-4 text-primary-600">
+                    <div className="mt-4 space-y-4 text-amber-600">
                       <p>
                         The Language Arts Department is dedicated to developing strong reading, writing, speaking, and
                         listening skills. Our language arts teachers foster a love of literature and help students
@@ -162,7 +162,7 @@ export default function DepartmentsPage() {
                     <div className="mt-2">
                       <div className="h-1 w-12 bg-amber-500"></div>
                     </div>
-                    <div className="mt-4 space-y-4 text-primary-600">
+                    <div className="mt-4 space-y-4 text-amber-600">
                       <p>
                         The Mathematics Department is committed to developing students&apos; mathematical thinking,
                         problem-solving skills, and appreciation for the beauty and order of mathematics. Our math
@@ -201,7 +201,7 @@ export default function DepartmentsPage() {
                     <div className="mt-2">
                       <div className="h-1 w-12 bg-amber-500"></div>
                     </div>
-                    <div className="mt-4 space-y-4 text-primary-600">
+                    <div className="mt-4 space-y-4 text-amber-600">
                       <p>
                         The Science Department fosters scientific literacy, inquiry skills, and an appreciation for
                         God&apos;s creation. Our science teachers engage students in hands-on experiments and
@@ -241,7 +241,7 @@ export default function DepartmentsPage() {
                     <div className="mt-2">
                       <div className="h-1 w-12 bg-amber-500"></div>
                     </div>
-                    <div className="mt-4 space-y-4 text-primary-600">
+                    <div className="mt-4 space-y-4 text-amber-600">
                       <p>
                         The Social Studies Department helps students understand history, geography, cultures, and civic
                         responsibility from a Catholic perspective. Our social studies teachers foster critical
@@ -280,7 +280,7 @@ export default function DepartmentsPage() {
                     <div className="mt-2">
                       <div className="h-1 w-12 bg-amber-500"></div>
                     </div>
-                    <div className="mt-4 space-y-4 text-primary-600">
+                    <div className="mt-4 space-y-4 text-amber-600">
                       <p>
                         The Enrichment Department provides specialized instruction in art, music, physical education,
                         Spanish, and technology. Our enrichment teachers help students develop their talents, explore
@@ -317,7 +317,7 @@ export default function DepartmentsPage() {
           <div className="mt-4 flex justify-center">
             <div className="h-1 w-20 bg-amber-500"></div>
           </div>
-          <p className="mt-8 max-w-3xl mx-auto text-center text-primary-600">
+          <p className="mt-8 max-w-3xl mx-auto text-center text-amber-600">
             Meet some of our outstanding faculty members who are dedicated to providing an exceptional Catholic
             education.
           </p>
@@ -356,7 +356,7 @@ export default function DepartmentsPage() {
                     </div>
                     <h3 className="font-serif text-xl font-bold text-slate-600">{faculty.name}</h3>
                     <p className="text-amber-500">{faculty.position}</p>
-                    <p className="mt-4 text-primary-600">{faculty.bio}</p>
+                    <p className="mt-4 text-amber-600">{faculty.bio}</p>
                   </div>
                 </CardContent>
               </Card>
@@ -379,7 +379,7 @@ export default function DepartmentsPage() {
           <div className="mt-4 flex justify-center">
             <div className="h-1 w-20 bg-amber-500"></div>
           </div>
-          <p className="mt-8 max-w-3xl mx-auto text-center text-primary-600">
+          <p className="mt-8 max-w-3xl mx-auto text-center text-amber-600">
             Our academic departments provide various resources to support student learning and parent involvement.
           </p>
 
@@ -389,7 +389,7 @@ export default function DepartmentsPage() {
               <div className="mt-2">
                 <div className="h-1 w-12 bg-amber-500"></div>
               </div>
-              <p className="mt-4 text-primary-600">
+              <p className="mt-4 text-amber-600">
                 Each department provides detailed curriculum guides that outline learning objectives, content standards,
                 and major units of study for each grade level.
               </p>
@@ -408,7 +408,7 @@ export default function DepartmentsPage() {
               <div className="mt-2">
                 <div className="h-1 w-12 bg-amber-500"></div>
               </div>
-              <p className="mt-4 text-primary-600">
+              <p className="mt-4 text-amber-600">
                 Departments offer resources to support students with homework, including study guides, practice
                 problems, and online tutorials. Teachers are also available for extra help during designated times.
               </p>
@@ -427,7 +427,7 @@ export default function DepartmentsPage() {
               <div className="mt-2">
                 <div className="h-1 w-12 bg-amber-500"></div>
               </div>
-              <p className="mt-4 text-primary-600">
+              <p className="mt-4 text-amber-600">
                 Departments provide information about academic competitions, clubs, summer programs, and other
                 enrichment opportunities that allow students to explore their interests and develop their talents.
               </p>
@@ -446,7 +446,7 @@ export default function DepartmentsPage() {
               <div className="mt-2">
                 <div className="h-1 w-12 bg-amber-500"></div>
               </div>
-              <p className="mt-4 text-primary-600">
+              <p className="mt-4 text-amber-600">
                 Departments provide resources to help parents support their child&apos;s learning at home, including
                 reading lists, educational websites, and tips for reinforcing classroom learning.
               </p>
@@ -465,7 +465,7 @@ export default function DepartmentsPage() {
               <div className="mt-2">
                 <div className="h-1 w-12 bg-amber-500"></div>
               </div>
-              <p className="mt-4 text-primary-600">
+              <p className="mt-4 text-amber-600">
                 Departments utilize various educational technologies to enhance learning. Information about these tools,
                 including login instructions and user guides, is available for students and parents.
               </p>
@@ -484,7 +484,7 @@ export default function DepartmentsPage() {
               <div className="mt-2">
                 <div className="h-1 w-12 bg-amber-500"></div>
               </div>
-              <p className="mt-4 text-primary-600">
+              <p className="mt-4 text-amber-600">
                 Stay updated on department activities, student achievements, upcoming events, and curriculum highlights
                 through department newsletters and the school blog.
               </p>

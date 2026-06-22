@@ -36,7 +36,7 @@ export default function PatronSaintPage() {
                         <div className="mt-4 flex justify-center">
                             <div className="h-1 w-20 bg-amber-500"></div>
                         </div>
-                        <div className="mt-8 space-y-4 text-primary-600">
+                        <div className="mt-8 space-y-4 text-amber-600">
                             <p>
                                 Our school is honored to be under the patronage of St. Mary, the Mother of God. As the mother of Jesus
                                 Christ, Mary holds a special place in the Catholic faith and serves as a model of faith, humility, and
@@ -61,7 +61,7 @@ export default function PatronSaintPage() {
                             <div className="mt-4">
                                 <div className="h-1 w-20 bg-amber-500"></div>
                             </div>
-                            <div className="mt-8 space-y-4 text-primary-600">
+                            <div className="mt-8 space-y-4 text-amber-600">
                                 <p>
                                     Mary was born to Joachim and Anne, who had been childless for many years before her birth. According
                                     to tradition, her parents had promised to dedicate her to God's service, and Mary was presented at the
@@ -160,7 +160,7 @@ export default function PatronSaintPage() {
                             <div className="mt-4">
                                 <div className="h-1 w-20 bg-amber-500"></div>
                             </div>
-                            <div className="mt-8 space-y-4 text-primary-600">
+                            <div className="mt-8 space-y-4 text-amber-600">
                                 <p>
                                     St. Mary's Catholic School was founded in 1925 by the Sisters of Mercy, who dedicated the school to
                                     the Blessed Virgin Mary. The sisters chose Mary as the school's patron because of her perfect example

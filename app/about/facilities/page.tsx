@@ -82,7 +82,7 @@ export default function FacilitiesPage() {
                   <ul className="text-sm text-gray-600 space-y-1 mb-4">
                     {album.features.map((feature, index) => (
                       <li key={index} className="flex items-start">
-                        <span className="text-primary-600 mr-2">•</span>
+                        <span className="text-amber-600 mr-2">•</span>
                         {feature}
                       </li>
                     ))}

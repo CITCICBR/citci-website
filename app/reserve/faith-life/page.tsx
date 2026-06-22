@@ -34,7 +34,7 @@ export default function FaithLifePage() {
             <div className="mt-4 flex justify-center">
               <div className="h-1 w-20 bg-amber-500"></div>
             </div>
-            <div className="mt-8 space-y-4 text-primary-600">
+            <div className="mt-8 space-y-4 text-amber-600">
               <p>
                 At Candelaria Institute&apos;s, our Catholic identity permeates all aspects of school life. We are committed to
                 forming disciples of Christ through prayer, worship, religious instruction, and service to others.
@@ -58,7 +58,7 @@ export default function FaithLifePage() {
               <div className="mt-4">
                 <div className="h-1 w-20 bg-amber-500"></div>
               </div>
-              <div className="mt-8 space-y-4 text-primary-600">
+              <div className="mt-8 space-y-4 text-amber-600">
                 <p>
                   The celebration of the Eucharist is at the heart of our school community. Students attend Mass weekly,
                   with special liturgies for holy days and important school events.
@@ -108,7 +108,7 @@ export default function FaithLifePage() {
               <div className="mt-4">
                 <div className="h-1 w-20 bg-amber-500"></div>
               </div>
-              <div className="mt-8 space-y-4 text-primary-600">
+              <div className="mt-8 space-y-4 text-amber-600">
                 <p>
                   Prayer is an integral part of daily life at Candelaria Institute&apos;s. Each school day begins and ends with
                   prayer, and students pray before meals and at the beginning of each class.
@@ -225,7 +225,7 @@ export default function FaithLifePage() {
           <div className="mt-4 flex justify-center">
             <div className="h-1 w-20 bg-amber-500"></div>
           </div>
-          <p className="mt-8 max-w-3xl mx-auto text-center text-primary-600">
+          <p className="mt-8 max-w-3xl mx-auto text-center text-amber-600">
             At Candelaria Institute&apos;s, we celebrate the richness of the Catholic liturgical year, helping students
             understand the seasons, feasts, and traditions of our faith.
           </p>
@@ -236,7 +236,7 @@ export default function FaithLifePage() {
               <div className="mt-2">
                 <div className="h-1 w-12 bg-amber-500"></div>
               </div>
-              <p className="mt-4 text-primary-600">
+              <p className="mt-4 text-amber-600">
                 During Advent, students participate in special prayer services, prepare Advent wreaths, and engage in
                 service projects. Our Christmas celebrations include a school-wide pageant and special liturgies.
               </p>
@@ -246,7 +246,7 @@ export default function FaithLifePage() {
               <div className="mt-2">
                 <div className="h-1 w-12 bg-amber-500"></div>
               </div>
-              <p className="mt-4 text-primary-600">
+              <p className="mt-4 text-amber-600">
                 During Lent, students participate in the Stations of the Cross, reconciliation services, and almsgiving
                 projects. Our Easter celebrations include special liturgies and activities that help students understand
                 the joy of the Resurrection.
@@ -257,7 +257,7 @@ export default function FaithLifePage() {
               <div className="mt-2">
                 <div className="h-1 w-12 bg-amber-500"></div>
               </div>
-              <p className="mt-4 text-primary-600">
+              <p className="mt-4 text-amber-600">
                 We honor Mary, the Mother of God, through special devotions in October and May. Students participate in
                 the Living Rosary, May Crowning, and other Marian celebrations.
               </p>
@@ -267,7 +267,7 @@ export default function FaithLifePage() {
               <div className="mt-2">
                 <div className="h-1 w-12 bg-amber-500"></div>
               </div>
-              <p className="mt-4 text-primary-600">
+              <p className="mt-4 text-amber-600">
                 Throughout the year, we celebrate the feasts of saints and holy days of obligation. Students learn about
                 the lives of the saints and how they can follow their example of holiness.
               </p>
@@ -288,7 +288,7 @@ export default function FaithLifePage() {
               <div className="mt-4">
                 <div className="h-1 w-20 bg-amber-500"></div>
               </div>
-              <div className="mt-8 space-y-4 text-primary-600">
+              <div className="mt-8 space-y-4 text-amber-600">
                 <p>
                   At Candelaria Institute&apos;s, we recognize that parents are the primary educators of their children in the
                   faith. We work in partnership with families to nurture the spiritual growth of our students.

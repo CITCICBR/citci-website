@@ -102,7 +102,7 @@ export default function NewsEventsPage() {
           <div className="mt-4 flex justify-center">
             <div className="h-1 w-20 bg-amber-500"></div>
           </div>
-          <p className="mt-8 max-w-3xl mx-auto text-center text-primary-600">
+          <p className="mt-8 max-w-3xl mx-auto text-center text-amber-600">
             View our calendar for upcoming events, holidays, and important dates. Click on an event for more details.
           </p>
 
@@ -252,7 +252,7 @@ export default function NewsEventsPage() {
           <div className="mt-4 flex justify-center">
             <div className="h-1 w-20 bg-amber-500"></div>
           </div>
-          <p className="mt-8 max-w-3xl mx-auto text-center text-primary-600">
+          <p className="mt-8 max-w-3xl mx-auto text-center text-amber-600">
             Follow us on social media for daily updates, photos, and more from Candelaria Institute&apos;s Catholic School.
           </p>
           <div className="mt-10 flex flex-wrap justify-center gap-4">

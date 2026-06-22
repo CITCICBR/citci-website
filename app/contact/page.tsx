@@ -50,7 +50,7 @@ export default function ContactPage() {
               <div className="mt-4">
                 <div className="h-1 w-20 bg-amber-500"></div>
               </div>
-              <div className="mt-8 space-y-4 text-primary-600">
+              <div className="mt-8 space-y-4 text-amber-600">
                 <p>
                   {contactInformation.welcomeMessage}
                 </p>
@@ -67,7 +67,7 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <h3 className="font-serif text-lg font-bold text-slate-600">Address</h3>
-                    <p className="mt-1 text-primary-600">
+                    <p className="mt-1 text-amber-600">
                       {contactInformation.address.line1}
                       <br />
                       {contactInformation.address.city}, {contactInformation.address.province}
@@ -80,7 +80,7 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <h3 className="font-serif text-lg font-bold text-slate-600">Phone</h3>
-                    <p className="mt-1 text-primary-600">
+                    <p className="mt-1 text-amber-600">
                       {contactInformation.phone}
                       <br />
                     </p>
@@ -92,7 +92,7 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <h3 className="font-serif text-lg font-bold text-slate-600">Email</h3>
-                    <p className="mt-1 text-primary-600">
+                    <p className="mt-1 text-amber-600">
                       {contactInformation.email}
                     </p>
                   </div>
@@ -103,7 +103,7 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <h3 className="font-serif text-lg font-bold text-slate-600">Office Hours</h3>
-                    <p className="mt-1 text-primary-600">
+                    <p className="mt-1 text-amber-600">
                       {contactInformation.officeHours.days}
                       <br />
                       Closed on weekends and holidays
@@ -117,7 +117,7 @@ export default function ContactPage() {
               <Card className="border-none shadow-lg">
                 <CardContent className="p-8">
                   <h3 className="font-serif text-xl font-bold text-slate-600">Contact Form</h3>
-                  <p className="mt-2 text-primary-600">
+                  <p className="mt-2 text-amber-600">
                     Please fill out the form below and we&apos;ll get back to you as soon as possible.
                   </p>
                   <form className="mt-6 space-y-4">

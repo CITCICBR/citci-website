@@ -336,7 +336,7 @@ export default function CalendarPage() {
             <div className="mt-4 flex justify-center">
               <div className="h-1 w-20 bg-amber-500"></div>
             </div>
-            <div className="mt-8 space-y-4 text-primary-600">
+            <div className="mt-8 space-y-4 text-amber-600">
               <p>
                 Our academic calendar provides important dates for the school
                 year, including holidays, breaks, grading periods, and special
@@ -384,7 +384,7 @@ export default function CalendarPage() {
                       Key Events
                     </h3>
                     <div className="h-1 w-12 bg-amber-500 mb-6"></div>
-                    <ul className="space-y-2 text-primary-600">
+                    <ul className="space-y-2 text-amber-600">
                       {selectedEvents["key-events"].map((event, index) => (
                         <li key={index}>{event}</li>
                       ))}
@@ -404,7 +404,7 @@ export default function CalendarPage() {
                     <h4 className="text-lg font-bold text-slate-600 mb-2">
                       Mass & Religious Observances
                     </h4>
-                    <ul className="space-y-2 text-primary-600">
+                    <ul className="space-y-2 text-amber-600">
                       {selectedEvents["liturgical-events"].map((event, index) => (
                         <li key={index}>{event}</li>
                       ))}

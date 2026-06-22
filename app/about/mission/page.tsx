@@ -40,7 +40,7 @@ export default function MissionPage() {
                 {vision.quote}
               </p>
             </div>
-            <div className="mt-8 space-y-4 text-primary-600">
+            <div className="mt-8 space-y-4 text-amber-600">
               {vision.paragraphs.map((p, index) => (
                 <p key={index}>{p}</p>
               ))}
@@ -61,7 +61,7 @@ export default function MissionPage() {
                 {_mission.quote}
               </p>
             </div>
-            <div className="mt-8 space-y-4 text-primary-600">
+            <div className="mt-8 space-y-4 text-amber-600">
               {_mission.paragraphs.map((p, index) => (
                 <p key={index}>{p}</p>
               ))}
@@ -106,7 +106,7 @@ export default function MissionPage() {
           <div className="mt-4 flex justify-center">
             <div className="h-1 w-20 bg-amber-500"></div>
           </div>
-          <p className="mt-8 max-w-3xl mx-auto text-center text-primary-600">
+          <p className="mt-8 max-w-3xl mx-auto text-center text-amber-600">
             {core_values.description}
           </p>
 
@@ -122,7 +122,7 @@ export default function MissionPage() {
                 <div className="mt-2">
                   <div className="h-1 w-12 bg-amber-500"></div>
                 </div>
-                <p className="mt-4 text-primary-600">
+                <p className="mt-4 text-amber-600">
                   {value.description}
                 </p>
               </div>
@@ -140,7 +140,7 @@ export default function MissionPage() {
               <div className="mt-4">
                 <div className="h-1 w-20 bg-amber-500"></div>
               </div>
-              <div className="mt-8 space-y-4 text-primary-600">
+              <div className="mt-8 space-y-4 text-amber-600">
                 {catholic_identity.paragraphs.map((p, index) => (
                   <p key={index}>{p}</p>
                 ))}

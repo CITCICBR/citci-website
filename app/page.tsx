@@ -59,7 +59,7 @@ export default function Home() {
             <div className="mt-4 flex justify-center">
               <div className="h-1 w-20 bg-amber-500"></div>
             </div>
-            <p className="mt-8 text-lg text-primary-600">
+            <p className="mt-8 text-lg text-amber-600">
               Welcome to CITCI — a place where faith, excellence, and service come together to shape the leaders of tomorrow. Rooted in Catholic values and inspired by Mary, our model,
               we are committed to providing a nurturing and academically challenging environment that develops learners who are Christ-centered, socially responsible, and globally competitive.
             </p>
@@ -89,7 +89,7 @@ export default function Home() {
                   {handleIcons(icon, "h-8 w-8 text-amber-400")}
                 </div>
                 <h3 className="font-serif text-xl font-bold text-slate-600">{title}</h3>
-                <p className="mt-4 text-primary-600">{description}</p>
+                <p className="mt-4 text-amber-600">{description}</p>
               </div>
             ))}
           </div>
@@ -122,7 +122,7 @@ export default function Home() {
           <div className="mt-4 flex justify-center">
             <div className="h-1 w-20 bg-amber-500"></div>
           </div>
-          <p className="mt-6 text-center text-lg text-primary-600 max-w-3xl mx-auto">
+          <p className="mt-6 text-center text-lg text-amber-600 max-w-3xl mx-auto">
             {curriculumOverviewContent.intro}
           </p>
           <div className="mt-12 text-center">
@@ -148,7 +148,7 @@ export default function Home() {
                     <div className="mt-2">
                       <div className="h-1 w-12 bg-amber-500"></div>
                     </div>
-                    <div className="mt-4 space-y-4 text-primary-600">
+                    <div className="mt-4 space-y-4 text-amber-600">
                       <p>{item.description}</p>
                       <ul className="list-disc pl-5 space-y-2">
                         {item.bullets.map((bullet, idx) => (
@@ -208,7 +208,7 @@ export default function Home() {
           <div className="mt-4 flex justify-center">
             <div className="h-1 w-20 bg-amber-500"></div>
           </div>
-          <p className="mt-4 text-primary-600 max-w-2xl mx-auto">
+          <p className="mt-4 text-amber-600 max-w-2xl mx-auto">
             Candelaria Institute is recognized and accredited by national organizations, ensuring quality and accessible education for all students.
           </p>
 
@@ -298,7 +298,7 @@ export default function Home() {
           <div className="mt-4 flex justify-center">
             <div className="h-1 w-20 bg-amber-500"></div>
           </div>
-          <p className="mt-6 text-center text-lg text-primary-600 max-w-3xl mx-auto mb-10">
+          <p className="mt-6 text-center text-lg text-amber-600 max-w-3xl mx-auto mb-10">
             Our students shine beyond the classroom through various clubs, leadership opportunities, service projects, and fun events throughout the year.
           </p>
           <ActivitiesCarousel />
@@ -408,23 +408,23 @@ export default function Home() {
                 <Phone className="h-6 w-6 text-sky-700" />
               </div>
               <h3 className="font-serif text-xl font-bold text-slate-600">Call Us</h3>
-              <p className="mt-2 text-primary-600">(0981) 234 7323</p>
-              <p className="mt-1 text-primary-600">Monday - Friday: 8:30 AM - 3:30 PM</p>
+              <p className="mt-2 text-amber-600">(0981) 234 7323</p>
+              <p className="mt-1 text-amber-600">Monday - Friday: 8:30 AM - 3:30 PM</p>
             </div>
             <div className="flex flex-col items-center text-center">
               <div className="mb-4 flex h-12 w-12 items-center justify-center rounded-full bg-sky-100">
                 <Mail className="h-6 w-6 text-sky-700" />
               </div>
               <h3 className="font-serif text-xl font-bold text-slate-600">Email Us</h3>
-              <p className="mt-2 text-primary-600">candelariainstitute@yahoo.com</p>
+              <p className="mt-2 text-amber-600">candelariainstitute@yahoo.com</p>
             </div>
             <div className="flex flex-col items-center text-center">
               <div className="mb-4 flex h-12 w-12 items-center justify-center rounded-full bg-sky-100">
                 <MapPin className="h-6 w-6 text-sky-700" />
               </div>
               <h3 className="font-serif text-xl font-bold text-slate-600">Visit Us</h3>
-              <p className="mt-2 text-primary-600">Brgy. 1, Funcion St.</p>
-              <p className="mt-1 text-primary-600">Cabadbaran City, Agusan del Norte 8605</p>
+              <p className="mt-2 text-amber-600">Brgy. 1, Funcion St.</p>
+              <p className="mt-1 text-amber-600">Cabadbaran City, Agusan del Norte 8605</p>
             </div>
           </div>
           <div className="mt-12 flex justify-center">

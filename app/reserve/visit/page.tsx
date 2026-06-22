@@ -37,7 +37,7 @@ export default function VisitPage() {
             <div className="mt-4 flex justify-center">
               <div className="h-1 w-20 bg-amber-500"></div>
             </div>
-            <div className="mt-8 space-y-4 text-primary-600">
+            <div className="mt-8 space-y-4 text-amber-600">
               <p>
                 We invite you to visit our beautiful campus and experience the Candelaria Institute&apos;s difference
                 firsthand. A campus visit is the best way to learn about our programs, meet our faculty and staff, and
@@ -59,7 +59,7 @@ export default function VisitPage() {
           <div className="mt-4 flex justify-center">
             <div className="h-1 w-20 bg-amber-500"></div>
           </div>
-          <p className="mt-8 max-w-3xl mx-auto text-center text-primary-600">
+          <p className="mt-8 max-w-3xl mx-auto text-center text-amber-600">
             Choose the visit option that works best for your family:
           </p>
 
@@ -72,7 +72,7 @@ export default function VisitPage() {
                   </div>
                 </div>
                 <h3 className="font-serif text-xl font-bold text-center text-slate-600">Personal Tours</h3>
-                <div className="mt-4 text-primary-600">
+                <div className="mt-4 text-amber-600">
                   <p className="text-center">
                     Schedule a personal tour of our campus with our Admissions Director. Tours are available Monday
                     through Friday during school hours and can be tailored to your specific interests.
@@ -91,7 +91,7 @@ export default function VisitPage() {
                   </div>
                 </div>
                 <h3 className="font-serif text-xl font-bold text-center text-slate-600">Open Houses</h3>
-                <div className="mt-4 text-primary-600">
+                <div className="mt-4 text-amber-600">
                   <p className="text-center">
                     Attend one of our scheduled open houses to tour the campus, meet faculty and staff, and learn about
                     our programs. Open houses are held throughout the year.
@@ -110,7 +110,7 @@ export default function VisitPage() {
                   </div>
                 </div>
                 <h3 className="font-serif text-xl font-bold text-center text-slate-600">Shadow Days</h3>
-                <div className="mt-4 text-primary-600">
+                <div className="mt-4 text-amber-600">
                   <p className="text-center">
                     Prospective students in grades 1-8 can spend a day at Candelaria Institute&apos;s, attending classes and
                     experiencing our school firsthand. Shadow days are available by appointment.
@@ -132,7 +132,7 @@ export default function VisitPage() {
           <div className="mt-4 flex justify-center">
             <div className="h-1 w-20 bg-amber-500"></div>
           </div>
-          <p className="mt-8 max-w-3xl mx-auto text-center text-primary-600">
+          <p className="mt-8 max-w-3xl mx-auto text-center text-amber-600">
             Join us for one of our upcoming open houses to learn more about Candelaria Institute&apos;s Catholic School:
           </p>
 
@@ -179,7 +179,7 @@ export default function VisitPage() {
                       <Clock className="mr-2 h-4 w-4" />
                       <span>{event.time}</span>
                     </div>
-                    <p className="mt-4 text-primary-600">{event.description}</p>
+                    <p className="mt-4 text-amber-600">{event.description}</p>
                     <div className="mt-6">
                       <Button className="w-full bg-amber-500 hover:bg-amber-400">Register</Button>
                     </div>
@@ -200,7 +200,7 @@ export default function VisitPage() {
               <div className="mt-4">
                 <div className="h-1 w-20 bg-amber-500"></div>
               </div>
-              <div className="mt-8 space-y-4 text-primary-600">
+              <div className="mt-8 space-y-4 text-amber-600">
                 <p>
                   Personal tours are available Monday through Friday during school hours. Tours typically last about an
                   hour and include:
@@ -289,7 +289,7 @@ export default function VisitPage() {
           <div className="mt-4 flex justify-center">
             <div className="h-1 w-20 bg-amber-500"></div>
           </div>
-          <p className="mt-8 max-w-3xl mx-auto text-center text-primary-600">
+          <p className="mt-8 max-w-3xl mx-auto text-center text-amber-600">
             Candelaria Institute&apos;s Catholic School is conveniently located in the heart of Faithville.
           </p>
 
@@ -304,7 +304,7 @@ export default function VisitPage() {
                 </div>
                 <div>
                   <h3 className="font-serif text-lg font-bold text-slate-600">Address</h3>
-                  <p className="mt-1 text-primary-600">
+                  <p className="mt-1 text-amber-600">
                     123 Blessed Way
                     <br />
                     Faithville, CA 90210
@@ -316,7 +316,7 @@ export default function VisitPage() {
                 <div className="mt-2">
                   <div className="h-1 w-12 bg-amber-500"></div>
                 </div>
-                <div className="mt-4 space-y-4 text-primary-600">
+                <div className="mt-4 space-y-4 text-amber-600">
                   <div>
                     <p className="font-medium">From the North:</p>
                     <p>
@@ -346,7 +346,7 @@ export default function VisitPage() {
                 <div className="mt-2">
                   <div className="h-1 w-12 bg-amber-500"></div>
                 </div>
-                <p className="mt-4 text-primary-600">
+                <p className="mt-4 text-amber-600">
                   Visitor parking is available in the main parking lot in front of the school office. Please check in at
                   the office upon arrival.
                 </p>
@@ -419,7 +419,7 @@ export default function VisitPage() {
             ].map((item, index) => (
               <div key={index} className="bg-sky-50 p-6 rounded-lg shadow-md">
                 <h3 className="font-serif text-lg font-bold text-slate-600">{item.question}</h3>
-                <p className="mt-2 text-primary-600">{item.answer}</p>
+                <p className="mt-2 text-amber-600">{item.answer}</p>
               </div>
             ))}
           </div>

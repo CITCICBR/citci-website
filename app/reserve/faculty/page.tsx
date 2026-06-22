@@ -33,7 +33,7 @@ export default function FacultyPage() {
             <div className="mt-4 flex justify-center">
               <div className="h-1 w-20 bg-amber-500"></div>
             </div>
-            <div className="mt-8 space-y-4 text-primary-600">
+            <div className="mt-8 space-y-4 text-amber-600">
               <p>
                 Candelaria Institute&apos;s Catholic School is blessed with exceptional faculty and staff who are committed to
                 our mission of providing a Christ-centered education. Our teachers are not only experts in their
@@ -150,7 +150,7 @@ export default function FacultyPage() {
                               </a>
                             </p>
                           </div>
-                          <p className="mt-4 text-primary-600">{person.bio}</p>
+                          <p className="mt-4 text-amber-600">{person.bio}</p>
                         </div>
                       </CardContent>
                     </Card>
@@ -244,7 +244,7 @@ export default function FacultyPage() {
                               {person.email}
                             </a>
                           </p>
-                          <p className="mt-4 text-primary-600">{person.bio}</p>
+                          <p className="mt-4 text-amber-600">{person.bio}</p>
                         </div>
                       </CardContent>
                     </Card>
@@ -317,7 +317,7 @@ export default function FacultyPage() {
                               {person.email}
                             </a>
                           </p>
-                          <p className="mt-4 text-primary-600">{person.bio}</p>
+                          <p className="mt-4 text-amber-600">{person.bio}</p>
                         </div>
                       </CardContent>
                     </Card>
@@ -369,7 +369,7 @@ export default function FacultyPage() {
                               {person.email}
                             </a>
                           </p>
-                          <p className="mt-4 text-primary-600">{person.bio}</p>
+                          <p className="mt-4 text-amber-600">{person.bio}</p>
                         </div>
                       </CardContent>
                     </Card>
@@ -390,7 +390,7 @@ export default function FacultyPage() {
               <div className="mt-4">
                 <div className="h-1 w-20 bg-amber-500"></div>
               </div>
-              <div className="mt-8 space-y-4 text-primary-600">
+              <div className="mt-8 space-y-4 text-amber-600">
                 <p>
                   Candelaria Institute&apos;s Catholic School is committed to hiring and retaining highly qualified faculty who
                   are dedicated to our mission and to the success of each student. Our teachers:
@@ -440,7 +440,7 @@ export default function FacultyPage() {
               <div className="mt-4">
                 <div className="h-1 w-20 bg-amber-500"></div>
               </div>
-              <div className="mt-8 space-y-4 text-primary-600">
+              <div className="mt-8 space-y-4 text-amber-600">
                 <p>
                   Candelaria Institute&apos;s is committed to the ongoing professional growth of our faculty and staff. We
                   believe that investing in our teachers benefits our students by ensuring that they receive the highest

@@ -40,7 +40,7 @@ export default function CurriculumPage() {
             <div className="mt-4 flex justify-center">
               <div className="h-1 w-20 bg-amber-500"></div>
             </div>
-            <div className="mt-8 space-y-4 text-primary-600">
+            <div className="mt-8 space-y-4 text-amber-600">
               <p>
                 Candelaria Institute offers a comprehensive curriculum that prepares students for success in both academic and vocational fields.
                 Our Basic Education program provides a strong foundation in academics and religious instruction.
@@ -60,7 +60,7 @@ export default function CurriculumPage() {
                   <BookOpen className="h-8 w-8 text-sky-700" />
                 </div>
                 <h3 className="font-serif text-xl font-bold text-slate-600">Academic Programs</h3>
-                <p className="mt-4 text-primary-600">
+                <p className="mt-4 text-amber-600">
                   We offer a diverse range of academic programs, from Basic Education with a strong academic and religious foundation to a comprehensive College Department offering Bachelor's degrees in Social Studies and English.
                 </p>
               </CardContent>
@@ -71,7 +71,7 @@ export default function CurriculumPage() {
                   <GraduationCap className="h-8 w-8 text-sky-700" />
                 </div>
                 <h3 className="font-serif text-xl font-bold text-slate-600">Vocational Training</h3>
-                <p className="mt-4 text-primary-600">
+                <p className="mt-4 text-amber-600">
                   Our Technical-Vocational Education and Training (TVET) programs are TESDA-accredited, providing hands-on training in areas such as Welding, Graphic Design,
                   and Bookkeeping, preparing students for the workforce.
                 </p>
@@ -83,7 +83,7 @@ export default function CurriculumPage() {
                   <Users className="h-8 w-8 text-sky-700" />
                 </div>
                 <h3 className="font-serif text-xl font-bold text-slate-600">Industry Certifications</h3>
-                <p className="mt-4 text-primary-600">
+                <p className="mt-4 text-amber-600">
                   Our TVET programs lead to industry-recognized certifications such as NC I, NC II, and NC III, equipping students with the qualifications they need for various professions.
                 </p>
               </CardContent>
@@ -94,7 +94,7 @@ export default function CurriculumPage() {
                   <Calendar className="h-8 w-8 text-sky-700" />
                 </div>
                 <h3 className="font-serif text-xl font-bold text-slate-600">Student Support</h3>
-                <p className="mt-4 text-primary-600">
+                <p className="mt-4 text-amber-600">
                   We offer various support services including counseling, resource programs, and enrichment activities to foster both academic and personal growth.
                 </p>
               </CardContent>
@@ -113,7 +113,7 @@ export default function CurriculumPage() {
           <div className="mt-4 flex justify-center">
             <div className="h-1 w-20 bg-amber-500"></div>
           </div>
-          <p className="mt-6 text-center text-lg text-primary-600 max-w-3xl mx-auto">
+          <p className="mt-6 text-center text-lg text-amber-600 max-w-3xl mx-auto">
             {curriculumOverviewContent.intro}
           </p>
 
@@ -130,7 +130,7 @@ export default function CurriculumPage() {
                     <div className="mt-2">
                       <div className="h-1 w-12 bg-amber-500"></div>
                     </div>
-                    <div className="mt-4 space-y-4 text-primary-600">
+                    <div className="mt-4 space-y-4 text-amber-600">
                       <p>{item.description}</p>
                       <ul className="list-disc pl-5 space-y-2">
                         {item.bullets.map((bullet, idx) => (

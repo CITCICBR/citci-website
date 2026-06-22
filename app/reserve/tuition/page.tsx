@@ -35,7 +35,7 @@ export default function TuitionPage() {
             <div className="mt-4 flex justify-center">
               <div className="h-1 w-20 bg-amber-500"></div>
             </div>
-            <div className="mt-8 space-y-4 text-primary-600">
+            <div className="mt-8 space-y-4 text-amber-600">
               <p>
                 Candelaria Institute&apos;s Catholic School is committed to providing an exceptional Catholic education at an
                 affordable cost. We strive to keep tuition as low as possible while maintaining the high quality of our
@@ -61,7 +61,7 @@ export default function TuitionPage() {
           <div className="mt-4 flex justify-center">
             <div className="h-1 w-20 bg-amber-500"></div>
           </div>
-          <p className="mt-8 max-w-3xl mx-auto text-center text-primary-600">
+          <p className="mt-8 max-w-3xl mx-auto text-center text-amber-600">
             Our tuition rates for the 2024-2025 academic year are as follows:
           </p>
 
@@ -75,7 +75,7 @@ export default function TuitionPage() {
                     </div>
                   </div>
                   <h3 className="font-serif text-xl font-bold text-center text-slate-600">Catholic Parishioners</h3>
-                  <p className="mt-2 text-center text-primary-600">
+                  <p className="mt-2 text-center text-amber-600">
                     Families who are registered, active members of a Catholic parish
                   </p>
                   <div className="mt-8 space-y-4">
@@ -114,7 +114,7 @@ export default function TuitionPage() {
                     </div>
                   </div>
                   <h3 className="font-serif text-xl font-bold text-center text-slate-600">Non-Parishioners</h3>
-                  <p className="mt-2 text-center text-primary-600">
+                  <p className="mt-2 text-center text-amber-600">
                     Families who are not registered members of a Catholic parish
                   </p>
                   <div className="mt-8 space-y-4">
@@ -157,7 +157,7 @@ export default function TuitionPage() {
           <div className="mt-4 flex justify-center">
             <div className="h-1 w-20 bg-amber-500"></div>
           </div>
-          <p className="mt-8 max-w-3xl mx-auto text-center text-primary-600">
+          <p className="mt-8 max-w-3xl mx-auto text-center text-amber-600">
             In addition to tuition, the following fees apply for the 2024-2025 academic year:
           </p>
 
@@ -169,7 +169,7 @@ export default function TuitionPage() {
                   <div className="mt-2">
                     <div className="h-1 w-12 bg-amber-500"></div>
                   </div>
-                  <p className="mt-4 text-primary-600">
+                  <p className="mt-4 text-amber-600">
                     A non-refundable registration fee of $350 per student is due at the time of enrollment or
                     re-enrollment. This fee covers administrative costs, textbooks, and basic school supplies.
                   </p>
@@ -181,7 +181,7 @@ export default function TuitionPage() {
                   <div className="mt-2">
                     <div className="h-1 w-12 bg-amber-500"></div>
                   </div>
-                  <p className="mt-4 text-primary-600">
+                  <p className="mt-4 text-amber-600">
                     A technology fee of $200 per student is due at the beginning of the school year. This fee supports
                     the maintenance and upgrading of our technology infrastructure, including computers, tablets, and
                     educational software.
@@ -194,7 +194,7 @@ export default function TuitionPage() {
                   <div className="mt-2">
                     <div className="h-1 w-12 bg-amber-500"></div>
                   </div>
-                  <p className="mt-4 text-primary-600">
+                  <p className="mt-4 text-amber-600">
                     An activity fee of $150 per student is due at the beginning of the school year. This fee covers
                     field trips, special programs, and extracurricular activities throughout the year.
                   </p>
@@ -206,7 +206,7 @@ export default function TuitionPage() {
                   <div className="mt-2">
                     <div className="h-1 w-12 bg-amber-500"></div>
                   </div>
-                  <p className="mt-4 text-primary-600">
+                  <p className="mt-4 text-amber-600">
                     A graduation fee of $100 is due for eighth grade students in January. This fee covers the cost of
                     the graduation ceremony, diploma, cap and gown, and graduation activities.
                   </p>
@@ -218,7 +218,7 @@ export default function TuitionPage() {
                   <div className="mt-2">
                     <div className="h-1 w-12 bg-amber-500"></div>
                   </div>
-                  <p className="mt-4 text-primary-600">
+                  <p className="mt-4 text-amber-600">
                     Our extended day program is available from 7:00 AM to 6:00 PM for an additional fee. Rates are $8
                     per hour or $250 per month for full-time care. Registration for this program is separate from school
                     registration.
@@ -231,7 +231,7 @@ export default function TuitionPage() {
                   <div className="mt-2">
                     <div className="h-1 w-12 bg-amber-500"></div>
                   </div>
-                  <p className="mt-4 text-primary-600">
+                  <p className="mt-4 text-amber-600">
                     Each family is required to participate in our fundraising efforts by either raising $300 through our
                     various fundraisers or making a direct donation of $300 to the school.
                   </p>
@@ -249,7 +249,7 @@ export default function TuitionPage() {
           <div className="mt-4 flex justify-center">
             <div className="h-1 w-20 bg-amber-500"></div>
           </div>
-          <p className="mt-8 max-w-3xl mx-auto text-center text-primary-600">
+          <p className="mt-8 max-w-3xl mx-auto text-center text-amber-600">
             Candelaria Institute&apos;s offers several payment options to accommodate family budgets. All tuition payments are
             processed through FACTS Tuition Management.
           </p>
@@ -264,7 +264,7 @@ export default function TuitionPage() {
                     </div>
                   </div>
                   <h3 className="font-serif text-xl font-bold text-center text-slate-600">Annual Payment</h3>
-                  <div className="mt-4 text-primary-600">
+                  <div className="mt-4 text-amber-600">
                     <p className="text-center">
                       Pay the full tuition amount by July 1, 2024, and receive a 3% discount on tuition.
                     </p>
@@ -279,7 +279,7 @@ export default function TuitionPage() {
                     </div>
                   </div>
                   <h3 className="font-serif text-xl font-bold text-center text-slate-600">Semi-Annual Payment</h3>
-                  <div className="mt-4 text-primary-600">
+                  <div className="mt-4 text-amber-600">
                     <p className="text-center">
                       Pay tuition in two equal installments due on July 1, 2024, and January 1, 2025, and receive a 1.5%
                       discount on tuition.
@@ -295,7 +295,7 @@ export default function TuitionPage() {
                     </div>
                   </div>
                   <h3 className="font-serif text-xl font-bold text-center text-slate-600">Monthly Payment</h3>
-                  <div className="mt-4 text-primary-600">
+                  <div className="mt-4 text-amber-600">
                     <p className="text-center">
                       Pay tuition in 10 monthly installments from July 2024 through April 2025. A $45 annual fee applies
                       for this payment plan.
@@ -317,7 +317,7 @@ export default function TuitionPage() {
               <div className="mt-4">
                 <div className="h-1 w-20 bg-amber-500"></div>
               </div>
-              <div className="mt-8 space-y-4 text-primary-600">
+              <div className="mt-8 space-y-4 text-amber-600">
                 <p>
                   Candelaria Institute&apos;s is committed to making Catholic education accessible to all families who desire
                   it for their children. We offer financial aid to families who demonstrate financial need.
@@ -403,7 +403,7 @@ export default function TuitionPage() {
             ].map((item, index) => (
               <div key={index} className="bg-white p-6 rounded-lg shadow-md">
                 <h3 className="font-serif text-lg font-bold text-slate-600">{item.question}</h3>
-                <p className="mt-2 text-primary-600">{item.answer}</p>
+                <p className="mt-2 text-amber-600">{item.answer}</p>
               </div>
             ))}
           </div>

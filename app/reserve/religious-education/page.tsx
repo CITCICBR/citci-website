@@ -33,7 +33,7 @@ export default function ReligiousEducationPage() {
                         <div className="mt-4 flex justify-center">
                             <div className="h-1 w-20 bg-amber-500"></div>
                         </div>
-                        <div className="mt-8 space-y-4 text-primary-600">
+                        <div className="mt-8 space-y-4 text-amber-600">
                             <p>
                                 At St. Mary's Catholic School, religious education is not just a subject—it's the foundation of our
                                 educational mission. We integrate Catholic teachings and values throughout our curriculum and school
@@ -60,7 +60,7 @@ export default function ReligiousEducationPage() {
                             <div className="mt-4">
                                 <div className="h-1 w-20 bg-amber-500"></div>
                             </div>
-                            <div className="mt-8 space-y-4 text-primary-600">
+                            <div className="mt-8 space-y-4 text-amber-600">
                                 <p>
                                     Our comprehensive religious education curriculum follows the guidelines of the Diocese and is rooted
                                     in Sacred Scripture, the Catechism of the Catholic Church, and the rich traditions of our faith. The
@@ -108,7 +108,7 @@ export default function ReligiousEducationPage() {
                             <div className="mt-4">
                                 <div className="h-1 w-20 bg-amber-500"></div>
                             </div>
-                            <div className="mt-8 space-y-4 text-primary-600">
+                            <div className="mt-8 space-y-4 text-amber-600">
                                 <p>
                                     In partnership with parents and parishes, St. Mary's provides preparation for the sacraments of
                                     Reconciliation, First Holy Communion, and Confirmation. Our sacramental preparation programs include:
@@ -208,7 +208,7 @@ export default function ReligiousEducationPage() {
                     <div className="mt-4 flex justify-center">
                         <div className="h-1 w-20 bg-amber-500"></div>
                     </div>
-                    <p className="mt-8 max-w-3xl mx-auto text-center text-primary-600">
+                    <p className="mt-8 max-w-3xl mx-auto text-center text-amber-600">
                         At St. Mary's, faith formation extends beyond formal religious education classes to include a variety of
                         experiences that nurture spiritual growth.
                     </p>
@@ -219,7 +219,7 @@ export default function ReligiousEducationPage() {
                             <div className="mt-2">
                                 <div className="h-1 w-12 bg-amber-500"></div>
                             </div>
-                            <p className="mt-4 text-primary-600">
+                            <p className="mt-4 text-amber-600">
                                 Students participate in age-appropriate retreats throughout the year, providing opportunities for
                                 spiritual reflection, community building, and personal growth. These retreats are designed to help
                                 students deepen their relationship with God and one another.
@@ -230,7 +230,7 @@ export default function ReligiousEducationPage() {
                             <div className="mt-2">
                                 <div className="h-1 w-12 bg-amber-500"></div>
                             </div>
-                            <p className="mt-4 text-primary-600">
+                            <p className="mt-4 text-amber-600">
                                 Through our service learning program, students engage in projects that address real community needs
                                 while developing a deeper understanding of Catholic social teaching. These experiences help students
                                 recognize the dignity of every person and their responsibility to serve others.
@@ -241,7 +241,7 @@ export default function ReligiousEducationPage() {
                             <div className="mt-2">
                                 <div className="h-1 w-12 bg-amber-500"></div>
                             </div>
-                            <p className="mt-4 text-primary-600">
+                            <p className="mt-4 text-amber-600">
                                 Throughout the liturgical year, students participate in special prayer services that help them
                                 understand and celebrate the seasons and feasts of the Church. These include Advent and Lenten services,
                                 Stations of the Cross, May Crowning, and Living Rosary.
@@ -252,7 +252,7 @@ export default function ReligiousEducationPage() {
                             <div className="mt-2">
                                 <div className="h-1 w-12 bg-amber-500"></div>
                             </div>
-                            <p className="mt-4 text-primary-600">
+                            <p className="mt-4 text-amber-600">
                                 Our Faith Families program groups students from different grade levels together for special activities
                                 and service projects. Led by eighth-grade students, these multi-age groups foster mentorship,
                                 community-building, and shared faith experiences across the school.
@@ -279,7 +279,7 @@ export default function ReligiousEducationPage() {
                             <div className="mt-4">
                                 <div className="h-1 w-20 bg-amber-500"></div>
                             </div>
-                            <div className="mt-8 space-y-4 text-primary-600">
+                            <div className="mt-8 space-y-4 text-amber-600">
                                 <p>
                                     We recognize that parents are the primary educators of their children in the faith. Our religious
                                     education program is designed to support and complement the faith formation that happens in the home.

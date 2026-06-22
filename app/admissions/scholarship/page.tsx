@@ -40,7 +40,7 @@ export default function ScholarshipPage() {
                         <div className="mt-4 flex justify-center">
                             <div className="h-1 w-20 bg-amber-500"></div>
                         </div>
-                        <div className="mt-8 space-y-4 text-primary-600">
+                        <div className="mt-8 space-y-4 text-amber-600">
                             <p>
                                 Candelaria Institute is committed to making quality education accessible to all.
                             </p>
@@ -73,7 +73,7 @@ export default function ScholarshipPage() {
                                         </div>
                                     </div>
                                     <h3 className="font-serif text-xl font-bold text-center text-slate-600">{scholarship.title}</h3>
-                                    <p className="mt-4 text-center text-primary-600">{scholarship.description}</p>
+                                    <p className="mt-4 text-center text-amber-600">{scholarship.description}</p>
                                 </CardContent>
                             </Card>
                         ))}

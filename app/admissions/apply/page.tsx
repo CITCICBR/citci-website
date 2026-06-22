@@ -14,7 +14,7 @@ export default function ApplyPage() {
       {items.map((item, i) => (
         <li key={i} className="flex items-start">
           <CheckCircle2 className="h-5 w-5 text-amber-500 mt-0.5 mr-3" />
-          <span className="text-primary-600">{item}</span>
+          <span className="text-amber-600">{item}</span>
         </li>
       ))}
     </ul>
@@ -39,7 +39,7 @@ export default function ApplyPage() {
         <div className="mt-6 grid grid-cols-1 md:grid-cols-2 gap-8">
           {Object.entries(categories).map(([cat, items]) => (
             <div key={cat}>
-              <h4 className="text-lg font-semibold text-primary-600">{cat}</h4>
+              <h4 className="text-lg font-semibold text-amber-600">{cat}</h4>
               <RequirementList items={items} />
             </div>
           ))}
@@ -79,7 +79,7 @@ export default function ApplyPage() {
             <div className="mt-4 flex justify-center">
               <div className="h-1 w-20 bg-amber-500"></div>
             </div>
-            <div className="mt-8 space-y-4 text-primary-600">
+            <div className="mt-8 space-y-4 text-amber-600">
               <p>
                 Thank you for your interest in Candelaria Institute. Follow the steps below to complete your enrollment. Ensure
                 that all requirements are submitted as outlined.
@@ -104,7 +104,7 @@ export default function ApplyPage() {
                     </div>
                     <div className={`mx-4 md:mx-8 md:w-[calc(40%-4rem)] ${index % 2 === 0 ? "md:text-right" : ""}`}>
                       <h3 className="font-serif text-xl font-bold text-slate-600">{step.title}</h3>
-                      <p className="mt-2 text-primary-600 text-sm leading-relaxed">{step.description}</p>
+                      <p className="mt-2 text-amber-600 text-sm leading-relaxed">{step.description}</p>
                     </div>
                   </div>
                 </div>
@@ -124,7 +124,7 @@ export default function ApplyPage() {
           <div className="mt-4 flex justify-center">
             <div className="h-1 w-20 bg-amber-500" />
           </div>
-          <p className="mt-8 max-w-3xl mx-auto text-center text-primary-600">
+          <p className="mt-8 max-w-3xl mx-auto text-center text-amber-600">
             Please prepare the following documents and requirements according to your student category.
           </p>
 
