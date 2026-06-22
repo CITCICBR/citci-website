@@ -11,7 +11,10 @@ public_folder: /images
 collections:
   - name: site
     label: Site Settings
-    file: content/site.json
+    files:
+      - file: content/site.json
+        name: site
+        label: Site Settings
     fields:
       - { label: Site Title, name: title, widget: string }
       - { label: Description, name: description, widget: text }
@@ -20,7 +23,10 @@ collections:
 
   - name: header
     label: Navigation
-    file: content/header.json
+    files:
+      - file: content/header.json
+        name: header
+        label: Navigation
     fields:
       - label: School Info
         name: school
@@ -45,7 +51,10 @@ collections:
 
   - name: footer
     label: Footer
-    file: content/footer.json
+    files:
+      - file: content/footer.json
+        name: footer
+        label: Footer
     fields:
       - label: School
         name: school
@@ -90,7 +99,10 @@ collections:
 
   - name: home
     label: Home Page
-    file: content/home.json
+    files:
+      - file: content/home.json
+        name: home
+        label: Home Page
     fields:
       - label: Welcome Section
         name: welcomeContent
@@ -171,7 +183,10 @@ collections:
 
   - name: global
     label: Global Content
-    file: content/global.json
+    files:
+      - file: content/global.json
+        name: global
+        label: Global Content
     fields:
       - label: Accreditation
         name: accreditation
@@ -201,7 +216,10 @@ collections:
 
   - name: carsouels
     label: Carousels
-    file: content/carousels.json
+    files:
+      - file: content/carousels.json
+        name: carsouels
+        label: Carousels
     fields:
       - label: Hero Slides
         name: hero
@@ -233,7 +251,10 @@ collections:
 
   - name: about
     label: About
-    file: content/about/data.json
+    files:
+      - file: content/about/data.json
+        name: about
+        label: About
     fields:
       - label: Hero
         name: heroContent
@@ -302,7 +323,10 @@ collections:
 
   - name: contact
     label: Contact
-    file: content/contact/contact.json
+    files:
+      - file: content/contact/contact.json
+        name: contact
+        label: Contact
     fields:
       - label: Hero
         name: heroSection
@@ -335,7 +359,10 @@ collections:
 
   - name: events
     label: News & Events
-    file: content/news-events/events.json
+    files:
+      - file: content/news-events/events.json
+        name: events
+        label: News & Events
     fields:
       - label: Events
         name: eventsList
@@ -352,7 +379,10 @@ collections:
 
   - name: programs
     label: Programs
-    file: content/academics/curriculum/programs.json
+    files:
+      - file: content/academics/curriculum/programs.json
+        name: programs
+        label: Programs
     fields:
       - label: Curriculum Overview
         name: curriculumOverviewContent
@@ -377,7 +407,10 @@ collections:
 
   - name: calendar
     label: Calendar
-    file: content/academics/calendar/calendar.json
+    files:
+      - file: content/academics/calendar/calendar.json
+        name: calendar
+        label: Calendar
     fields:
       - label: Events
         name: calendarEvents
@@ -391,7 +424,10 @@ collections:
 
   - name: apply
     label: Admissions - Apply
-    file: content/admissions/apply/apply.json
+    files:
+      - file: content/admissions/apply/apply.json
+        name: apply
+        label: Admissions - Apply
     fields:
       - label: Enrollment Steps
         name: enrollmentSteps
@@ -412,7 +448,10 @@ collections:
 
   - name: scholarship
     label: Admissions - Scholarship
-    file: content/admissions/scholarship/scholarship.json
+    files:
+      - file: content/admissions/scholarship/scholarship.json
+        name: scholarship
+        label: Admissions - Scholarship
     fields:
       - label: Scholarships
         name: scholarshipContent
@@ -423,7 +462,10 @@ collections:
 
   - name: library
     label: Library
-    file: content/library/data.json
+    files:
+      - file: content/library/data.json
+        name: library
+        label: Library
     fields:
       - label: Guidelines
         name: libraryGuidelines
