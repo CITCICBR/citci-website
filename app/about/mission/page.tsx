@@ -1,6 +1,6 @@
 import FadeIn from "@/components/fadein-transition"
 import Image from "next/image"
-import mission from "../data.json"
+import mission from "@/content/about/data.json"
 import PageCTA from "@/components/page-cta"
 
 export default function MissionPage() {

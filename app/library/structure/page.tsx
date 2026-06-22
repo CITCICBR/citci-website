@@ -1,7 +1,7 @@
 import Image from "next/image"
 import FadeIn from "@/components/fadein-transition"
 import ContentSection from "@/components/section"
-import structure from "../data.json"
+import structure from "@/content/library/data.json"
 export default function StructurePage() {
 
     const {structureContent} = structure

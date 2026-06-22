@@ -1,6 +1,6 @@
 import FadeIn from "@/components/fadein-transition"
 import Image from "next/image"
-import services from "../data.json"
+import services from "@/content/library/data.json"
 import PageCTA from "@/components/page-cta"
 export default function LibraryPage() {
 

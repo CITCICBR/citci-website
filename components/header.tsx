@@ -9,7 +9,7 @@ import { Button } from "@/components/ui/button"
 import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from "@/components/ui/dropdown-menu"
 import { cn } from "@/lib/utils"
 import { CommandBar } from "./command-bar"
-import search from "../app/search/data.json"
+import search from "@/content/search/data.json"
 
 const navigation = [
   { name: "Home", href: "/" },

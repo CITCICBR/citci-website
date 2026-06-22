@@ -1,0 +1,214 @@
+{
+    "libraryGuidelines": [
+        {
+            "title": "Introduction",
+            "paragraphs": [
+                "Welcome to CITCI Library. Our mission is to provide a welcoming space for learning, research, and community engagement. These policies and guidelines are designed to ensure that all patrons have a positive experience and that the library operates efficiently and effectively."
+            ]
+        },
+        {
+            "title": "Library Hours",
+            "paragraphs": [
+                "Standard Hours: Monday - Friday: 8:00 AM - 5:00 PM, Saturday - Sunday: Closed",
+                "Holiday Hours: The library will be closed."
+            ]
+        },
+        {
+            "title": "Borrowing Policies",
+            "paragraphs": [
+                "Library cards are available to CITCI Library patrons for a fee. School ID and proof of address are required for registration."
+            ],
+            "list": [
+                "Books: 2-week loan period",
+                "Reference Materials: In-library use only",
+                "Renewals: Items may be renewed up to two times if no holds have been placed. Renewals can be done in person.",
+                "Returns: Items must be returned by the due date to avoid late fees. A book drop is available for after-hours returns."
+            ]
+        },
+        {
+            "title": "Fees and Fines",
+            "paragraphs": [
+                "Late Fees: 5 per day for each overdue item.",
+                "Lost or Damaged Items: Patrons will be charged the replacement cost plus a processing fee of $[amount]."
+            ]
+        },
+        {
+            "title": "Conduct and Behavior",
+            "paragraphs": [
+                "All patrons must behave respectfully toward others. Disruptive behavior will not be tolerated.",
+                "No food is allowed in the library. Drinks must be in spill-proof containers."
+            ],
+            "list": [
+                "Quiet Zones: Designated areas are available for quiet study. Mobile phones should be silenced or turned off in these areas.",
+                "Meeting Rooms: Available for reservation by community groups and individuals. Please see the front desk for availability and booking procedures.",
+                "Internet Access: Computers and internet access are available on a first-come, first-served basis. Printing services are available for a fee of $[amount] per page.",
+                "Use Policy: Internet access is for educational and research purposes. Inappropriate or illegal activities are prohibited."
+            ]
+        },
+        {
+            "title": "Safety and Security",
+            "paragraphs": [
+                "Familiarize yourself with the library’s emergency exits and procedures. In case of an emergency, follow staff instructions.",
+                "The library is not responsible for lost or stolen items. Patrons are encouraged to keep personal belongings with them at all times."
+            ]
+        },
+        {
+            "title": "Accessibility",
+            "paragraphs": [
+                "The library is committed to providing accessible services and facilities. If you require special accommodations, please speak to a staff member for assistance."
+            ]
+        },
+        {
+            "title": "Feedback and Complaints",
+            "paragraphs": [
+                "We welcome feedback on any aspect of library services. Suggestions can be submitted via our website or in writing to the library director.",
+                "Complaints should be directed to the library director in writing. The library will address concerns promptly and fairly."
+            ]
+        },
+        {
+            "title": "Amendments",
+            "paragraphs": [
+                "The library reserves the right to amend these policies and guidelines as needed. Any changes will be communicated to patrons via our website and notice boards."
+            ]
+        }
+    ],
+    "vision": {
+        "title": "Our Vision",
+        "quote": "CITCI envisions morally, spirituality, intellectuality formed and digital savvy graduates who promote life, environment. ",
+        "paragraphs": [
+            "The CITCI Library envisions graduates who are morally upright, spiritually grounded, intellectually equipped, and digitally adept—champions of life and environmental care in their communities."
+        ]
+    },
+    "mission": {
+        "title": "Our Mission",
+        "quote": "The library well be a user, centric hub information, learning and creativity that engaged the campus and the broader community.",
+        "paragraphs": [
+            "The library serves as a user-centered hub for information, learning, and creativity, fostering engagement within the campus and the wider community to support academic excellence and personal growth."
+        ]
+    },
+    "structureContent": [
+        {
+            "id":"president",
+            "heading": "President",
+            "intro": "Meet the visionary leader guiding the mission and direction of our institution.",
+            "members": [
+                {
+                    "name": "Rev. Fr. Marlon Lacal",
+                    "position": "School President",
+                    "image": "/images/faculty/lacal-m.jpg"
+                }
+            ]
+        },
+        {
+            "id":"academic-head",
+            "heading": "Academic Head",
+            "intro": "Get to know the academic leaders dedicated to nurturing and educating our young learners.",
+            "members": [
+                {
+                    "name": "Maria Lavella J. Torregosa",
+                    "position": "Academic Head",
+                    "image": "/images/faculty/torregosa-ml.jpg"
+                }
+            ]
+        },
+        {
+            "id":"osas",
+            "heading": "OSAS",
+            "intro": "Meet the personnel ensuring holistic student development through support and services.",
+            "members": [
+                {
+                    "name": "Charlot Dacera",
+                    "position": "OSAS",
+                    "image": "/images/faculty/dacera-c.jpg"
+                }
+            ]
+        },
+        {
+            "id":"librarian",
+            "heading": "Librarian",
+            "intro": "Introducing our librarian who ensures access to knowledge and resources for the school community.",
+            "members": [
+                {
+                    "name": "Christian James P. Quimzon",
+                    "position": "Librarian",
+                    "image": "/images/faculty/quimzon-c.jpg"
+                }
+            ]
+        },
+        {
+            "id":"library-staff",
+            "heading": "Library Staff",
+            "intro": "Meet our dedicated library staff who support learning through resource management and student assistance.",
+            "members": [
+                {
+                    "name": "Marie Jean P. Dagandara",
+                    "position": "Library Staff",
+                    "image": "/images/faculty/dagandara-m.jpg"
+                },
+                {
+                    "name": "Riza O. Sagaysay",
+                    "position": "Library Staff",
+                    "image": "/images/faculty/sagaysay-r.jpg"
+                }
+            ]
+        }
+    ],
+    "libraryCollection": [
+        {
+            "id": 1,
+            "name": "Business, Economics & Management",
+            "description": "Explore the world of finance, entrepreneurship, marketing, and organizational strategy. This category delves into how businesses operate, make decisions, and create value in a global economy."
+        },
+        {
+            "id": 2,
+            "name": "Chemical & Material Sciences",
+            "description": "Uncover the secrets of matter and materials—from atomic interactions to innovative compounds. Focus areas include chemistry, nanotechnology, and the development of advanced materials for industry and medicine."
+        },
+        {
+            "id": 3,
+            "name": "Engineering & Computer Science",
+            "description": "Dive into the design, building, and optimization of systems—from physical machines to complex software. Topics span programming, AI, robotics, electrical and civil engineering, and more."
+        },
+        {
+            "id": 4,
+            "name": "Health & Medical Sciences",
+            "description": "Understand the science of human health and disease. This category covers medicine, public health, medical technology, and the biological mechanisms behind health and treatment."
+        },
+        {
+            "id": 5,
+            "name": "Humanities, Literature & Arts",
+            "description": "Engage with human culture through history, philosophy, languages, literature, and the arts. Analyze how people express meaning and interpret the world around them."
+        },
+        {
+            "id": 6,
+            "name": "Life Sciences & Earth Sciences",
+            "description": "Study life in all its forms and the planet it inhabits. From biology and ecology to geology and environmental science, this category reveals the complexity and beauty of nature and ecosystems."
+        },
+        {
+            "id": 7,
+            "name": "Physics & Mathematics",
+            "description": "Examine the foundational laws of the universe through theoretical and applied math and physics. Topics include quantum mechanics, relativity, calculus, and statistical models."
+        },
+        {
+            "id": 8,
+            "name": "Social Sciences",
+            "description": "Investigate human behavior, society, and relationships. This category includes psychology, sociology, anthropology, economics, and political science—exploring how people interact and govern."
+        }
+    ],
+    "callToActionContent": {
+        "heading": "Ready to Join Our Community?",
+        "description": "We invite you to take the next step in providing your child with an exceptional Catholic education. Contact our Admissions Office to schedule a tour or apply today.",
+        "buttons": [
+            {
+                "label": "Enroll Now",
+                "href": "/admissions/apply",
+                "style": "primary"
+            },
+            {
+                "label": "Contact Us",
+                "href": "/contact",
+                "style": "secondary"
+            }
+        ]
+    }
+}

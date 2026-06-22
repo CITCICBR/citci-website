@@ -8,7 +8,7 @@ import { Label } from "@/components/ui/label"
 import { Card, CardContent } from "@/components/ui/card"
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select"
 import FadeIn from "@/components/fadein-transition"
-import contactData from './contact.json';
+import contactData from '@/content/contact/contact.json';
 import PageCTA from "@/components/page-cta"
 
 export default function ContactPage() {

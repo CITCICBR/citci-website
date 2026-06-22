@@ -8,8 +8,8 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import FadeIn from "@/components/fadein-transition";
-import calendar from "./calendar.json";
-import selectedEvents from "./selected-events.json";
+import calendar from "@/content/academics/calendar/calendar.json";
+import selectedEvents from "@/content/academics/calendar/selected-events.json";
 import {
   TooltipTrigger,
   TooltipContent,
