@@ -76,7 +76,7 @@ export default function Header() {
               </div>
               <div className="hidden md:block">
                 <p className="font-serif text-lg font-bold text-slate-600">Candelaria Institute of Technology</p>
-                <p className="text-xs text-primary-600">CITCI Cabadbaran City</p>
+                <p className="text-xs text-amber-600">CITCI Cabadbaran City</p>
               </div>
             </div>
           </Link>
