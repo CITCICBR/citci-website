@@ -24,7 +24,7 @@ export default function Header() {
 
   return (
     <header className="sticky top-0 z-50 w-full border-b bg-white">
-      <nav className="container-fluid mx-auto flex items-center justify-between p-4 lg:px-8" aria-label="Global">
+      <nav className="w-full mx-auto flex items-center justify-between p-4 lg:px-8" aria-label="Global">
         <div className="flex lg:flex-1">
           <Link href="/" className="-m-1.5 p-1.5">
             <span className="sr-only">{headerData.school.name}</span>

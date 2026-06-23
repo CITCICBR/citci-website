@@ -45,7 +45,7 @@ const activities = [
 
 export default function ActivitiesCarousel() {
     return (
-        <div className="w-full max-w-9xl mx-auto">
+        <div className="w-full max-w-7xl mx-auto">
             <Carousel className="w-full">
                 <CarouselContent>
                     {activities.map((item, index) => (
