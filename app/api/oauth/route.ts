@@ -60,7 +60,7 @@ export async function GET(request: NextRequest) {
 <head><title>Login successful</title></head>
 <body>
 <script>
-  window.opener.postMessage('success:${accessToken}', '*');
+  window.opener.postMessage('authorization:github:success:${JSON.stringify({ access_token: accessToken })}', '*');
   window.close();
 </script>
 </body>
