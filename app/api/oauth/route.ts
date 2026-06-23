@@ -15,10 +15,15 @@ export async function GET(request: NextRequest) {
       return new Response("GITHUB_CLIENT_ID not configured", { status: 500 })
     }
 
+    const state = searchParams.get("state") || ""
+
     const githubAuthUrl = new URL("https://github.com/login/oauth/authorize")
     githubAuthUrl.searchParams.set("client_id", clientId)
     githubAuthUrl.searchParams.set("redirect_uri", redirectUri)
     githubAuthUrl.searchParams.set("scope", "repo")
+    if (state) {
+      githubAuthUrl.searchParams.set("state", state)
+    }
 
     return NextResponse.redirect(githubAuthUrl)
   }
@@ -55,17 +60,8 @@ export async function GET(request: NextRequest) {
 <head><title>Login successful</title></head>
 <body>
 <script>
-  (function() {
-    function receiveMessage(message) {
-      window.opener.postMessage(
-        'token: ${accessToken}',
-        message.origin || '*'
-      );
-      window.close();
-    }
-    window.addEventListener('message', receiveMessage, false);
-    window.opener.postMessage('authorizing:${accessToken}', '*');
-  })();
+  window.opener.postMessage('token: ${accessToken}', '*');
+  window.close();
 </script>
 </body>
 </html>`
