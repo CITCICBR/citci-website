@@ -5,46 +5,101 @@
     "logo": "/images/logo.png"
   },
   "navigation": [
-    { "name": "Home", "href": "/" },
+    {
+      "name": "Home",
+      "href": "/"
+    },
     {
       "name": "About Us",
       "href": "/about",
       "submenu": [
-        { "name": "History", "href": "/about/history" },
-        { "name": "Mission & Vision", "href": "/about/mission" },
-        { "name": "Administration", "href": "/about/administration" },
-        { "name": "Facilities", "href": "/about/facilities" },
-        { "name": "Alumni Association", "href": "/about/alumni" }
+        {
+          "name": "History",
+          "href": "/about/history"
+        },
+        {
+          "name": "Mission & Vision",
+          "href": "/about/mission"
+        },
+        {
+          "name": "Administration",
+          "href": "/about/administration"
+        },
+        {
+          "name": "Facilities",
+          "href": "/about/facilities"
+        },
+        {
+          "name": "Alumni Association",
+          "href": "/about/alumni"
+        }
       ]
     },
     {
       "name": "Academics",
       "href": "/academics",
       "submenu": [
-        { "name": "Curriculum", "href": "/academics/curriculum" },
-        { "name": "Calendar", "href": "/academics/calendar" }
+        {
+          "name": "Curriculum",
+          "href": "/academics/curriculum"
+        },
+        {
+          "name": "Calendar",
+          "href": "/academics/calendar"
+        }
       ]
     },
     {
       "name": "Library",
       "href": "/library",
       "submenu": [
-        { "name": "Mission & Vision", "href": "/library/mission" },
-        { "name": "Guidelines", "href": "/library/guidelines" },
-        { "name": "Services", "href": "/library/services" },
-        { "name": "Structure", "href": "/library/structure" },
-        { "name": "Explore Zendy", "href": "/library/zendy" }
+        {
+          "name": "Mission & Vision",
+          "href": "/library/mission"
+        },
+        {
+          "name": "Guidelines",
+          "href": "/library/guidelines"
+        },
+        {
+          "name": "Services",
+          "href": "/library/services"
+        },
+        {
+          "name": "Structure",
+          "href": "/library/structure"
+        },
+        {
+          "name": "Explore Zendy",
+          "href": "/library/zendy"
+        }
       ]
     },
     {
       "name": "Admissions",
       "href": "/admissions",
       "submenu": [
-        { "name": "Enroll Now", "href": "/admissions/apply" },
-        { "name": "Scholarship", "href": "/admissions/scholarship" }
+        {
+          "name": "Enroll Now",
+          "href": "/admissions/apply"
+        },
+        {
+          "name": "Scholarship",
+          "href": "/admissions/scholarship"
+        }
       ]
     },
-    { "name": "News & Events", "href": "/news-events" },
-    { "name": "Contact", "href": "/contact" }
+    {
+      "name": "News & Events",
+      "href": "/news-events"
+    },
+    {
+      "name": "Contact",
+      "href": "/contact"
+    },
+    {
+      "name": "Test",
+      "href": "google.com"
+    }
   ]
 }
