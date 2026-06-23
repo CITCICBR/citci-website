@@ -1,6 +1,60 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+@plugin "tailwindcss-animate";
+@source "./components/";
+@source "./app/";
+@custom-variant dark (&:is(.dark *));
+
+@theme {
+  --color-border: hsl(var(--border));
+  --color-input: hsl(var(--input));
+  --color-ring: hsl(var(--ring));
+  --color-background: hsl(var(--background));
+  --color-foreground: hsl(var(--foreground));
+  --color-primary: hsl(var(--primary));
+  --color-primary-foreground: hsl(var(--primary-foreground));
+  --color-secondary: hsl(var(--secondary));
+  --color-secondary-foreground: hsl(var(--secondary-foreground));
+  --color-destructive: hsl(var(--destructive));
+  --color-destructive-foreground: hsl(var(--destructive-foreground));
+  --color-muted: hsl(var(--muted));
+  --color-muted-foreground: hsl(var(--muted-foreground));
+  --color-accent: hsl(var(--accent));
+  --color-accent-foreground: hsl(var(--accent-foreground));
+  --color-popover: hsl(var(--popover));
+  --color-popover-foreground: hsl(var(--popover-foreground));
+  --color-card: hsl(var(--card));
+  --color-card-foreground: hsl(var(--card-foreground));
+
+  --color-sky-50: #f2f6ff;
+  --color-sky-100: #dce7ff;
+  --color-sky-200: #b3c9ff;
+  --color-sky-300: #8aabff;
+  --color-sky-400: #618dff;
+  --color-sky-500: #4169e1;
+
+  --color-amber-50: #fff8eb;
+  --color-amber-100: #feecbf;
+  --color-amber-200: #fcd88e;
+  --color-amber-300: #fac255;
+  --color-amber-400: #faae27;
+  --color-amber-500: #f59f0a;
+  --color-amber-600: #d98208;
+
+  --color-slate-50: #e0f2ff;
+  --color-slate-100: #bcd9ff;
+  --color-slate-400: #4f83cc;
+  --color-slate-500: #4169e1;
+  --color-slate-600: #355bc7;
+  --color-slate-700: #2d4fa7;
+  --color-slate-800: #253f86;
+
+  --font-family-sans: var(--font-sans);
+  --font-family-serif: var(--font-serif);
+
+  --radius-lg: 0.5rem;
+  --radius-md: calc(0.5rem - 2px);
+  --radius-sm: calc(0.5rem - 4px);
+}
 
 @layer base {
   :root {
@@ -48,23 +102,22 @@
     --ring: 38 92% 50%;
     --radius: 0.5rem;
   }
-}
 
-@layer base {
   * {
-    @apply border-border;
-  }
-  body {
-    @apply bg-background text-foreground;
+    border-color: hsl(var(--border));
   }
 
-  /* Custom font styles */
+  body {
+    background-color: hsl(var(--background));
+    color: hsl(var(--foreground));
+  }
+
   h1,
   h2,
   h3,
   h4,
   h5,
   h6 {
-    @apply font-serif;
+    font-family: var(--font-serif);
   }
 }
