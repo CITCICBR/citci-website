@@ -96,6 +96,10 @@
     {
       "name": "Contact",
       "href": "/contact"
+    },
+    {
+      "name": "Test",
+      "href": "google.com"
     }
   ]
 }
