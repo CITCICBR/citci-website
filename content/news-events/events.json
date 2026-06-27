@@ -109,16 +109,6 @@
       "category": "Special",
       "link": "https://www.facebook.com/story.php?story_fbid=24650316391223951&id=100000167955162&rdid=wJRiFcmnClf4nHPE#",
       "image": "/images/events/budget-hearing.jpg"
-    },
-    {
-      "id": "event-01",
-      "title": "Test Event",
-      "excerpt": "Test For the CMS",
-      "date": "June 23, 2026",
-      "author": "Mark Lester",
-      "category": "Special",
-      "link": "https://citci.vercel.app/",
-      "image": "https://citci.vercel.app/images/logo.png"
     }
   ],
   "callToActionContent": {
