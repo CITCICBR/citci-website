@@ -119,16 +119,6 @@
       "category": "Special",
       "link": "https://citci.vercel.app/",
       "image": "https://citci.vercel.app/images/logo.png"
-    },
-    {
-      "id": "sample 01",
-      "title": "test 01",
-      "excerpt": "test 01",
-      "date": "june 27, 2026",
-      "author": "jim",
-      "category": "test 01",
-      "link": "www.google.com",
-      "image": "/images/banner-1.png"
     }
   ],
   "callToActionContent": {
