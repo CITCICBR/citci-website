@@ -55,7 +55,7 @@ export default function NewsEventsPage() {
         <div className="container mx-auto px-4">
           <div className="flex flex-col gap-8">
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-              {eventsData.eventsList.map((item) => (
+              {eventsData.eventsList.reverse().map((item) => (
                 <div
                   key={item.id}
                   className="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow"
